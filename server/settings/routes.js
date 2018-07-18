@@ -14,11 +14,11 @@ module.exports = [
     route: '/rest',
     router: 'api'
   },
-  {
-    name: 'determinator',
-    route: '/determinator',
-    router: 'router'
-  },
+  // {
+  //   name: 'determinator',
+  //   route: '/determinator',
+  //   router: 'router'
+  // },
   {
     name: 'search',
     route: '/search',
@@ -31,12 +31,12 @@ module.exports = [
   },
   {
     name: 'temp',
-    route: '/temp',
+    route: '/',
     router: 'router'
   },
-  {
-    name: 'admin',
-    route: '/admin',
-    router: 'router'
-  }
+  // {
+  //   name: 'admin',
+  //   route: '/admin',
+  //   router: 'router'
+  // }
 ];
