@@ -7,6 +7,7 @@
     "description": "When overriding the 'finalize()' Method, a call to 'super.finalize()' is necessary.",
     "output": "This report lists all Methods overriding 'finalize()' and not calling 'super.finalize()'. It provides the following information: Method full name",
     "rationale": "A call to 'super.finalize()' ensures the finalize behavior will still work.",
+    "reference": "https://cwe.mitre.org/data/definitions/568.html",
     "remediation": "Review the Method's definition.",
     "businessCriteria": [
         {

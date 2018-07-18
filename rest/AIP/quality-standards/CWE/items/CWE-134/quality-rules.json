@@ -3,6 +3,7 @@
         "id": 8098,
         "name": "CWE-134: Avoid uncontrolled format string",
         "href": "AIP/quality-rules/8098",
+        "status": null,
         "critical": true
     }
 ]

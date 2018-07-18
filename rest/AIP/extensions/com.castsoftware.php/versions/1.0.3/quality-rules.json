@@ -2,6 +2,7 @@
     {
         "id": 1007000,
         "name": "Avoid Sections directly access to database tables (PHP)",
+        "href": null,
         "status": "deprecated",
         "critical": false
     },
@@ -141,6 +142,7 @@
     {
         "id": 1007040,
         "name": "Avoid classes having too many parents (PHP)",
+        "href": null,
         "status": "deprecated",
         "critical": false
     },
@@ -259,6 +261,7 @@
     {
         "id": 1007084,
         "name": "Avoid uppercase keywords for control structures in Sections(PHP)",
+        "href": null,
         "status": "deprecated",
         "critical": false
     },
@@ -517,18 +520,21 @@
     {
         "id": 1007160,
         "name": "Avoid using variable without testing them for initialisation (PHP)",
+        "href": null,
         "status": "deprecated",
         "critical": true
     },
     {
         "id": 1007162,
         "name": "Avoid having lonely variables (PHP)",
+        "href": null,
         "status": "deprecated",
         "critical": false
     },
     {
         "id": 1007164,
         "name": "Avoid functions having the optional parameters before the others (PHP)",
+        "href": null,
         "status": "deprecated",
         "critical": true
     },
@@ -563,6 +569,7 @@
     {
         "id": 1007174,
         "name": "Avoid having the assignment to \"$this\" (PHP)",
+        "href": null,
         "status": "deprecated",
         "critical": false
     },
@@ -576,6 +583,7 @@
     {
         "id": 1007178,
         "name": "Avoid using \"print\" function",
+        "href": null,
         "status": "deprecated",
         "critical": false
     },
@@ -589,6 +597,7 @@
     {
         "id": 1007182,
         "name": "Avoid using double quote  for long strings without variables",
+        "href": null,
         "status": "deprecated",
         "critical": false
     },
@@ -602,6 +611,7 @@
     {
         "id": 1007188,
         "name": "Avoid using regular expressions",
+        "href": null,
         "status": "deprecated",
         "critical": false
     },
@@ -622,6 +632,7 @@
     {
         "id": 1007196,
         "name": "Avoid using period for echo function",
+        "href": null,
         "status": "deprecated",
         "critical": false
     },
@@ -635,6 +646,7 @@
     {
         "id": 1007204,
         "name": "Avoid passing the variables of a function by reference(PHP)",
+        "href": null,
         "status": "deprecated",
         "critical": false
     },
@@ -655,6 +667,7 @@
     {
         "id": 1007214,
         "name": "Avoid using arrays as parameters of str functions (PHP)",
+        "href": null,
         "status": "deprecated",
         "critical": false
     },

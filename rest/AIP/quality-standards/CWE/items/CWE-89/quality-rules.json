@@ -3,12 +3,14 @@
         "id": 7742,
         "name": "CWE-89: Avoid SQL injection vulnerabilities",
         "href": "AIP/quality-rules/7742",
+        "status": null,
         "critical": true
     },
     {
         "id": 1021044,
         "name": "Avoid Python string interpolations to prevent SQL injections",
         "href": "AIP/quality-rules/1021044",
+        "status": null,
         "critical": true
     }
 ]

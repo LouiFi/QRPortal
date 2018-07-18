@@ -1,0 +1,15 @@
+{
+    "extension": {
+        "name": "com.castsoftware.jeerules",
+        "href": "AIP/extensions/com.castsoftware.jeerules"
+    },
+    "name": "1.0.0-alpha1",
+    "href": "AIP/extensions/com.castsoftware.jeerules/versions/1.0.0-alpha1",
+    "publishedTime": "2018-07-12T08:06:49.5407353+00:00",
+    "qualityModel": true,
+    "transactionsConfiguration": false,
+    "qualityRules": {
+        "name": "Quality Rules in numeric ID order",
+        "href": "AIP/extensions/com.castsoftware.jeerules/versions/1.0.0-alpha1/quality-rules"
+    }
+}

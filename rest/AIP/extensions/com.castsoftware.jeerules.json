@@ -1,0 +1,12 @@
+{
+    "qualityModel": true,
+    "transactionsConfiguration": false,
+    "name": "com.castsoftware.jeerules",
+    "href": "AIP/extensions/com.castsoftware.jeerules",
+    "title": "JEE technology Rules",
+    "description": "This extension provides Quality rules for JEE technology and related Frameworks supported by CAST AIP. These rules are complaint with CWE and OWASP TOP 10 Standards.",
+    "versions": {
+        "name": "versions from latest to oldest",
+        "href": "AIP/extensions/com.castsoftware.jeerules/versions"
+    }
+}

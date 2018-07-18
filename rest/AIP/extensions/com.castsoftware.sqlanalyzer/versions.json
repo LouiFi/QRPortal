@@ -1,5 +1,9 @@
 [
     {
+        "name": "2.5.0-funcrel",
+        "href": "AIP/extensions/com.castsoftware.sqlanalyzer/versions/2.5.0-funcrel"
+    },
+    {
         "name": "2.5.0-beta1",
         "href": "AIP/extensions/com.castsoftware.sqlanalyzer/versions/2.5.0-beta1"
     },

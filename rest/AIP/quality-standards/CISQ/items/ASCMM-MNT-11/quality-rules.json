@@ -3,6 +3,7 @@
         "id": 7776,
         "name": "Avoid Artifacts with High Fan-In",
         "href": "AIP/quality-rules/7776",
+        "status": null,
         "critical": false
     }
 ]

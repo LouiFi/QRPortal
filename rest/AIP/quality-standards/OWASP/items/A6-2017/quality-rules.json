@@ -3,48 +3,56 @@
         "id": 1020060,
         "name": "Avoid using console.log()",
         "href": "AIP/quality-rules/1020060",
+        "status": null,
         "critical": false
     },
     {
         "id": 1020706,
         "name": "Ensure the Content-Security-Policy is activated",
         "href": "AIP/quality-rules/1020706",
+        "status": null,
         "critical": true
     },
     {
         "id": 1020708,
         "name": "Ensure the X-Powered-By header is disabled",
         "href": "AIP/quality-rules/1020708",
+        "status": null,
         "critical": true
     },
     {
         "id": 1020712,
         "name": "Ensure the X-Frame-Options header is setup",
         "href": "AIP/quality-rules/1020712",
+        "status": null,
         "critical": true
     },
     {
         "id": 1020718,
         "name": "Ensure that browser cannot cache or store a page",
         "href": "AIP/quality-rules/1020718",
+        "status": null,
         "critical": false
     },
     {
         "id": 1020720,
         "name": "Allow only HTTPS communication",
         "href": "AIP/quality-rules/1020720",
+        "status": null,
         "critical": true
     },
     {
         "id": 1020722,
         "name": "Ensure to use secure HTTPS protocol",
         "href": "AIP/quality-rules/1020722",
+        "status": null,
         "critical": true
     },
     {
         "id": 1020728,
         "name": "Avoid creating cookie without setting httpOnly option",
         "href": "AIP/quality-rules/1020728",
+        "status": null,
         "critical": true
     }
 ]

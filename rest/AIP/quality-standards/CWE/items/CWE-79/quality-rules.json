@@ -3,24 +3,28 @@
         "id": 7740,
         "name": "CWE-79: Avoid cross-site scripting DOM vulnerabilities",
         "href": "AIP/quality-rules/7740",
+        "status": null,
         "critical": true
     },
     {
         "id": 1020542,
         "name": "Enable Content Security Policy when creating an AngularJS application",
         "href": "AIP/quality-rules/1020542",
+        "status": null,
         "critical": true
     },
     {
         "id": 1020546,
         "name": "Avoid using unsanitized AngularJS application",
         "href": "AIP/quality-rules/1020546",
+        "status": null,
         "critical": true
     },
     {
         "id": 1020548,
         "name": "Avoid disabling withCredentials option for the httpProvider",
         "href": "AIP/quality-rules/1020548",
+        "status": null,
         "critical": true
     }
 ]

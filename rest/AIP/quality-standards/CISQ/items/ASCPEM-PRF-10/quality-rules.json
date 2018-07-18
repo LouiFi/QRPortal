@@ -3,12 +3,14 @@
         "id": 8110,
         "name": "Use dedicated stored procedures when multiple data accesses are needed (ASCPEM-PRF-10)",
         "href": "AIP/quality-rules/8110",
+        "status": null,
         "critical": true
     },
     {
         "id": 1060022,
         "name": "Avoid too many SQL calls for methods with high fan-in",
         "href": "AIP/quality-rules/1060022",
+        "status": null,
         "critical": true
     }
 ]

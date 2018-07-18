@@ -3,54 +3,63 @@
         "id": 1012010,
         "name": "MONMSG command must be formated    (CL400)",
         "href": "AIP/quality-rules/1012010",
+        "status": null,
         "critical": false
     },
     {
         "id": 1012012,
         "name": "Avoid Programs with High Cyclomatic Complexity    (CL400)",
         "href": "AIP/quality-rules/1012012",
+        "status": null,
         "critical": true
     },
     {
         "id": 1012014,
         "name": "Avoid locking object by ALCOBJ command    (CL400)",
         "href": "AIP/quality-rules/1012014",
+        "status": null,
         "critical": false
     },
     {
         "id": 1012016,
         "name": "Avoid unreferenced CL Programs  (CL400)",
         "href": "AIP/quality-rules/1012016",
+        "status": null,
         "critical": false
     },
     {
         "id": 1012018,
         "name": "Avoid use of DLYJOB  (CL400)",
         "href": "AIP/quality-rules/1012018",
+        "status": null,
         "critical": false
     },
     {
         "id": 1012020,
         "name": "Avoid use of RCLRSC  (CL400)",
         "href": "AIP/quality-rules/1012020",
+        "status": null,
         "critical": false
     },
     {
         "id": 1012022,
         "name": "Avoid use of *NOMAX  (CL400)",
         "href": "AIP/quality-rules/1012022",
+        "status": null,
         "critical": true
     },
     {
         "id": 1012024,
         "name": "Avoid use of OPNQRYF  (CL400)",
         "href": "AIP/quality-rules/1012024",
+        "status": null,
         "critical": false
     },
     {
         "id": 1012026,
         "name": "Do not use MONMSG CPF0000 without EXEC  (CL400)",
         "href": "AIP/quality-rules/1012026",
+        "status": null,
         "critical": false
     }
 ]

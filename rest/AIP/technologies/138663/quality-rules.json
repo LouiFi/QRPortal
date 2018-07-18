@@ -3,60 +3,70 @@
         "id": 7766,
         "name": "Avoid Artifacts with High Cyclomatic Complexity",
         "href": "AIP/quality-rules/7766",
+        "status": null,
         "critical": false
     },
     {
         "id": 7768,
         "name": "Avoid Artifacts with High Depth of Code",
         "href": "AIP/quality-rules/7768",
+        "status": null,
         "critical": false
     },
     {
         "id": 7772,
         "name": "Avoid Artifacts with High Essential Complexity",
         "href": "AIP/quality-rules/7772",
+        "status": null,
         "critical": false
     },
     {
         "id": 7774,
         "name": "Avoid Artifacts with High Integration Complexity",
         "href": "AIP/quality-rules/7774",
+        "status": null,
         "critical": false
     },
     {
         "id": 7776,
         "name": "Avoid Artifacts with High Fan-In",
         "href": "AIP/quality-rules/7776",
+        "status": null,
         "critical": false
     },
     {
         "id": 7778,
         "name": "Avoid Artifacts with High Fan-Out",
         "href": "AIP/quality-rules/7778",
+        "status": null,
         "critical": false
     },
     {
         "id": 7784,
         "name": "Avoid Artifacts with lines longer than X characters",
         "href": "AIP/quality-rules/7784",
+        "status": null,
         "critical": false
     },
     {
         "id": 7818,
         "name": "Avoid Functions having a very low Comment/Code ratio",
         "href": "AIP/quality-rules/7818",
+        "status": null,
         "critical": false
     },
     {
         "id": 7836,
         "name": "Avoid undocumented Functions",
         "href": "AIP/quality-rules/7836",
+        "status": null,
         "critical": false
     },
     {
         "id": 7860,
         "name": "Avoid unreferenced Functions",
         "href": "AIP/quality-rules/7860",
+        "status": null,
         "critical": false
     }
 ]

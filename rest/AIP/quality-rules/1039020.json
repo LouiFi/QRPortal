@@ -1,0 +1,45 @@
+{
+    "id": 1039020,
+    "name": "Avoid using javax.crypto.NullCipher",
+    "href": "AIP/quality-rules/1039020",
+    "critical": true,
+    "associatedValueName": "Associated Value",
+    "description": "By contract, the NullCipher class provides an \"identity cipher\" one that does not transform or encrypt the plaintext in any way. As a consequence, the ciphertext is identical to the plaintext. So this class should never be used In production code. So \"javax.crypto.NullCipher\" should not be used for anything other than testing \n\n\nCWE-327 - Use of a Broken or Risky Cryptographic Algorithm \nOWASP Top 10 2017 Category A6 - Security Misconfiguration",
+    "output": "This report lists all artifacts with JAVA methods",
+    "rationale": "The NullCipher is seldom used intentionally in production applications. \n        It implements the Cipher interface by returning ciphertext identical to the supplied plaintext. \n        In a few contexts, such as testing, a NullCipher may be appropriate.",
+    "reference": "https://cwe.mitre.org/data/definitions/327.html \nhttps://www.owasp.org/index.php/Top_10-2017_A3-Sensitive_Data_Exposure",
+    "remediation": "Avoid using the NullCipher.",
+    "remediationSample": "Avoid using the NullCipher ",
+    "sample": "public class javax.crypto.NullCipher \nextends javax.crypto.Cipher { \n\n// Constructors \npublic NullCipher( ); \n}",
+    "total": "Number of Java Artifact",
+    "businessCriteria": [
+        {
+            "id": 20140522,
+            "name": "Green Stuff",
+            "href": "AIP/business-criteria/20140522"
+        },
+        {
+            "id": 60016,
+            "name": "Security",
+            "href": "AIP/business-criteria/60016"
+        }
+    ],
+    "technicalCriteria": [
+        {
+            "id": 66064,
+            "name": "Secure Coding - Weak Security Features",
+            "weight": 8,
+            "critical": true
+        }
+    ],
+    "technologies": [
+        {
+            "id": 140029,
+            "name": "JEE",
+            "href": "AIP/technologies/140029"
+        }
+    ],
+    "qualityStandards": [
+        
+    ]
+}

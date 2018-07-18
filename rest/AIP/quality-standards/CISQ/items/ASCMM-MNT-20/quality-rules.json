@@ -3,120 +3,140 @@
         "id": 7860,
         "name": "Avoid unreferenced Functions",
         "href": "AIP/quality-rules/7860",
+        "status": null,
         "critical": false
     },
     {
         "id": 7908,
         "name": "Avoid unreferenced Methods",
         "href": "AIP/quality-rules/7908",
+        "status": null,
         "critical": false
     },
     {
         "id": 1020040,
         "name": "Avoid using delete with no object properties",
         "href": "AIP/quality-rules/1020040",
+        "status": null,
         "critical": false
     },
     {
         "id": 1020312,
         "name": "Avoid use of anonymous functions to attach events",
         "href": "AIP/quality-rules/1020312",
+        "status": null,
         "critical": false
     },
     {
         "id": 1020318,
         "name": "Avoid using jQuery deprecated methods",
         "href": "AIP/quality-rules/1020318",
+        "status": null,
         "critical": false
     },
     {
         "id": 1020500,
         "name": "Avoid the use of the default JavaScript implementation [].forEach in AngularJS web app",
         "href": "AIP/quality-rules/1020500",
+        "status": null,
         "critical": false
     },
     {
         "id": 1020508,
         "name": "Use Angular wrapper service $document",
         "href": "AIP/quality-rules/1020508",
+        "status": null,
         "critical": false
     },
     {
         "id": 1020510,
         "name": "Use Angular wrapper service $window",
         "href": "AIP/quality-rules/1020510",
+        "status": null,
         "critical": false
     },
     {
         "id": 1020514,
         "name": "Only use the angular.isUndefined or angular.isDefined methods in AngularJS application",
         "href": "AIP/quality-rules/1020514",
+        "status": null,
         "critical": false
     },
     {
         "id": 1020516,
         "name": "Avoid using Javascript Array typecheck in AngularJS application",
         "href": "AIP/quality-rules/1020516",
+        "status": null,
         "critical": false
     },
     {
         "id": 1020518,
         "name": "Avoid using Javascript Date typecheck in AngularJS application",
         "href": "AIP/quality-rules/1020518",
+        "status": null,
         "critical": false
     },
     {
         "id": 1020520,
         "name": "Avoid using Javascript Function typecheck in AngularJS application",
         "href": "AIP/quality-rules/1020520",
+        "status": null,
         "critical": false
     },
     {
         "id": 1020522,
         "name": "Avoid using Javascript String typecheck in AngularJS application",
         "href": "AIP/quality-rules/1020522",
+        "status": null,
         "critical": false
     },
     {
         "id": 1020524,
         "name": "Avoid using Javascript Object typecheck in AngularJS application",
         "href": "AIP/quality-rules/1020524",
+        "status": null,
         "critical": false
     },
     {
         "id": 1020526,
         "name": "Avoid using Javascript Number typecheck in AngularJS application",
         "href": "AIP/quality-rules/1020526",
+        "status": null,
         "critical": false
     },
     {
         "id": 1020528,
         "name": "Avoid using Javascript Regexp typecheck in AngularJS application",
         "href": "AIP/quality-rules/1020528",
+        "status": null,
         "critical": false
     },
     {
         "id": 1020530,
         "name": "Avoid using !angular.isUndefined() and !angular.isDefined() in AngularJS application",
         "href": "AIP/quality-rules/1020530",
+        "status": null,
         "critical": false
     },
     {
         "id": 1020536,
         "name": "Avoid using $ or jQuery, use angular.element instead",
         "href": "AIP/quality-rules/1020536",
+        "status": null,
         "critical": false
     },
     {
         "id": 1020538,
         "name": "Avoid wrapping angular.element objects with jQuery or $",
         "href": "AIP/quality-rules/1020538",
+        "status": null,
         "critical": false
     },
     {
         "id": 1021020,
         "name": "Avoid using wildcard (*) imports",
         "href": "AIP/quality-rules/1021020",
+        "status": null,
         "critical": false
     }
 ]

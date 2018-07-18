@@ -3,6 +3,7 @@
         "id": 1050010,
         "name": "Avoid using NSURLRequest setAllowsAnyHTTPSCertificate:forHost",
         "href": "AIP/quality-rules/1050010",
+        "status": null,
         "critical": true
     }
 ]

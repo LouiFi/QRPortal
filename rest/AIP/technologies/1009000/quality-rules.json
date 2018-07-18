@@ -3,186 +3,217 @@
         "id": 1009014,
         "name": "Avoid Programs with High Fan-In   (RPG300)",
         "href": "AIP/quality-rules/1009014",
+        "status": null,
         "critical": false
     },
     {
         "id": 1009016,
         "name": "Avoid Subroutines with High Fan-In  (RPG300)",
         "href": "AIP/quality-rules/1009016",
+        "status": null,
         "critical": false
     },
     {
         "id": 1009020,
         "name": "Avoid Programs with High Fan-Out  (RPG300)",
         "href": "AIP/quality-rules/1009020",
+        "status": null,
         "critical": true
     },
     {
         "id": 1009022,
         "name": "Avoid Subroutines with High Fan-Out  (RPG300)",
         "href": "AIP/quality-rules/1009022",
+        "status": null,
         "critical": false
     },
     {
         "id": 1009026,
         "name": "Avoid using internally described files  (RPG300)",
         "href": "AIP/quality-rules/1009026",
+        "status": null,
         "critical": false
     },
     {
         "id": 1009028,
         "name": "Avoid Programs with High Cyclomatic Complexity  (RPG300)",
         "href": "AIP/quality-rules/1009028",
+        "status": null,
         "critical": true
     },
     {
         "id": 1009030,
         "name": "Avoid Subroutines with High Cyclomatic Complexity  (RPG300)",
         "href": "AIP/quality-rules/1009030",
+        "status": null,
         "critical": false
     },
     {
         "id": 1009034,
         "name": "Avoid Subroutines with nested if Statements  (RPG300)",
         "href": "AIP/quality-rules/1009034",
+        "status": null,
         "critical": false
     },
     {
         "id": 1009038,
         "name": "Avoid unreferenced Programs  (RPG300)",
         "href": "AIP/quality-rules/1009038",
+        "status": null,
         "critical": false
     },
     {
         "id": 1009040,
         "name": "Avoid unreferenced Subroutines  (RPG300)",
         "href": "AIP/quality-rules/1009040",
+        "status": null,
         "critical": false
     },
     {
         "id": 1009042,
         "name": "Avoid undocumented RPG300 Programs  (RPG300)",
         "href": "AIP/quality-rules/1009042",
+        "status": null,
         "critical": true
     },
     {
         "id": 1009048,
         "name": "Avoid Programs with a very low comment/code ratio  (RPG300)",
         "href": "AIP/quality-rules/1009048",
+        "status": null,
         "critical": false
     },
     {
         "id": 1009054,
         "name": "Avoid Programs with COUNT(*) statement  (RPG300)",
         "href": "AIP/quality-rules/1009054",
+        "status": null,
         "critical": false
     },
     {
         "id": 1009056,
         "name": "Avoid Programs With Queries on more than 4 Tables  (RPG300)",
         "href": "AIP/quality-rules/1009056",
+        "status": null,
         "critical": false
     },
     {
         "id": 1009058,
         "name": "Avoid Programs With Queries using GROUP BY  (RPG300)",
         "href": "AIP/quality-rules/1009058",
+        "status": null,
         "critical": false
     },
     {
         "id": 1009060,
         "name": "Avoid Programs with SELECT * statement  (RPG300)",
         "href": "AIP/quality-rules/1009060",
+        "status": null,
         "critical": false
     },
     {
         "id": 1009062,
         "name": "Avoid Programs with Subqueries  (RPG300)",
         "href": "AIP/quality-rules/1009062",
+        "status": null,
         "critical": false
     },
     {
         "id": 1009064,
         "name": "Avoid Programs with too many FROM Clauses  (RPG300)",
         "href": "AIP/quality-rules/1009064",
+        "status": null,
         "critical": false
     },
     {
         "id": 1009066,
         "name": "Avoid Programs with too many WHERE Clauses  (RPG300)",
         "href": "AIP/quality-rules/1009066",
+        "status": null,
         "critical": false
     },
     {
         "id": 1009068,
         "name": "Avoid using NOT EXISTS  (RPG300)",
         "href": "AIP/quality-rules/1009068",
+        "status": null,
         "critical": true
     },
     {
         "id": 1009070,
         "name": "Avoid using NOT IN  (RPG300)",
         "href": "AIP/quality-rules/1009070",
+        "status": null,
         "critical": true
     },
     {
         "id": 1009072,
         "name": "Avoid using dynamic SQL (EXECUTE IMMEDIATE)  (RPG300)",
         "href": "AIP/quality-rules/1009072",
+        "status": null,
         "critical": false
     },
     {
         "id": 1009074,
         "name": "Specify Error Subroutine for File Exception Handling  (RPG300)",
         "href": "AIP/quality-rules/1009074",
+        "status": null,
         "critical": false
     },
     {
         "id": 1009090,
         "name": "Avoid using obsolete \"Bit Operations\" statements in RPG Programs  (RPG300)",
         "href": "AIP/quality-rules/1009090",
+        "status": null,
         "critical": false
     },
     {
         "id": 1009098,
         "name": "Avoid using plain END statement, use the explained END statement like ENDIF, ENDDO, etc  (RPG300)",
         "href": "AIP/quality-rules/1009098",
+        "status": null,
         "critical": false
     },
     {
         "id": 1009110,
         "name": "Avoid Programs with more than X Subroutines  (RPG300)",
         "href": "AIP/quality-rules/1009110",
+        "status": null,
         "critical": false
     },
     {
         "id": 1009112,
         "name": "Avoid Programs with more than X LoC and no Subroutines  (RPG300)",
         "href": "AIP/quality-rules/1009112",
+        "status": null,
         "critical": false
     },
     {
         "id": 1009118,
         "name": "Avoid Programs with more than X lines of code  (RPG300)",
         "href": "AIP/quality-rules/1009118",
+        "status": null,
         "critical": false
     },
     {
         "id": 1009120,
         "name": "Avoid Subroutines with more than X lines of code  (RPG300)",
         "href": "AIP/quality-rules/1009120",
+        "status": null,
         "critical": false
     },
     {
         "id": 1009124,
         "name": "Avoid unreferenced Copy Members  (RPG300)",
         "href": "AIP/quality-rules/1009124",
+        "status": null,
         "critical": false
     },
     {
         "id": 1009126,
         "name": "Avoid defining File Disk if not used  (RPG300)",
         "href": "AIP/quality-rules/1009126",
+        "status": null,
         "critical": false
     }
 ]

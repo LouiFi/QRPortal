@@ -3,6 +3,7 @@
         "id": 8222,
         "name": "CWE-798: Use of hard-coded credentials",
         "href": "AIP/quality-rules/8222",
+        "status": null,
         "critical": true
     }
 ]

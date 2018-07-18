@@ -4657,6 +4657,7 @@
     {
         "id": 7896,
         "name": "Avoid using Cursors",
+        "href": null,
         "status": "deprecated",
         "critical": false
     }

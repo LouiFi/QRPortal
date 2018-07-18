@@ -1,0 +1,79 @@
+[
+    {
+        "id": 1018100,
+        "name": "Avoid using Get JMS Queue Message (TIBCO BW)",
+        "href": "AIP/quality-rules/1018100",
+        "status": "renewed",
+        "critical": true
+    },
+    {
+        "id": 1018140,
+        "name": "Avoid using Java Activities (TIBCO BW)",
+        "href": "AIP/quality-rules/1018140",
+        "status": "renewed",
+        "critical": true
+    },
+    {
+        "id": 1018142,
+        "name": "Avoid using External Command Activities (TIBCO BW)",
+        "href": "AIP/quality-rules/1018142",
+        "status": "renewed",
+        "critical": true
+    },
+    {
+        "id": 1018144,
+        "name": "Avoid harcoded timeout in Process Activities (TIBCO BW)",
+        "href": "AIP/quality-rules/1018144",
+        "status": "renewed",
+        "critical": true
+    },
+    {
+        "id": 1018530,
+        "name": "Avoid uncommented Processes (TIBCO BW)",
+        "href": "AIP/quality-rules/1018530",
+        "status": "renewed",
+        "critical": false
+    },
+    {
+        "id": 1018540,
+        "name": "Avoid JMS Synchronous Activities (TIBCO BW)",
+        "href": "AIP/quality-rules/1018540",
+        "status": "renewed",
+        "critical": true
+    },
+    {
+        "id": 1018720,
+        "name": "Avoid oversized processes (1100x900)  (TIBCO BW)",
+        "href": "AIP/quality-rules/1018720",
+        "status": "renewed",
+        "critical": false
+    },
+    {
+        "id": 1018760,
+        "name": "Avoid AE Schema with Target namespace not defined (TIBCO BW)",
+        "href": "AIP/quality-rules/1018760",
+        "status": "renewed",
+        "critical": false
+    },
+    {
+        "id": 1018762,
+        "name": "Avoid cyclical call between Processes (TIBCO BW)",
+        "href": null,
+        "status": "deprecated",
+        "critical": true
+    },
+    {
+        "id": 1018764,
+        "name": "Avoid Processes using JDBC SQL Direct  (TIBCO BW)",
+        "href": "AIP/quality-rules/1018764",
+        "status": "renewed",
+        "critical": false
+    },
+    {
+        "id": 1018860,
+        "name": "Avoid Process with too many Activities (TIBCO BW)",
+        "href": "AIP/quality-rules/1018860",
+        "status": "renewed",
+        "critical": false
+    }
+]

@@ -2,12 +2,14 @@
     {
         "id": 7896,
         "name": "Avoid using Cursors",
+        "href": null,
         "status": "deprecated",
         "critical": false
     },
     {
         "id": 8128,
         "name": "Avoid using UPDATE and DELETE without WHERE condition BETA",
+        "href": null,
         "status": "deprecated",
         "critical": true
     },

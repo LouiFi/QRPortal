@@ -3,6 +3,7 @@
         "id": 1020728,
         "name": "Avoid creating cookie without setting httpOnly option",
         "href": "AIP/quality-rules/1020728",
+        "status": null,
         "critical": true
     }
 ]

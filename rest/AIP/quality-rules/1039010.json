@@ -1,0 +1,44 @@
+{
+    "id": 1039010,
+    "name": "Avoid using risky cryptographic hash (JEE)",
+    "href": "AIP/quality-rules/1039010",
+    "critical": true,
+    "description": "MD5/SHA1 hashes were used as salt to hash a password or a passphrase. In cryptography, a salt is random data that's used as additional input to a one-way function. \n        Recently, several exploits were developed which proved that MD5 will generate identical outputs for the different input parameters. \n        As a consequence, somebody can break your encryption or log on to your website. \nMD2, MD4 are also considred as week hash functions and should not be used.",
+    "output": "This report lists all artifacts with JAVA methods",
+    "rationale": "The use of a non-standard algorithm is dangerous because a determined attacker may be able to break the algorithm and compromise whatever data has been protected. \n        Well-known techniques may exist to break the algorithm.",
+    "reference": "\nhttps://cwe.mitre.org/data/definitions/327.html \nhttps://www.owasp.org/index.php/Top_10_2013-A6-Sensitive_Data_Exposure \nhttps://www.owasp.org/index.php/Top_10-2017_A3-Sensitive_Data_Exposure\n ",
+    "remediation": "\nAvoid using MD5 or SHA1 hashes as input to cryptographic functions or to store passwords. The following hashing algorithms: SHA256, SHA384, and SHA512 are recommanded instead. \nMake sure you choose the most appropriate one, depending on your use case, security requirements and runtime constraints. \n\nSHA-256 is a 256-bit hash function intended to provide 128 bits of security against collision attacks, \nwhile SHA-512 is a 512-bit hash function intended to provide 256 bits of security. A 384-bit hash may be obtained by truncating the SHA-512 output",
+    "remediationSample": "Remediation for Sample 1 \nprivate static String getSalt() throws NoSuchAlgorithmException \n{ \nSecureRandom sr = SecureRandom.getInstance(\u201cSHA-256\u201d);\nbyte[] salt = new byte[16]; \nsr.nextBytes(salt); \nreturn salt.toString(); \n} \n____________________________________________________________ \nRemediation for Sample 2 \nSolution (Using bouncy castle): \n\npublic static byte[] getEncryptedPassword(String password, byte[] salt) throws NoSuchAlgorithmException, InvalidKeySpecException \n { \n    PKCS5S2ParametersGenerator gen = new PKCS5S2ParametersGenerator(new SHA256Digest()); \n    gen.init(password.getBytes(\"UTF-8\"), salt.getBytes(), 4096); \n    return ((KeyParameter) gen.generateDerivedParameters(256)).getKey(); \n} \n\nSolution (Java 8 and later): \npublic static byte[] getEncryptedPassword(String password, byte[] salt) throws NoSuchAlgorithmException, InvalidKeySpecException \n{ \n    KeySpec spec = new PBEKeySpec(password.toCharArray(), salt, 4096, 256 * 8); \n    SecretKeyFactory f = SecretKeyFactory.getInstance(\"PBKDF2WithHmacSHA256\"); \n    return f.generateSecret(spec).getEncoded(); \n} \n",
+    "sample": "Sample 1 : \nprivate static String getSalt() throws NoSuchAlgorithmException \n{ \nSecureRandom sr = SecureRandom.getInstance(\u201cSHA1PRNG\u201d); \nbyte[] salt = new byte[16]; \nsr.nextBytes(salt); \nreturn salt.toString(); \n} \n___________________________________________________________ \nSample 2 \nMessageDigest md5Digest = MessageDigest.getInstance(\"MD5\"); \n    md5Digest.update(password.getBytes()); \n    byte[] hashValue = md5Digest.digest(); \n\nbyte[] hashValue = DigestUtils.getMd5Digest().digest(password.getBytes()); \n ",
+    "total": "Number of Java Artifact",
+    "businessCriteria": [
+        {
+            "id": 20140522,
+            "name": "Green Stuff",
+            "href": "AIP/business-criteria/20140522"
+        },
+        {
+            "id": 60016,
+            "name": "Security",
+            "href": "AIP/business-criteria/60016"
+        }
+    ],
+    "technicalCriteria": [
+        {
+            "id": 66064,
+            "name": "Secure Coding - Weak Security Features",
+            "weight": 7,
+            "critical": true
+        }
+    ],
+    "technologies": [
+        {
+            "id": 140029,
+            "name": "JEE",
+            "href": "AIP/technologies/140029"
+        }
+    ],
+    "qualityStandards": [
+        
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "extension": {
+        "name": "com.castsoftware.springdata",
+        "href": "AIP/extensions/com.castsoftware.springdata"
+    },
+    "name": "1.0.0-alpha3",
+    "href": "AIP/extensions/com.castsoftware.springdata/versions/1.0.0-alpha3",
+    "publishedTime": "2018-07-18T03:23:25.6847293+00:00",
+    "qualityModel": false,
+    "transactionsConfiguration": false,
+    "qualityRules": null
+}

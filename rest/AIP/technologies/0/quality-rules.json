@@ -3,192 +3,224 @@
         "id": 7126,
         "name": "Avoid Artifacts with high Commented-out Code Lines/Code Lines ratio",
         "href": "AIP/quality-rules/7126",
+        "status": null,
         "critical": false
     },
     {
         "id": 7130,
         "name": "Avoid Artifacts with High Depth of Nested Subqueries",
         "href": "AIP/quality-rules/7130",
+        "status": null,
         "critical": false
     },
     {
         "id": 7156,
         "name": "Avoid Too Many Copy Pasted Artifacts",
         "href": "AIP/quality-rules/7156",
+        "status": null,
         "critical": false
     },
     {
         "id": 7204,
         "name": "Avoid method invocation in a loop termination expression",
         "href": "AIP/quality-rules/7204",
+        "status": null,
         "critical": false
     },
     {
         "id": 7344,
         "name": "Avoid \"SELECT *\" queries",
         "href": "AIP/quality-rules/7344",
+        "status": null,
         "critical": false
     },
     {
         "id": 7346,
         "name": "Avoid redundant indexes",
         "href": "AIP/quality-rules/7346",
+        "status": null,
         "critical": false
     },
     {
         "id": 7348,
         "name": "Avoid too many Indexes on one Table",
         "href": "AIP/quality-rules/7348",
+        "status": null,
         "critical": false
     },
     {
         "id": 7350,
         "name": "Avoid Tables having Indexes with a too large Index definition",
         "href": "AIP/quality-rules/7350",
+        "status": null,
         "critical": false
     },
     {
         "id": 7388,
         "name": "Avoid artifacts having recursive calls",
         "href": "AIP/quality-rules/7388",
+        "status": null,
         "critical": false
     },
     {
         "id": 7390,
         "name": "Avoid having multiple Artifacts inserting data on the same SQL Table",
         "href": "AIP/quality-rules/7390",
+        "status": null,
         "critical": false
     },
     {
         "id": 7392,
         "name": "Avoid having multiple artifacts deleting data on the same SQL table",
         "href": "AIP/quality-rules/7392",
+        "status": null,
         "critical": false
     },
     {
         "id": 7394,
         "name": "Avoid having multiple Artifacts updating data on the same SQL Table",
         "href": "AIP/quality-rules/7394",
+        "status": null,
         "critical": false
     },
     {
         "id": 7418,
         "name": "Avoid SQL queries using functions on indexed columns in the WHERE clause",
         "href": "AIP/quality-rules/7418",
+        "status": null,
         "critical": false
     },
     {
         "id": 7424,
         "name": "Avoid using SQL queries inside a loop",
         "href": "AIP/quality-rules/7424",
+        "status": null,
         "critical": true
     },
     {
         "id": 7428,
         "name": "Avoid SQL queries not using the first column of a composite index in the WHERE clause",
         "href": "AIP/quality-rules/7428",
+        "status": null,
         "critical": false
     },
     {
         "id": 7436,
         "name": "Prefer UNION ALL to UNION",
         "href": "AIP/quality-rules/7436",
+        "status": null,
         "critical": false
     },
     {
         "id": 7642,
         "name": "Avoid SQL queries on XXL tables not using the first column of a composite index in the WHERE clause",
         "href": "AIP/quality-rules/7642",
+        "status": null,
         "critical": true
     },
     {
         "id": 7658,
         "name": "Avoid SQL queries on XXL Tables using Functions on indexed Columns in the WHERE clause",
         "href": "AIP/quality-rules/7658",
+        "status": null,
         "critical": true
     },
     {
         "id": 1020950,
         "name": "Avoid providing password in Web Service URL",
         "href": "AIP/quality-rules/1020950",
+        "status": null,
         "critical": true
     },
     {
         "id": 1101000,
         "name": "Never use SQL queries with a cartesian product",
         "href": "AIP/quality-rules/1101000",
+        "status": null,
         "critical": false
     },
     {
         "id": 1101002,
         "name": "Never use SQL queries with a cartesian product on XXL Tables",
         "href": "AIP/quality-rules/1101002",
+        "status": null,
         "critical": true
     },
     {
         "id": 1101004,
         "name": "Avoid non-indexed SQL queries",
         "href": "AIP/quality-rules/1101004",
+        "status": null,
         "critical": false
     },
     {
         "id": 1101006,
         "name": "Avoid non-indexed XXL SQL queries",
         "href": "AIP/quality-rules/1101006",
+        "status": null,
         "critical": true
     },
     {
         "id": 1101008,
         "name": "Avoid non-SARGable queries",
         "href": "AIP/quality-rules/1101008",
+        "status": null,
         "critical": false
     },
     {
         "id": 1101010,
         "name": "Avoid NATURAL JOIN queries",
         "href": "AIP/quality-rules/1101010",
+        "status": null,
         "critical": false
     },
     {
         "id": 1101012,
         "name": "Specify column names instead of column numbers in ORDER BY clauses",
         "href": "AIP/quality-rules/1101012",
+        "status": null,
         "critical": false
     },
     {
         "id": 1101014,
         "name": "Avoid queries using old style join convention  instead of ANSI-Standard joins",
         "href": "AIP/quality-rules/1101014",
+        "status": null,
         "critical": false
     },
     {
         "id": 1101026,
         "name": "Always define column names when inserting values",
         "href": "AIP/quality-rules/1101026",
+        "status": null,
         "critical": false
     },
     {
         "id": 1101028,
         "name": "Use MINUS or EXCEPT operator instead of NOT EXISTS and NOT IN subqueries",
         "href": "AIP/quality-rules/1101028",
+        "status": null,
         "critical": false
     },
     {
         "id": 1101032,
         "name": "Avoid exists and not exists independent clauses",
         "href": "AIP/quality-rules/1101032",
+        "status": null,
         "critical": true
     },
     {
         "id": 1101034,
         "name": "DISTINCT should not be used in SQL SELECT statements",
         "href": "AIP/quality-rules/1101034",
+        "status": null,
         "critical": false
     },
     {
         "id": 1101038,
         "name": "Replace OR conditions testing equality on the same identifier in SQL WHERE clauses by an IN test condition",
         "href": "AIP/quality-rules/1101038",
+        "status": null,
         "critical": false
     }
 ]

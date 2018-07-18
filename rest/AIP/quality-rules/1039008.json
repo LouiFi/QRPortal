@@ -1,0 +1,44 @@
+{
+    "id": 1039008,
+    "name": "Avoid thrown Exceptions in servlet methods",
+    "href": "AIP/quality-rules/1039008",
+    "critical": true,
+    "description": "Even though the signatures for methods in a servlet include throws IOException, ServletException, it's a bad idea to let such exceptions be thrown. \n\nThis rule report all exceptions in methods named \"do*\" ( doPost; doGet...) are explicitly handled in servlet classes. \n\nsee \n\nhttp://cwe.mitre.org/data/definitions/600.html \nOWASP Top 10 2017 Category A3 - Sensitive Data Exposure",
+    "output": "This report lists all artifacts with JAVA methods",
+    "rationale": "When a Servlet throws an exception, the default error response the Servlet container sends back to the user typically includes debugging information. \n        This information is of great value to an attacker. For example, a stack trace might show the attacker a malformed SQL query string, the type of database being used, \n        and the version of the application container. This information enables the attacker to target known vulnerabilities in these components. ",
+    "reference": "http://cwe.mitre.org/data/definitions/600.html \nOWASP Top 10 2017 Category A3 - Sensitive Data Exposure ",
+    "remediation": "Use of try catch block is not recommended.",
+    "remediationSample": "public void doGet(HttpServletRequest request, HttpServletResponse response) \n  throws IOException, ServletException { \n  try { \n    String ip = request.getRemoteAddr(); \n    InetAddress addr = InetAddress.getByName(ip); \n    //... \n  } \n  catch (UnknownHostException uhex) { \n    //... \n  } \n}",
+    "sample": "\nprotected void doPost (HttpServletRequest req, HttpServletResponse res) throws IOException { \nString ip = req.getRemoteAddr(); \nInetAddress addr = InetAddress.getByName(ip); \n... \nout.println(\"hello \" + addr.getHostName()); \n} \n\n\npublic void doGet(HttpServletRequest request, HttpServletResponse response) \n  throws IOException, ServletException { \n  String ip = request.getRemoteAddr(); \n  InetAddress addr = InetAddress.getByName(ip); // VIOLATION; getByName(String) throws UnknownHostException \n  //... \n} ",
+    "total": "Number of Java Artifact",
+    "businessCriteria": [
+        {
+            "id": 20140522,
+            "name": "Green Stuff",
+            "href": "AIP/business-criteria/20140522"
+        },
+        {
+            "id": 60016,
+            "name": "Security",
+            "href": "AIP/business-criteria/60016"
+        }
+    ],
+    "technicalCriteria": [
+        {
+            "id": 66064,
+            "name": "Secure Coding - Weak Security Features",
+            "weight": 7,
+            "critical": true
+        }
+    ],
+    "technologies": [
+        {
+            "id": 140029,
+            "name": "JEE",
+            "href": "AIP/technologies/140029"
+        }
+    ],
+    "qualityStandards": [
+        
+    ]
+}

@@ -3,138 +3,161 @@
         "id": 7200,
         "name": "Avoid String concatenation in loops",
         "href": "AIP/quality-rules/7200",
+        "status": null,
         "critical": false
     },
     {
         "id": 7204,
         "name": "Avoid method invocation in a loop termination expression",
         "href": "AIP/quality-rules/7204",
+        "status": null,
         "critical": false
     },
     {
         "id": 7206,
         "name": "Avoid the use of InstanceOf inside loops",
         "href": "AIP/quality-rules/7206",
+        "status": null,
         "critical": false
     },
     {
         "id": 7210,
         "name": "Avoid instantiations inside loops",
         "href": "AIP/quality-rules/7210",
+        "status": null,
         "critical": true
     },
     {
         "id": 7212,
         "name": "Avoid instantiations inside loops",
         "href": "AIP/quality-rules/7212",
+        "status": null,
         "critical": true
     },
     {
         "id": 7424,
         "name": "Avoid using SQL queries inside a loop",
         "href": "AIP/quality-rules/7424",
+        "status": null,
         "critical": true
     },
     {
         "id": 7470,
         "name": "Avoid doing select on Datatable in loop",
         "href": "AIP/quality-rules/7470",
+        "status": null,
         "critical": true
     },
     {
         "id": 7954,
         "name": "Avoid indirect String concatenation inside loops",
         "href": "AIP/quality-rules/7954",
+        "status": null,
         "critical": false
     },
     {
         "id": 7962,
         "name": "Avoid direct or indirect remote calls inside a loop(ASCPEM-PRF-8)",
         "href": "AIP/quality-rules/7962",
+        "status": null,
         "critical": true
     },
     {
         "id": 1020012,
         "name": "Avoid using a web service with WebSocket inside a loop",
         "href": "AIP/quality-rules/1020012",
+        "status": null,
         "critical": true
     },
     {
         "id": 1020014,
         "name": "Avoid using a web service with XMLHttpRequest inside a loop",
         "href": "AIP/quality-rules/1020014",
+        "status": null,
         "critical": true
     },
     {
         "id": 1020300,
         "name": "Avoid using the call of web service jQuery ajax inside a loop",
         "href": "AIP/quality-rules/1020300",
+        "status": null,
         "critical": true
     },
     {
         "id": 1020504,
         "name": "Avoid using the call of web service with AngularJS $http inside a loop",
         "href": "AIP/quality-rules/1020504",
+        "status": null,
         "critical": true
     },
     {
         "id": 1020534,
         "name": "Avoid using a web service with AngularJS $resource inside a loop",
         "href": "AIP/quality-rules/1020534",
+        "status": null,
         "critical": true
     },
     {
         "id": 1020714,
         "name": "Avoid having multiple routes for the same path with Node.js Express App",
         "href": "AIP/quality-rules/1020714",
+        "status": null,
         "critical": true
     },
     {
         "id": 1020716,
         "name": "Avoid using the call of web service with Node.js http.get or http.request inside a loop",
         "href": "AIP/quality-rules/1020716",
+        "status": null,
         "critical": true
     },
     {
         "id": 1021002,
         "name": "Avoid using a web service with Python httplib HTTPConnection inside a loop",
         "href": "AIP/quality-rules/1021002",
+        "status": null,
         "critical": true
     },
     {
         "id": 1021004,
         "name": "Avoid using a web service with Python requests inside a loop",
         "href": "AIP/quality-rules/1021004",
+        "status": null,
         "critical": true
     },
     {
         "id": 1021006,
         "name": "Avoid using a web service with Python aiohttp ClientSession inside a loop",
         "href": "AIP/quality-rules/1021006",
+        "status": null,
         "critical": true
     },
     {
         "id": 1021008,
         "name": "Avoid using a web service with Python urllib.request inside a loop",
         "href": "AIP/quality-rules/1021008",
+        "status": null,
         "critical": true
     },
     {
         "id": 1021010,
         "name": "Avoid using a web service with Python urllib2 inside a loop",
         "href": "AIP/quality-rules/1021010",
+        "status": null,
         "critical": true
     },
     {
         "id": 1021012,
         "name": "Avoid using a web service with Python httplib2 Http inside a loop",
         "href": "AIP/quality-rules/1021012",
+        "status": null,
         "critical": true
     },
     {
         "id": 1050000,
         "name": "Avoid using the call of web service with iOS/Objective-C API inside a loop",
         "href": "AIP/quality-rules/1050000",
+        "status": null,
         "critical": true
     }
 ]

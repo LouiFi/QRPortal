@@ -1,0 +1,12 @@
+{
+    "extension": {
+        "name": "com.castsoftware.mqe",
+        "href": "AIP/extensions/com.castsoftware.mqe"
+    },
+    "name": "1.0.0-funcrel",
+    "href": "AIP/extensions/com.castsoftware.mqe/versions/1.0.0-funcrel",
+    "publishedTime": "2018-07-18T03:39:07.7495092+00:00",
+    "qualityModel": false,
+    "transactionsConfiguration": false,
+    "qualityRules": null
+}

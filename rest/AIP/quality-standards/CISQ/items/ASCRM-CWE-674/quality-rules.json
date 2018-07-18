@@ -3,6 +3,7 @@
         "id": 7388,
         "name": "Avoid artifacts having recursive calls",
         "href": "AIP/quality-rules/7388",
+        "status": null,
         "critical": false
     }
 ]

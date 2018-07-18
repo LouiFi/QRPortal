@@ -58,6 +58,7 @@
     {
         "id": 1018762,
         "name": "Avoid cyclical call between Processes (TIBCO BW)",
+        "href": null,
         "status": "deprecated",
         "critical": true
     },

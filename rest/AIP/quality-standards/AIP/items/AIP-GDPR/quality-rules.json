@@ -3,96 +3,112 @@
         "id": 3616,
         "name": "Data Access must be based on Stored Procedure Calls",
         "href": "AIP/quality-rules/3616",
+        "status": null,
         "critical": false
     },
     {
         "id": 7740,
         "name": "CWE-79: Avoid cross-site scripting DOM vulnerabilities",
         "href": "AIP/quality-rules/7740",
+        "status": null,
         "critical": true
     },
     {
         "id": 7742,
         "name": "CWE-89: Avoid SQL injection vulnerabilities",
         "href": "AIP/quality-rules/7742",
+        "status": null,
         "critical": true
     },
     {
         "id": 7746,
         "name": "CWE-90: Avoid LDAP injection vulnerabilities",
         "href": "AIP/quality-rules/7746",
+        "status": null,
         "critical": true
     },
     {
         "id": 7748,
         "name": "CWE-78: Avoid OS command injection vulnerabilities",
         "href": "AIP/quality-rules/7748",
+        "status": null,
         "critical": true
     },
     {
         "id": 7750,
         "name": "CWE-91: Avoid XPath injection vulnerabilities",
         "href": "AIP/quality-rules/7750",
+        "status": null,
         "critical": true
     },
     {
         "id": 7752,
         "name": "CWE-73: Avoid file path manipulation vulnerabilities",
         "href": "AIP/quality-rules/7752",
+        "status": null,
         "critical": true
     },
     {
         "id": 7914,
         "name": "Avoid direct access to Database Tables",
         "href": "AIP/quality-rules/7914",
+        "status": null,
         "critical": false
     },
     {
         "id": 7916,
         "name": "Avoid direct use of Database objects (JSP/ASP)",
         "href": "AIP/quality-rules/7916",
+        "status": null,
         "critical": false
     },
     {
         "id": 8044,
         "name": "CWE-117: Avoid Log forging vulnerabilities",
         "href": "AIP/quality-rules/8044",
+        "status": null,
         "critical": true
     },
     {
         "id": 8098,
         "name": "CWE-134: Avoid uncontrolled format string",
         "href": "AIP/quality-rules/8098",
+        "status": null,
         "critical": true
     },
     {
         "id": 8218,
         "name": "CWE-434: Content type should be checked when receiving a HTTP Post",
         "href": "AIP/quality-rules/8218",
+        "status": null,
         "critical": true
     },
     {
         "id": 8222,
         "name": "CWE-798: Use of hard-coded credentials",
         "href": "AIP/quality-rules/8222",
+        "status": null,
         "critical": true
     },
     {
         "id": 8238,
         "name": "CWE-501: Trust boundary violation",
         "href": "AIP/quality-rules/8238",
+        "status": null,
         "critical": true
     },
     {
         "id": 8240,
-        "name": "CWE-614: Sensitive Cookie in HTTPS Session Without 'Secure' Attribute",
+        "name": "CWE-614: Sensitive cookie in HTTPS session without 'Secure' attribute",
         "href": "AIP/quality-rules/8240",
+        "status": null,
         "critical": true
     },
     {
         "id": 8242,
         "name": "CWE-330: Use of insufficiently random values",
         "href": "AIP/quality-rules/8242",
+        "status": null,
         "critical": true
     }
 ]

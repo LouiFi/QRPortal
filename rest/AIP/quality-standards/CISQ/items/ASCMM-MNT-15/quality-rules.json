@@ -3,6 +3,7 @@
         "id": 3576,
         "name": "Avoid declaring public Fields",
         "href": "AIP/quality-rules/3576",
+        "status": null,
         "critical": true
     }
 ]

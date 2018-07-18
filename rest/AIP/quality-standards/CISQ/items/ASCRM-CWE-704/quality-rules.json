@@ -3,42 +3,49 @@
         "id": 1020516,
         "name": "Avoid using Javascript Array typecheck in AngularJS application",
         "href": "AIP/quality-rules/1020516",
+        "status": null,
         "critical": false
     },
     {
         "id": 1020518,
         "name": "Avoid using Javascript Date typecheck in AngularJS application",
         "href": "AIP/quality-rules/1020518",
+        "status": null,
         "critical": false
     },
     {
         "id": 1020520,
         "name": "Avoid using Javascript Function typecheck in AngularJS application",
         "href": "AIP/quality-rules/1020520",
+        "status": null,
         "critical": false
     },
     {
         "id": 1020522,
         "name": "Avoid using Javascript String typecheck in AngularJS application",
         "href": "AIP/quality-rules/1020522",
+        "status": null,
         "critical": false
     },
     {
         "id": 1020524,
         "name": "Avoid using Javascript Object typecheck in AngularJS application",
         "href": "AIP/quality-rules/1020524",
+        "status": null,
         "critical": false
     },
     {
         "id": 1020526,
         "name": "Avoid using Javascript Number typecheck in AngularJS application",
         "href": "AIP/quality-rules/1020526",
+        "status": null,
         "critical": false
     },
     {
         "id": 1020528,
         "name": "Avoid using Javascript Regexp typecheck in AngularJS application",
         "href": "AIP/quality-rules/1020528",
+        "status": null,
         "critical": false
     }
 ]

@@ -12,6 +12,10 @@
         "href": "AIP/extensions/com.castsoftware.tibco/versions/1.1.0"
     },
     {
+        "name": "1.0.4",
+        "href": "AIP/extensions/com.castsoftware.tibco/versions/1.0.4"
+    },
+    {
         "name": "1.0.3",
         "href": "AIP/extensions/com.castsoftware.tibco/versions/1.0.3"
     }

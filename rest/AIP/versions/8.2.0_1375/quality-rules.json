@@ -9,18 +9,21 @@
     {
         "id": 7896,
         "name": "Avoid using Cursors",
+        "href": null,
         "status": "deprecated",
         "critical": false
     },
     {
         "id": 8128,
         "name": "Avoid using UPDATE and DELETE without WHERE condition BETA",
+        "href": null,
         "status": "deprecated",
         "critical": true
     },
     {
         "id": 8138,
         "name": "Beans with normal scope must be proxyable to avoid runtime errors",
+        "href": null,
         "status": "deprecated",
         "critical": true
     },

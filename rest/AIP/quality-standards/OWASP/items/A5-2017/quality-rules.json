@@ -3,12 +3,14 @@
         "id": 1020710,
         "name": "Ensure the X-XSS-Protection header is enabled",
         "href": "AIP/quality-rules/1020710",
+        "status": null,
         "critical": true
     },
     {
         "id": 1020712,
         "name": "Ensure the X-Frame-Options header is setup",
         "href": "AIP/quality-rules/1020712",
+        "status": null,
         "critical": true
     }
 ]

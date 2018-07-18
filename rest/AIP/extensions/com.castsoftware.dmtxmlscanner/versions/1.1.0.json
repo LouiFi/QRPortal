@@ -1,0 +1,12 @@
+{
+    "extension": {
+        "name": "com.castsoftware.dmtxmlscanner",
+        "href": "AIP/extensions/com.castsoftware.dmtxmlscanner"
+    },
+    "name": "1.1.0",
+    "href": "AIP/extensions/com.castsoftware.dmtxmlscanner/versions/1.1.0",
+    "publishedTime": "2018-07-11T10:09:09.9837277+00:00",
+    "qualityModel": false,
+    "transactionsConfiguration": false,
+    "qualityRules": null
+}

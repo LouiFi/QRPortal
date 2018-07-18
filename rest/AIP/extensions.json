@@ -199,6 +199,12 @@
     },
     {
         "qualityModel": true,
+        "transactionsConfiguration": false,
+        "name": "com.castsoftware.jeerules",
+        "href": "AIP/extensions/com.castsoftware.jeerules"
+    },
+    {
+        "qualityModel": true,
         "transactionsConfiguration": true,
         "name": "com.castsoftware.jquery",
         "href": "AIP/extensions/com.castsoftware.jquery"

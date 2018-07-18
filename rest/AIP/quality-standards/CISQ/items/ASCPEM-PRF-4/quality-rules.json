@@ -3,84 +3,98 @@
         "id": 7130,
         "name": "Avoid Artifacts with High Depth of Nested Subqueries",
         "href": "AIP/quality-rules/7130",
+        "status": null,
         "critical": false
     },
     {
         "id": 7808,
         "name": "Avoid Artifacts with SQL statement including subqueries",
         "href": "AIP/quality-rules/7808",
+        "status": null,
         "critical": false
     },
     {
         "id": 1020004,
         "name": "Avoid to use querySelectorAll",
         "href": "AIP/quality-rules/1020004",
+        "status": null,
         "critical": true
     },
     {
         "id": 1020006,
         "name": "Avoid to call a function in a termination loop",
         "href": "AIP/quality-rules/1020006",
+        "status": null,
         "critical": true
     },
     {
         "id": 1020008,
         "name": "Avoid for-in loop",
         "href": "AIP/quality-rules/1020008",
+        "status": null,
         "critical": false
     },
     {
         "id": 1020010,
         "name": "Avoid using forEach()",
         "href": "AIP/quality-rules/1020010",
+        "status": null,
         "critical": false
     },
     {
         "id": 1020020,
         "name": "Avoid JavaScript to block page loading",
         "href": "AIP/quality-rules/1020020",
+        "status": null,
         "critical": false
     },
     {
         "id": 1020056,
         "name": "Avoid using Javascript Document.all collection",
         "href": "AIP/quality-rules/1020056",
+        "status": null,
         "critical": false
     },
     {
         "id": 1020302,
         "name": "Avoid using element type in jQuery",
         "href": "AIP/quality-rules/1020302",
+        "status": null,
         "critical": false
     },
     {
         "id": 1020306,
         "name": "Always use find for Id->Child nested selectors",
         "href": "AIP/quality-rules/1020306",
+        "status": null,
         "critical": false
     },
     {
         "id": 1020308,
         "name": "Always cache the returned objects in variables to be reused",
         "href": "AIP/quality-rules/1020308",
+        "status": null,
         "critical": false
     },
     {
         "id": 1020310,
         "name": "Use \"type=\" to select elements by type",
         "href": "AIP/quality-rules/1020310",
+        "status": null,
         "critical": false
     },
     {
         "id": 1020314,
         "name": "Avoid using css() of many elements",
         "href": "AIP/quality-rules/1020314",
+        "status": null,
         "critical": false
     },
     {
         "id": 1020316,
         "name": "Avoid Universal Selectors",
         "href": "AIP/quality-rules/1020316",
+        "status": null,
         "critical": false
     }
 ]

@@ -1,4 +1,4 @@
-import { TOGGLENAVBAR, SETSELECTEDNAVITEM, OPENMENUELEMENT } from './types';
+import { TOGGLENAVBAR, SETSELECTEDNAVITEM, OPENMENUELEMENT, UPDATEVERTICALARRAY } from './types';
 
 export function toggleNavBar(){
   return {
@@ -17,5 +17,12 @@ export function openMenuElement( index ){
   return {
     type: OPENMENUELEMENT,
     payload: index
+  };
+}
+
+export function updateVerticalArray( newArray ){
+  return {
+    type: UPDATEVERTICALARRAY,
+    payload: newArray
   };
 }

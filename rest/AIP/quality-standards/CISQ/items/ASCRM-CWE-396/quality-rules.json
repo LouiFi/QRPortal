@@ -3,60 +3,70 @@
         "id": 2232,
         "name": "Pages should use error handling page",
         "href": "AIP/quality-rules/2232",
+        "status": null,
         "critical": false
     },
     {
         "id": 4696,
         "name": "Avoid using 'System.err' and 'System.out' within a try catch block",
         "href": "AIP/quality-rules/4696",
+        "status": null,
         "critical": false
     },
     {
         "id": 4698,
         "name": "Avoid using 'System.err' and 'System.out' outside a try catch block",
         "href": "AIP/quality-rules/4698",
+        "status": null,
         "critical": false
     },
     {
         "id": 4700,
         "name": "Avoid using 'Throwable.printStackTrace()' within a try catch block",
         "href": "AIP/quality-rules/4700",
+        "status": null,
         "critical": false
     },
     {
         "id": 4702,
         "name": "Avoid using 'Throwable.printStackTrace()' outside a try catch block",
         "href": "AIP/quality-rules/4702",
+        "status": null,
         "critical": false
     },
     {
         "id": 7862,
         "name": "Avoid catching an exception of type Exception, RuntimeException, or Throwable",
         "href": "AIP/quality-rules/7862",
+        "status": null,
         "critical": false
     },
     {
         "id": 8000,
         "name": "Avoid 'catch-all' statement",
         "href": "AIP/quality-rules/8000",
+        "status": null,
         "critical": false
     },
     {
         "id": 8122,
         "name": "Avoid using CALL METHOD without error handling",
         "href": "AIP/quality-rules/8122",
+        "status": null,
         "critical": false
     },
     {
         "id": 1020540,
         "name": "Avoid using $http success and error function",
         "href": "AIP/quality-rules/1020540",
+        "status": null,
         "critical": false
     },
     {
         "id": 1020700,
         "name": "Avoid the lack of error handling in the Node.js callbacks",
         "href": "AIP/quality-rules/1020700",
+        "status": null,
         "critical": false
     }
 ]

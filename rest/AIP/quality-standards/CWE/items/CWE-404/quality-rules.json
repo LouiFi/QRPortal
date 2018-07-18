@@ -3,6 +3,7 @@
         "id": 8104,
         "name": "Close database resources ASAP",
         "href": "AIP/quality-rules/8104",
+        "status": null,
         "critical": true
     }
 ]

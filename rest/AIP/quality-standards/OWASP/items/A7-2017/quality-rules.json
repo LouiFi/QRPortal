@@ -3,18 +3,21 @@
         "id": 7740,
         "name": "CWE-79: Avoid cross-site scripting DOM vulnerabilities",
         "href": "AIP/quality-rules/7740",
+        "status": null,
         "critical": true
     },
     {
         "id": 7750,
         "name": "CWE-91: Avoid XPath injection vulnerabilities",
         "href": "AIP/quality-rules/7750",
+        "status": null,
         "critical": true
     },
     {
         "id": 1020710,
         "name": "Ensure the X-XSS-Protection header is enabled",
         "href": "AIP/quality-rules/1020710",
+        "status": null,
         "critical": true
     }
 ]

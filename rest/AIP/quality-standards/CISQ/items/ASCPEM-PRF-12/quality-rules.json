@@ -3,6 +3,7 @@
         "id": 7424,
         "name": "Avoid using SQL queries inside a loop",
         "href": "AIP/quality-rules/7424",
+        "status": null,
         "critical": true
     }
 ]

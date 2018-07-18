@@ -3,6 +3,7 @@
         "id": 7190,
         "name": "Validator form validate() Method must call super.validate()",
         "href": "AIP/quality-rules/7190",
+        "status": null,
         "critical": false
     }
 ]

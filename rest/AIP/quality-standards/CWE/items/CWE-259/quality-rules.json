@@ -3,12 +3,14 @@
         "id": 8102,
         "name": "Avoid hardcoded network resource names",
         "href": "AIP/quality-rules/8102",
+        "status": null,
         "critical": false
     },
     {
         "id": 1021042,
         "name": "Avoid hardcoded passwords",
         "href": "AIP/quality-rules/1021042",
+        "status": null,
         "critical": true
     }
 ]

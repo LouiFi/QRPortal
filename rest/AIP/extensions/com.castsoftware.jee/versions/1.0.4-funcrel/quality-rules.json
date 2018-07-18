@@ -2,12 +2,14 @@
     {
         "id": 1012000,
         "name": "Avoid Usage of weak encryption algorithm like DES",
+        "href": null,
         "status": "deprecated",
         "critical": true
     },
     {
         "id": 1012002,
         "name": "Avoid using RSA Cryptographic algorithms without OAEP",
+        "href": null,
         "status": "deprecated",
         "critical": true
     }

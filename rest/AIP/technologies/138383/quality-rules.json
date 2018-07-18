@@ -3,714 +3,826 @@
         "id": 2616,
         "name": "Avoid undocumented Forms",
         "href": "AIP/quality-rules/2616",
+        "status": null,
         "critical": false
     },
     {
         "id": 2624,
         "name": "Avoid unreferenced Forms",
         "href": "AIP/quality-rules/2624",
+        "status": null,
         "critical": false
     },
     {
         "id": 3550,
         "name": "Namespace naming convention - case control",
         "href": "AIP/quality-rules/3550",
+        "status": null,
         "critical": false
     },
     {
         "id": 3554,
         "name": "Interface naming convention - case and character set control",
         "href": "AIP/quality-rules/3554",
+        "status": null,
         "critical": false
     },
     {
         "id": 3558,
         "name": "Enumerations naming convention - case and character set control",
         "href": "AIP/quality-rules/3558",
+        "status": null,
         "critical": false
     },
     {
         "id": 3560,
         "name": "Enumeration Items naming convention - case and character set control",
         "href": "AIP/quality-rules/3560",
+        "status": null,
         "critical": false
     },
     {
         "id": 3562,
         "name": "Private Fields naming convention - case and character set control",
         "href": "AIP/quality-rules/3562",
+        "status": null,
         "critical": false
     },
     {
         "id": 3564,
         "name": "Public Fields naming convention - case and character set control",
         "href": "AIP/quality-rules/3564",
+        "status": null,
         "critical": false
     },
     {
         "id": 3566,
         "name": "Methods naming convention - case and character set control",
         "href": "AIP/quality-rules/3566",
+        "status": null,
         "critical": false
     },
     {
         "id": 3568,
         "name": "Events naming convention - case and character set control",
         "href": "AIP/quality-rules/3568",
+        "status": null,
         "critical": false
     },
     {
         "id": 3570,
         "name": "Avoid using Keywords as names",
         "href": "AIP/quality-rules/3570",
+        "status": null,
         "critical": false
     },
     {
         "id": 3572,
         "name": "Controls naming convention - prefix, case and character set control",
         "href": "AIP/quality-rules/3572",
+        "status": null,
         "critical": false
     },
     {
         "id": 3574,
         "name": "Properties naming convention - case and character set control",
         "href": "AIP/quality-rules/3574",
+        "status": null,
         "critical": false
     },
     {
         "id": 3576,
         "name": "Avoid declaring public Fields",
         "href": "AIP/quality-rules/3576",
+        "status": null,
         "critical": true
     },
     {
         "id": 3578,
         "name": "Avoid large Classes - too many Constructors",
         "href": "AIP/quality-rules/3578",
+        "status": null,
         "critical": false
     },
     {
         "id": 3580,
         "name": "Avoid large Classes - too many Methods",
         "href": "AIP/quality-rules/3580",
+        "status": null,
         "critical": false
     },
     {
         "id": 3586,
         "name": "Avoid large Methods - too many Lines of Code",
         "href": "AIP/quality-rules/3586",
+        "status": null,
         "critical": false
     },
     {
         "id": 3590,
         "name": "Avoid Interface implementation on Structures",
         "href": "AIP/quality-rules/3590",
+        "status": null,
         "critical": false
     },
     {
         "id": 3612,
         "name": "Close SQL connection ASAP",
         "href": "AIP/quality-rules/3612",
+        "status": null,
         "critical": true
     },
     {
         "id": 3614,
         "name": "Avoid using String.Empty for empty string tests",
         "href": "AIP/quality-rules/3614",
+        "status": null,
         "critical": false
     },
     {
         "id": 3616,
         "name": "Data Access must be based on Stored Procedure Calls",
         "href": "AIP/quality-rules/3616",
+        "status": null,
         "critical": false
     },
     {
         "id": 3626,
         "name": "Avoid Interfaces with a very low comment/code ratio",
         "href": "AIP/quality-rules/3626",
+        "status": null,
         "critical": false
     },
     {
         "id": 3630,
         "name": "Avoid having Classes implementing too many Interfaces",
         "href": "AIP/quality-rules/3630",
+        "status": null,
         "critical": false
     },
     {
         "id": 7194,
         "name": "Avoid large number of String concatenation",
         "href": "AIP/quality-rules/7194",
+        "status": null,
         "critical": false
     },
     {
         "id": 7198,
         "name": "Avoid String concatenation in loops",
         "href": "AIP/quality-rules/7198",
+        "status": null,
         "critical": false
     },
     {
         "id": 7208,
         "name": "Avoid the use of is inside loops",
         "href": "AIP/quality-rules/7208",
+        "status": null,
         "critical": false
     },
     {
         "id": 7212,
         "name": "Avoid instantiations inside loops",
         "href": "AIP/quality-rules/7212",
+        "status": null,
         "critical": true
     },
     {
         "id": 7258,
         "name": "DataReader must be called using CommandBehavior.CloseConnection enumeration",
         "href": "AIP/quality-rules/7258",
+        "status": null,
         "critical": false
     },
     {
         "id": 7260,
         "name": "User Interface elements must not use directly the database",
         "href": "AIP/quality-rules/7260",
+        "status": null,
         "critical": false
     },
     {
         "id": 7262,
         "name": "Avoid Namespaces with High Efferent Coupling (CE)",
         "href": "AIP/quality-rules/7262",
+        "status": null,
         "critical": false
     },
     {
         "id": 7264,
         "name": "Avoid namespaces with High Afferent Coupling (CA)",
         "href": "AIP/quality-rules/7264",
+        "status": null,
         "critical": false
     },
     {
         "id": 7266,
         "name": "Call 'base.Dispose()' or 'MyBase.Finalize()' in the \"finally\" block of 'Dispose(bool)' methods",
         "href": "AIP/quality-rules/7266",
+        "status": null,
         "critical": false
     },
     {
         "id": 7268,
         "name": "Dispose() methods should call GC.SuppressFinalize",
         "href": "AIP/quality-rules/7268",
+        "status": null,
         "critical": false
     },
     {
         "id": 7270,
         "name": "Declare as Static all methods not using instance members",
         "href": "AIP/quality-rules/7270",
+        "status": null,
         "critical": false
     },
     {
         "id": 7272,
         "name": "Provide a private default Constructor for utility Classes",
         "href": "AIP/quality-rules/7272",
+        "status": null,
         "critical": false
     },
     {
         "id": 7294,
         "name": "Avoid cyclical calls and inheritances between namespaces content",
         "href": "AIP/quality-rules/7294",
+        "status": null,
         "critical": true
     },
     {
         "id": 7352,
         "name": "Avoid calling properties that clone values in loops",
         "href": "AIP/quality-rules/7352",
+        "status": null,
         "critical": false
     },
     {
         "id": 7358,
         "name": "Avoid call to AcceptChanges in a loop",
         "href": "AIP/quality-rules/7358",
+        "status": null,
         "critical": true
     },
     {
         "id": 7458,
         "name": "Avoid large Interfaces - too many Methods",
         "href": "AIP/quality-rules/7458",
+        "status": null,
         "critical": false
     },
     {
         "id": 7460,
         "name": "Avoid using untyped DataSet",
         "href": "AIP/quality-rules/7460",
+        "status": null,
         "critical": true
     },
     {
         "id": 7466,
         "name": "Avoid changing DataSource member before ValueMember/DisplayMember",
         "href": "AIP/quality-rules/7466",
+        "status": null,
         "critical": false
     },
     {
         "id": 7468,
         "name": "Disable constraints before merging DataSet",
         "href": "AIP/quality-rules/7468",
+        "status": null,
         "critical": false
     },
     {
         "id": 7470,
         "name": "Avoid doing select on Datatable in loop",
         "href": "AIP/quality-rules/7470",
+        "status": null,
         "critical": true
     },
     {
         "id": 7474,
         "name": "Use BeginUpdate/EndUpdate when using Items.Add method in loop",
         "href": "AIP/quality-rules/7474",
+        "status": null,
         "critical": false
     },
     {
         "id": 7740,
         "name": "CWE-79: Avoid cross-site scripting DOM vulnerabilities",
         "href": "AIP/quality-rules/7740",
+        "status": null,
         "critical": true
     },
     {
         "id": 7742,
         "name": "CWE-89: Avoid SQL injection vulnerabilities",
         "href": "AIP/quality-rules/7742",
+        "status": null,
         "critical": true
     },
     {
         "id": 7746,
         "name": "CWE-90: Avoid LDAP injection vulnerabilities",
         "href": "AIP/quality-rules/7746",
+        "status": null,
         "critical": true
     },
     {
         "id": 7748,
         "name": "CWE-78: Avoid OS command injection vulnerabilities",
         "href": "AIP/quality-rules/7748",
+        "status": null,
         "critical": true
     },
     {
         "id": 7750,
         "name": "CWE-91: Avoid XPath injection vulnerabilities",
         "href": "AIP/quality-rules/7750",
+        "status": null,
         "critical": true
     },
     {
         "id": 7752,
         "name": "CWE-73: Avoid file path manipulation vulnerabilities",
         "href": "AIP/quality-rules/7752",
+        "status": null,
         "critical": true
     },
     {
         "id": 7766,
         "name": "Avoid Artifacts with High Cyclomatic Complexity",
         "href": "AIP/quality-rules/7766",
+        "status": null,
         "critical": false
     },
     {
         "id": 7768,
         "name": "Avoid Artifacts with High Depth of Code",
         "href": "AIP/quality-rules/7768",
+        "status": null,
         "critical": false
     },
     {
         "id": 7770,
         "name": "Avoid Artifacts with too many parameters",
         "href": "AIP/quality-rules/7770",
+        "status": null,
         "critical": false
     },
     {
         "id": 7772,
         "name": "Avoid Artifacts with High Essential Complexity",
         "href": "AIP/quality-rules/7772",
+        "status": null,
         "critical": false
     },
     {
         "id": 7774,
         "name": "Avoid Artifacts with High Integration Complexity",
         "href": "AIP/quality-rules/7774",
+        "status": null,
         "critical": false
     },
     {
         "id": 7776,
         "name": "Avoid Artifacts with High Fan-In",
         "href": "AIP/quality-rules/7776",
+        "status": null,
         "critical": false
     },
     {
         "id": 7778,
         "name": "Avoid Artifacts with High Fan-Out",
         "href": "AIP/quality-rules/7778",
+        "status": null,
         "critical": false
     },
     {
         "id": 7780,
         "name": "Avoid Classes with a very low comment/code ratio",
         "href": "AIP/quality-rules/7780",
+        "status": null,
         "critical": false
     },
     {
         "id": 7782,
         "name": "Avoid empty finally blocks",
         "href": "AIP/quality-rules/7782",
+        "status": null,
         "critical": false
     },
     {
         "id": 7784,
         "name": "Avoid Artifacts with lines longer than X characters",
         "href": "AIP/quality-rules/7784",
+        "status": null,
         "critical": false
     },
     {
         "id": 7788,
         "name": "Avoid empty catch blocks",
         "href": "AIP/quality-rules/7788",
+        "status": null,
         "critical": true
     },
     {
         "id": 7792,
         "name": "Avoid Classes with a High Number Of Children",
         "href": "AIP/quality-rules/7792",
+        "status": null,
         "critical": false
     },
     {
         "id": 7794,
         "name": "Avoid Classes with a High Public Data Ratio",
         "href": "AIP/quality-rules/7794",
+        "status": null,
         "critical": false
     },
     {
         "id": 7796,
         "name": "Avoid Classes with a High Lack of Cohesion - variant",
         "href": "AIP/quality-rules/7796",
+        "status": null,
         "critical": false
     },
     {
         "id": 7798,
         "name": "Avoid Classes with a High Lack of Cohesion",
         "href": "AIP/quality-rules/7798",
+        "status": null,
         "critical": false
     },
     {
         "id": 7800,
         "name": "Avoid Classes with High Coupling Between Objects",
         "href": "AIP/quality-rules/7800",
+        "status": null,
         "critical": false
     },
     {
         "id": 7802,
         "name": "Avoid Classes with a High Depth of Inheritance Tree",
         "href": "AIP/quality-rules/7802",
+        "status": null,
         "critical": false
     },
     {
         "id": 7804,
         "name": "Avoid Classes with High Weighted Methods per Class",
         "href": "AIP/quality-rules/7804",
+        "status": null,
         "critical": false
     },
     {
         "id": 7806,
         "name": "Avoid Artifacts with Group By",
         "href": "AIP/quality-rules/7806",
+        "status": null,
         "critical": false
     },
     {
         "id": 7812,
         "name": "Class naming convention - case and character set control",
         "href": "AIP/quality-rules/7812",
+        "status": null,
         "critical": false
     },
     {
         "id": 7816,
         "name": "Avoid using GOTO statement",
         "href": "AIP/quality-rules/7816",
+        "status": null,
         "critical": false
     },
     {
         "id": 7824,
         "name": "The exception Exception should never been thrown. Always Subclass Exception and throw the subclassed Classes.",
         "href": "AIP/quality-rules/7824",
+        "status": null,
         "critical": true
     },
     {
         "id": 7830,
         "name": "Avoid unreferenced Interfaces",
         "href": "AIP/quality-rules/7830",
+        "status": null,
         "critical": false
     },
     {
         "id": 7832,
         "name": "Avoid unreferenced Classes",
         "href": "AIP/quality-rules/7832",
+        "status": null,
         "critical": false
     },
     {
         "id": 7834,
         "name": "Avoid undocumented Interfaces",
         "href": "AIP/quality-rules/7834",
+        "status": null,
         "critical": false
     },
     {
         "id": 7838,
         "name": "Avoid undocumented Methods",
         "href": "AIP/quality-rules/7838",
+        "status": null,
         "critical": false
     },
     {
         "id": 7842,
         "name": "Avoid large Artifacts - too many Lines of Code",
         "href": "AIP/quality-rules/7842",
+        "status": null,
         "critical": false
     },
     {
         "id": 7844,
         "name": "Avoid undocumented Classes",
         "href": "AIP/quality-rules/7844",
+        "status": null,
         "critical": false
     },
     {
         "id": 7846,
         "name": "Avoid Methods with a very low comment/code ratio",
         "href": "AIP/quality-rules/7846",
+        "status": null,
         "critical": false
     },
     {
         "id": 7848,
         "name": "Interface naming convention - prefix",
         "href": "AIP/quality-rules/7848",
+        "status": null,
         "critical": false
     },
     {
         "id": 7862,
         "name": "Avoid catching an exception of type Exception, RuntimeException, or Throwable",
         "href": "AIP/quality-rules/7862",
+        "status": null,
         "critical": false
     },
     {
         "id": 7908,
         "name": "Avoid unreferenced Methods",
         "href": "AIP/quality-rules/7908",
+        "status": null,
         "critical": false
     },
     {
         "id": 7912,
         "name": "Avoid unreferenced Data Members",
         "href": "AIP/quality-rules/7912",
+        "status": null,
         "critical": false
     },
     {
         "id": 7914,
         "name": "Avoid direct access to Database Tables",
         "href": "AIP/quality-rules/7914",
+        "status": null,
         "critical": false
     },
     {
         "id": 7918,
         "name": "Exceptions naming convention -suffix control",
         "href": "AIP/quality-rules/7918",
+        "status": null,
         "critical": false
     },
     {
         "id": 7920,
         "name": "Exceptions naming convention - case and character set control",
         "href": "AIP/quality-rules/7920",
+        "status": null,
         "critical": false
     },
     {
         "id": 7934,
         "name": "Avoid Superclass (or Interface) knowing Subclass (or Interface)",
         "href": "AIP/quality-rules/7934",
+        "status": null,
         "critical": false
     },
     {
         "id": 7944,
         "name": "Avoid High Response for Classes",
         "href": "AIP/quality-rules/7944",
+        "status": null,
         "critical": false
     },
     {
         "id": 8028,
         "name": "Avoid missing default in switch statements",
         "href": "AIP/quality-rules/8028",
+        "status": null,
         "critical": false
     },
     {
         "id": 8032,
         "name": "Avoid using a break statement in 'for' loops",
         "href": "AIP/quality-rules/8032",
+        "status": null,
         "critical": false
     },
     {
         "id": 8044,
         "name": "CWE-117: Avoid Log forging vulnerabilities",
         "href": "AIP/quality-rules/8044",
+        "status": null,
         "critical": true
     },
     {
         "id": 8086,
         "name": "Avoid types that own disposable fields and are not disposable",
         "href": "AIP/quality-rules/8086",
+        "status": null,
         "critical": false
     },
     {
         "id": 8088,
         "name": "Avoid override artifacts not having link demands identical to base",
         "href": "AIP/quality-rules/8088",
+        "status": null,
         "critical": false
     },
     {
         "id": 8090,
         "name": "Avoid using NaN to test the result of an expression",
         "href": "AIP/quality-rules/8090",
+        "status": null,
         "critical": false
     },
     {
         "id": 8092,
         "name": "Avoid Objects having exposed pointers allowed to access unmanaged memory",
         "href": "AIP/quality-rules/8092",
+        "status": null,
         "critical": false
     },
     {
         "id": 8094,
         "name": "Avoid locking of Objects with weak identities",
         "href": "AIP/quality-rules/8094",
+        "status": null,
         "critical": false
     },
     {
         "id": 8098,
         "name": "CWE-134: Avoid uncontrolled format string",
         "href": "AIP/quality-rules/8098",
+        "status": null,
         "critical": true
     },
     {
         "id": 8108,
         "name": "Close the outermost stream ASAP",
         "href": "AIP/quality-rules/8108",
+        "status": null,
         "critical": true
     },
     {
         "id": 8110,
         "name": "Use dedicated stored procedures when multiple data accesses are needed (ASCPEM-PRF-10)",
         "href": "AIP/quality-rules/8110",
+        "status": null,
         "critical": true
     },
     {
         "id": 8112,
         "name": "Avoid improper processing of the execution status of data handling operations",
         "href": "AIP/quality-rules/8112",
+        "status": null,
         "critical": true
     },
     {
         "id": 8148,
         "name": "Avoid artifacts having Incorrect Type Conversion or Cast",
         "href": "AIP/quality-rules/8148",
+        "status": null,
         "critical": true
     },
     {
         "id": 8150,
         "name": "Avoid using Parse for primitive types and used instead TryParse",
         "href": "AIP/quality-rules/8150",
+        "status": null,
         "critical": false
     },
     {
         "id": 8152,
         "name": "Avoid having transaction with the Thread.Sleep method in a loop",
         "href": "AIP/quality-rules/8152",
+        "status": null,
         "critical": false
     },
     {
         "id": 8154,
         "name": "Avoid using GC.Collect()",
         "href": "AIP/quality-rules/8154",
+        "status": null,
         "critical": false
     },
     {
         "id": 8156,
         "name": "Persistent classes should implement GetHashCode() and Equals()",
         "href": "AIP/quality-rules/8156",
+        "status": null,
         "critical": false
     },
     {
         "id": 8158,
         "name": "Runtime Resource Management Control Element in a Component Built to Run on Application Servers",
         "href": "AIP/quality-rules/8158",
+        "status": null,
         "critical": true
     },
     {
         "id": 8222,
         "name": "CWE-798: Use of hard-coded credentials",
         "href": "AIP/quality-rules/8222",
+        "status": null,
         "critical": true
     },
     {
         "id": 8238,
         "name": "CWE-501: Trust boundary violation",
         "href": "AIP/quality-rules/8238",
-        "critical": true
-    },
-    {
-        "id": 8240,
-        "name": "CWE-614: Sensitive Cookie in HTTPS Session Without 'Secure' Attribute",
-        "href": "AIP/quality-rules/8240",
+        "status": null,
         "critical": true
     },
     {
         "id": 8242,
         "name": "CWE-330: Use of insufficiently random values",
         "href": "AIP/quality-rules/8242",
+        "status": null,
         "critical": true
     },
     {
         "id": 8400,
         "name": "Avoid having lock on this object",
         "href": "AIP/quality-rules/8400",
+        "status": null,
         "critical": false
     },
     {
         "id": 8402,
         "name": "All types of a serializable class must be serializable",
         "href": "AIP/quality-rules/8402",
+        "status": null,
         "critical": false
     },
     {
         "id": 1060020,
         "name": "Avoid empty catch blocks for methods with high fan-in",
         "href": "AIP/quality-rules/1060020",
+        "status": null,
         "critical": true
     },
     {
         "id": 1060022,
         "name": "Avoid too many SQL calls for methods with high fan-in",
         "href": "AIP/quality-rules/1060022",
+        "status": null,
         "critical": true
     },
     {
         "id": 1101036,
         "name": "Use ANSI standard operators in SQL WHERE clauses",
         "href": "AIP/quality-rules/1101036",
+        "status": null,
         "critical": false
     },
     {
         "id": 1101958,
         "name": "Avoid artifacts having db.collection.ensureIndex() to create new indexes",
         "href": "AIP/quality-rules/1101958",
+        "status": null,
         "critical": false
     },
     {
         "id": 1101962,
         "name": "Avoid using explain() in production code",
         "href": "AIP/quality-rules/1101962",
+        "status": null,
         "critical": false
     },
     {
         "id": 1101964,
         "name": "When using compound indexes, avoid having different index ordering in collection access",
         "href": "AIP/quality-rules/1101964",
+        "status": null,
         "critical": false
     },
     {
         "id": 1101966,
         "name": "Avoid having MongoDB databases access without authentication activated",
         "href": "AIP/quality-rules/1101966",
+        "status": null,
         "critical": false
     }
 ]

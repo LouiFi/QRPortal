@@ -3,18 +3,21 @@
         "id": 7748,
         "name": "CWE-78: Avoid OS command injection vulnerabilities",
         "href": "AIP/quality-rules/7748",
+        "status": null,
         "critical": true
     },
     {
         "id": 1021036,
         "name": "Avoid using eval",
         "href": "AIP/quality-rules/1021036",
+        "status": null,
         "critical": true
     },
     {
         "id": 1021038,
         "name": "Avoid using exec",
         "href": "AIP/quality-rules/1021038",
+        "status": null,
         "critical": true
     }
 ]

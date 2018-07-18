@@ -3,6 +3,7 @@
         "id": 7362,
         "name": "Avoid action mappings validator turned off",
         "href": "AIP/quality-rules/7362",
+        "status": null,
         "critical": true
     }
 ]

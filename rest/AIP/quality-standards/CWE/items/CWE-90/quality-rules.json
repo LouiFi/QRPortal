@@ -3,6 +3,7 @@
         "id": 7746,
         "name": "CWE-90: Avoid LDAP injection vulnerabilities",
         "href": "AIP/quality-rules/7746",
+        "status": null,
         "critical": true
     }
 ]

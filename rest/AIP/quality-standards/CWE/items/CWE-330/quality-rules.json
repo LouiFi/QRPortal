@@ -3,6 +3,7 @@
         "id": 8242,
         "name": "CWE-330: Use of insufficiently random values",
         "href": "AIP/quality-rules/8242",
+        "status": null,
         "critical": true
     }
 ]

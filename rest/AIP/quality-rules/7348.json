@@ -5,7 +5,7 @@
     "critical": false,
     "maxWeight": 8,
     "associatedValueName": "Associated Value",
-    "description": "Avoid having more than (>) X indexes (where X is a parameter)",
+    "description": "This rule will report a violation where the number of indexes on a table exceeds X (where X is configurable parameter). Note that the rule will consider Primary Keys as indexes since we know that as per the RDBMS, there is a default index created for each Primary Key.",
     "output": "Associated to each Table with violations, the Quality Rule provides: \n- The Number of indexes of the table.",
     "rationale": "Every index increases the time it takes to perform INSERTS, UPDATES and DELETES, so the number of indexes should not be too high. Try to not use more than a maximum of 4-5 indexes for one table. If you have a read-only table, then the number of indexes is not as important and thus may be larger.",
     "remediation": "Drop unecessary indexes.",

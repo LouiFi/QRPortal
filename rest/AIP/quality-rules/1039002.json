@@ -1,0 +1,45 @@
+{
+    "id": 1039002,
+    "name": "Avoid using Deprecated SSL protocols to secure connection",
+    "href": "AIP/quality-rules/1039002",
+    "critical": true,
+    "associatedValueName": "Associated Value",
+    "description": "The software transmits sensitive or security-critical data in cleartext in a communication channel that can be sniffed by unauthorized actors. \nThe javax.net.ssl.SSLContext.getInstance returns a SSLContext object that implements the specified secure socket protocol. However, not all protocols are created equal and some legacy ones like \"SSL\", have been proven to be insecure. \nThis rule reports a violation when an SSLContext is created with an insecure protocol (ie: a protocol different from \"TLSv1.2\" or \"DTLSv1.2\"). \n\n- SSL v2 is insecure and must not be used. This protocol version is so bad that it can be used to attack RSA keys and sites with the same name even if they are on an entirely different servers (the DROWN attack). \n- SSL v3 is insecure when used with HTTP (the POODLE attack) and weak when used with other protocols. It\u2019s also obsolete and shouldn\u2019t be used. \n- TLS v1.0 is also a legacy protocol that shouldn't be used, but it's typically still necessary in practice. Its major weakness (BEAST) has been mitigated in modern browsers, but other problems remain. \n- TLS v1.1 and v1.2 are both without known security issues, but only v1.2 provides modern cryptographic algorithms. \n\nThis rule is compliant with CWE-319: Cleartext Transmission of Sensitive Information ",
+    "output": "This report lists all artifacts with JAVA methods",
+    "rationale": "Secure Socket Layer (SSL) technology is security that is implemented at the transport layer (see Transport-Layer Security for more information about transport-layer security). SSL allows web browsers and web servers to communicate over a secure connection. In this secure connection, the data is encrypted before being sent and then is decrypted upon receipt and before processing. Both the browser and the server encrypt all traffic before sending any data. SSL addresses the following important security considerations: Authentication, Confidentiality and Integrity",
+    "reference": "https://github.com/ssllabs/research/wiki/SSL-and-TLS-Deployment-Best-Practices \nhttps://cwe.mitre.org/data/definitions/319.html ",
+    "remediation": "Use TLS or DTLS  in place of SSL.",
+    "remediationSample": "context = SSLContext.getInstance(\"TLSv1.2\"); // Violation FIXED ",
+    "sample": "context = SSLContext.getInstance(\"SSL\"); // Violation used protocol is not 'TLSv1.2' or 'DTLSv1.2' ",
+    "total": "Number of Java Artifact",
+    "businessCriteria": [
+        {
+            "id": 20140522,
+            "name": "Green Stuff",
+            "href": "AIP/business-criteria/20140522"
+        },
+        {
+            "id": 60016,
+            "name": "Security",
+            "href": "AIP/business-criteria/60016"
+        }
+    ],
+    "technicalCriteria": [
+        {
+            "id": 66064,
+            "name": "Secure Coding - Weak Security Features",
+            "weight": 7,
+            "critical": true
+        }
+    ],
+    "technologies": [
+        {
+            "id": 140029,
+            "name": "JEE",
+            "href": "AIP/technologies/140029"
+        }
+    ],
+    "qualityStandards": [
+        
+    ]
+}

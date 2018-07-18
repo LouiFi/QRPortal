@@ -3,24 +3,28 @@
         "id": 3612,
         "name": "Close SQL connection ASAP",
         "href": "AIP/quality-rules/3612",
+        "status": null,
         "critical": true
     },
     {
         "id": 8108,
         "name": "Close the outermost stream ASAP",
         "href": "AIP/quality-rules/8108",
+        "status": null,
         "critical": true
     },
     {
         "id": 1020730,
         "name": "Ensure Node.js filesystem are closed",
         "href": "AIP/quality-rules/1020730",
+        "status": null,
         "critical": false
     },
     {
         "id": 1021026,
         "name": "Avoid leaving open file resources",
         "href": "AIP/quality-rules/1021026",
+        "status": null,
         "critical": true
     }
 ]

@@ -3,12 +3,14 @@
         "id": 1050016,
         "name": "Never use strcat() function",
         "href": "AIP/quality-rules/1050016",
+        "status": null,
         "critical": true
     },
     {
         "id": 1050018,
         "name": "Never use strcpy() function",
         "href": "AIP/quality-rules/1050018",
+        "status": null,
         "critical": true
     }
 ]

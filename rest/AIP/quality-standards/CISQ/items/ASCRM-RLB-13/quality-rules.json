@@ -3,6 +3,7 @@
         "id": 7294,
         "name": "Avoid cyclical calls and inheritances between namespaces content",
         "href": "AIP/quality-rules/7294",
+        "status": null,
         "critical": true
     }
 ]

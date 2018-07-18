@@ -3,18 +3,21 @@
         "id": 7504,
         "name": "Persistent classes should Implement hashCode() and equals()",
         "href": "AIP/quality-rules/7504",
+        "status": null,
         "critical": true
     },
     {
         "id": 7506,
         "name": "Define equals() and hashCode() for component",
         "href": "AIP/quality-rules/7506",
+        "status": null,
         "critical": true
     },
     {
         "id": 1050012,
         "name": "Objective-C interface overrides the isEqual: method but not the hash method",
         "href": "AIP/quality-rules/1050012",
+        "status": null,
         "critical": true
     }
 ]

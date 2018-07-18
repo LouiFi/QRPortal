@@ -3,48 +3,56 @@
         "id": 5144,
         "name": "Avoid using GOTO statement",
         "href": "AIP/quality-rules/5144",
+        "status": null,
         "critical": false
     },
     {
         "id": 7816,
         "name": "Avoid using GOTO statement",
         "href": "AIP/quality-rules/7816",
+        "status": null,
         "critical": false
     },
     {
         "id": 8028,
         "name": "Avoid missing default in switch statements",
         "href": "AIP/quality-rules/8028",
+        "status": null,
         "critical": false
     },
     {
         "id": 1007154,
         "name": "Avoid using goto statements (PHP)",
         "href": "AIP/quality-rules/1007154",
+        "status": null,
         "critical": true
     },
     {
         "id": 1008108,
         "name": "Avoid using GOTO statement in RPG Programs  (RPG400)",
         "href": "AIP/quality-rules/1008108",
+        "status": null,
         "critical": false
     },
     {
         "id": 1020068,
         "name": "Avoid return statement in finally block",
         "href": "AIP/quality-rules/1020068",
+        "status": null,
         "critical": true
     },
     {
         "id": 1021024,
         "name": "Avoid return statement in finally block",
         "href": "AIP/quality-rules/1021024",
+        "status": null,
         "critical": false
     },
     {
         "id": 1050020,
         "name": "Avoid return statement in @finally block",
         "href": "AIP/quality-rules/1050020",
+        "status": null,
         "critical": true
     }
 ]

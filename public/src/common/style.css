@@ -12,9 +12,11 @@ body {
 .flxr{display: flex; flex-direction: row}
 .flxc{display: flex; flex-direction: column}
 .flxShnk1{ flex-shrink: 1}
+.flxGrw1{ flex-grow: 1}
 .std-bgc{background-color: #F2F2F2;}
 .jsb{ justify-content: space-between;}
 .minh50p{ min-height: 50px }
 .ovfy{ overflow-x: hidden; overflow-y: auto}
 .vh100{ height: 100vh; }
-txtcenter{ text-align: center}
+.txtcenter{ text-align: center}
+.ovfyauto{ overflow-y: auto; overflow-x: hidden}

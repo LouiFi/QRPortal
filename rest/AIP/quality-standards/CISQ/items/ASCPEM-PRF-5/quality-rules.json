@@ -3,18 +3,21 @@
         "id": 7902,
         "name": "Avoid SQL queries that no index can support",
         "href": "AIP/quality-rules/7902",
+        "status": null,
         "critical": false
     },
     {
         "id": 1101004,
         "name": "Avoid non-indexed SQL queries",
         "href": "AIP/quality-rules/1101004",
+        "status": null,
         "critical": false
     },
     {
         "id": 1101006,
         "name": "Avoid non-indexed XXL SQL queries",
         "href": "AIP/quality-rules/1101006",
+        "status": null,
         "critical": true
     }
 ]

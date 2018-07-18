@@ -3,72 +3,84 @@
         "id": 7782,
         "name": "Avoid empty finally blocks",
         "href": "AIP/quality-rules/7782",
+        "status": null,
         "critical": false
     },
     {
         "id": 7788,
         "name": "Avoid empty catch blocks",
         "href": "AIP/quality-rules/7788",
+        "status": null,
         "critical": true
     },
     {
         "id": 1007122,
         "name": "Avoid empty catch blocks (PHP)",
         "href": "AIP/quality-rules/1007122",
+        "status": null,
         "critical": true
     },
     {
         "id": 1020304,
         "name": "Implement success and error callbacks when using jquery web service call",
         "href": "AIP/quality-rules/1020304",
+        "status": null,
         "critical": true
     },
     {
         "id": 1020540,
         "name": "Avoid using $http success and error function",
         "href": "AIP/quality-rules/1020540",
+        "status": null,
         "critical": false
     },
     {
         "id": 1020702,
         "name": "Avoid using process.exit()",
         "href": "AIP/quality-rules/1020702",
+        "status": null,
         "critical": false
     },
     {
         "id": 1021018,
         "name": "Avoid catch-all except blocks with empty handlers",
         "href": "AIP/quality-rules/1021018",
+        "status": null,
         "critical": true
     },
     {
         "id": 1021028,
         "name": "Avoid empty finally block",
         "href": "AIP/quality-rules/1021028",
+        "status": null,
         "critical": true
     },
     {
         "id": 1050030,
         "name": "Ensure the Objective-C error condition check is not fragile",
         "href": "AIP/quality-rules/1050030",
+        "status": null,
         "critical": true
     },
     {
         "id": 1060004,
         "name": "Avoid Empty Finally Block When Calling Resource",
         "href": "AIP/quality-rules/1060004",
+        "status": null,
         "critical": true
     },
     {
         "id": 1060020,
         "name": "Avoid empty catch blocks for methods with high fan-in",
         "href": "AIP/quality-rules/1060020",
+        "status": null,
         "critical": true
     },
     {
         "id": 1101040,
         "name": "Avoid empty catch blocks",
         "href": "AIP/quality-rules/1101040",
+        "status": null,
         "critical": true
     }
 ]

@@ -3,102 +3,119 @@
         "id": 1001022,
         "name": "Avoid PLC Procedures & Functions with a High Fan-out (PL1)",
         "href": "AIP/quality-rules/1001022",
+        "status": null,
         "critical": false
     },
     {
         "id": 1001026,
         "name": "Avoid PLC Procedures & Functions with a High Fan-in (PL1)",
         "href": "AIP/quality-rules/1001026",
+        "status": null,
         "critical": false
     },
     {
         "id": 1001032,
         "name": "Avoid PLC Copybook with High Cyclomatic Complexity (PL1)",
         "href": "AIP/quality-rules/1001032",
+        "status": null,
         "critical": false
     },
     {
         "id": 1001036,
         "name": "Avoid PLC Procedures & Functions with High Cyclomatic Complexity (PL1)",
         "href": "AIP/quality-rules/1001036",
+        "status": null,
         "critical": false
     },
     {
         "id": 1001040,
         "name": "Avoid PLC Includes having recursive PLC procedures (PL1)",
         "href": "AIP/quality-rules/1001040",
+        "status": null,
         "critical": false
     },
     {
         "id": 1001056,
         "name": "Avoid unreferenced PLC Procedures & Functions (PL1)",
         "href": "AIP/quality-rules/1001056",
+        "status": null,
         "critical": false
     },
     {
         "id": 1001058,
         "name": "Avoid unreferenced PLC Copybooks (PL1)",
         "href": "AIP/quality-rules/1001058",
+        "status": null,
         "critical": false
     },
     {
         "id": 1001066,
         "name": "Avoid unreferenced PLC DB2 tables (PL1)",
         "href": "AIP/quality-rules/1001066",
+        "status": null,
         "critical": false
     },
     {
         "id": 1001090,
         "name": "Avoid undocumented PLC Copybook (PL1)",
         "href": "AIP/quality-rules/1001090",
+        "status": null,
         "critical": false
     },
     {
         "id": 1001094,
         "name": "Avoid undocumented PLC Procedures and Functions (PL1)",
         "href": "AIP/quality-rules/1001094",
+        "status": null,
         "critical": false
     },
     {
         "id": 1001098,
         "name": "Avoid PLC Copybook with a very low comment/code ratio (PL1)",
         "href": "AIP/quality-rules/1001098",
+        "status": null,
         "critical": false
     },
     {
         "id": 1001100,
         "name": "Avoid PLC Procedures & Functions with a very low comment/code ratio (PL1)",
         "href": "AIP/quality-rules/1001100",
+        "status": null,
         "critical": false
     },
     {
         "id": 1001108,
         "name": "Avoid PLC Copybooks using variables with ALLOCATE and without FREE  (PL1)",
         "href": "AIP/quality-rules/1001108",
+        "status": null,
         "critical": false
     },
     {
         "id": 1001110,
         "name": "Avoid  PLC Copybooks using FIXED variable type declaration (PL1)",
         "href": "AIP/quality-rules/1001110",
+        "status": null,
         "critical": false
     },
     {
         "id": 1001162,
         "name": "Avoid PLC Copybook using GOTO statement  (PL1)",
         "href": "AIP/quality-rules/1001162",
+        "status": null,
         "critical": true
     },
     {
         "id": 1001186,
         "name": "Avoid PLC Copybook with more than XX lines of code (PL1)",
         "href": "AIP/quality-rules/1001186",
+        "status": null,
         "critical": false
     },
     {
         "id": 1001190,
         "name": "Avoid PLC Procedures & Functions with more than 100 lines of code (PL1)",
         "href": "AIP/quality-rules/1001190",
+        "status": null,
         "critical": false
     }
 ]

@@ -3,330 +3,385 @@
         "id": 6050,
         "name": "Datawindow naming convention",
         "href": "AIP/quality-rules/6050",
+        "status": null,
         "critical": false
     },
     {
         "id": 6052,
         "name": "Global function naming convention",
         "href": "AIP/quality-rules/6052",
+        "status": null,
         "critical": false
     },
     {
         "id": 6054,
         "name": "Menu naming convention",
         "href": "AIP/quality-rules/6054",
+        "status": null,
         "critical": false
     },
     {
         "id": 6056,
         "name": "Structure naming convention",
         "href": "AIP/quality-rules/6056",
+        "status": null,
         "critical": false
     },
     {
         "id": 6062,
         "name": "Window naming convention",
         "href": "AIP/quality-rules/6062",
+        "status": null,
         "critical": false
     },
     {
         "id": 6066,
         "name": "Global variable naming convention",
         "href": "AIP/quality-rules/6066",
+        "status": null,
         "critical": false
     },
     {
         "id": 6068,
         "name": "Instance variable naming convention",
         "href": "AIP/quality-rules/6068",
+        "status": null,
         "critical": false
     },
     {
         "id": 6070,
         "name": "User event naming convention",
         "href": "AIP/quality-rules/6070",
+        "status": null,
         "critical": false
     },
     {
         "id": 6072,
         "name": "Method naming convention",
         "href": "AIP/quality-rules/6072",
+        "status": null,
         "critical": false
     },
     {
         "id": 6076,
         "name": "Avoid Datawindows that does not access a database data",
         "href": "AIP/quality-rules/6076",
+        "status": null,
         "critical": false
     },
     {
         "id": 6078,
         "name": "Avoid Datawindows accessing Database Procedures or Functions",
         "href": "AIP/quality-rules/6078",
+        "status": null,
         "critical": false
     },
     {
         "id": 6082,
         "name": "Avoid PB Function/Event/Method accessing Database Procedures or Functions",
         "href": "AIP/quality-rules/6082",
+        "status": null,
         "critical": false
     },
     {
         "id": 6084,
         "name": "Avoid having unreferenced code",
         "href": "AIP/quality-rules/6084",
+        "status": null,
         "critical": false
     },
     {
         "id": 6102,
         "name": "Avoid undocumented Events",
         "href": "AIP/quality-rules/6102",
+        "status": null,
         "critical": false
     },
     {
         "id": 6104,
         "name": "Avoid events with a very low comment/code ratio",
         "href": "AIP/quality-rules/6104",
+        "status": null,
         "critical": false
     },
     {
         "id": 6106,
         "name": "User event naming convention - declare only",
         "href": "AIP/quality-rules/6106",
+        "status": null,
         "critical": false
     },
     {
         "id": 6110,
         "name": "Controls must inherit from a userobject",
         "href": "AIP/quality-rules/6110",
+        "status": null,
         "critical": false
     },
     {
         "id": 6112,
         "name": "Avoid using global variables",
         "href": "AIP/quality-rules/6112",
+        "status": null,
         "critical": false
     },
     {
         "id": 6114,
         "name": "Avoid using global functions",
         "href": "AIP/quality-rules/6114",
+        "status": null,
         "critical": false
     },
     {
         "id": 6124,
         "name": "Datawindows accessing database must be based on procedure",
         "href": "AIP/quality-rules/6124",
+        "status": null,
         "critical": false
     },
     {
         "id": 6126,
         "name": "Avoid using dynamic SQL in scripts",
         "href": "AIP/quality-rules/6126",
+        "status": null,
         "critical": false
     },
     {
         "id": 6128,
         "name": "Avoid window with too high level of inheritance",
         "href": "AIP/quality-rules/6128",
+        "status": null,
         "critical": false
     },
     {
         "id": 6130,
         "name": "Avoid userobject with too high level of inheritance",
         "href": "AIP/quality-rules/6130",
+        "status": null,
         "critical": false
     },
     {
         "id": 6132,
         "name": "Avoid overriding event",
         "href": "AIP/quality-rules/6132",
+        "status": null,
         "critical": false
     },
     {
         "id": 6134,
         "name": "Avoid menu with too high level of inheritance",
         "href": "AIP/quality-rules/6134",
+        "status": null,
         "critical": false
     },
     {
         "id": 6142,
         "name": "Avoid Windows with too many Methods",
         "href": "AIP/quality-rules/6142",
+        "status": null,
         "critical": false
     },
     {
         "id": 6144,
         "name": "Avoid Userobject with too many Methods",
         "href": "AIP/quality-rules/6144",
+        "status": null,
         "critical": false
     },
     {
         "id": 6150,
         "name": "Avoid Menus, UserObjects and Windows that have no inheritance relations with other objects",
         "href": "AIP/quality-rules/6150",
+        "status": null,
         "critical": false
     },
     {
         "id": 6162,
         "name": "Avoid Artifacts with High integration complexity",
         "href": "AIP/quality-rules/6162",
+        "status": null,
         "critical": false
     },
     {
         "id": 6184,
         "name": "Avoid Artifacts with Subqueries",
         "href": "AIP/quality-rules/6184",
+        "status": null,
         "critical": true
     },
     {
         "id": 6194,
         "name": "Avoid Artifacts with lines of more than 80 characters",
         "href": "AIP/quality-rules/6194",
+        "status": null,
         "critical": false
     },
     {
         "id": 7766,
         "name": "Avoid Artifacts with High Cyclomatic Complexity",
         "href": "AIP/quality-rules/7766",
+        "status": null,
         "critical": false
     },
     {
         "id": 7768,
         "name": "Avoid Artifacts with High Depth of Code",
         "href": "AIP/quality-rules/7768",
+        "status": null,
         "critical": false
     },
     {
         "id": 7770,
         "name": "Avoid Artifacts with too many parameters",
         "href": "AIP/quality-rules/7770",
+        "status": null,
         "critical": false
     },
     {
         "id": 7772,
         "name": "Avoid Artifacts with High Essential Complexity",
         "href": "AIP/quality-rules/7772",
+        "status": null,
         "critical": false
     },
     {
         "id": 7776,
         "name": "Avoid Artifacts with High Fan-In",
         "href": "AIP/quality-rules/7776",
+        "status": null,
         "critical": false
     },
     {
         "id": 7778,
         "name": "Avoid Artifacts with High Fan-Out",
         "href": "AIP/quality-rules/7778",
+        "status": null,
         "critical": false
     },
     {
         "id": 7792,
         "name": "Avoid Classes with a High Number Of Children",
         "href": "AIP/quality-rules/7792",
+        "status": null,
         "critical": false
     },
     {
         "id": 7794,
         "name": "Avoid Classes with a High Public Data Ratio",
         "href": "AIP/quality-rules/7794",
+        "status": null,
         "critical": false
     },
     {
         "id": 7796,
         "name": "Avoid Classes with a High Lack of Cohesion - variant",
         "href": "AIP/quality-rules/7796",
+        "status": null,
         "critical": false
     },
     {
         "id": 7798,
         "name": "Avoid Classes with a High Lack of Cohesion",
         "href": "AIP/quality-rules/7798",
+        "status": null,
         "critical": false
     },
     {
         "id": 7800,
         "name": "Avoid Classes with High Coupling Between Objects",
         "href": "AIP/quality-rules/7800",
+        "status": null,
         "critical": false
     },
     {
         "id": 7802,
         "name": "Avoid Classes with a High Depth of Inheritance Tree",
         "href": "AIP/quality-rules/7802",
+        "status": null,
         "critical": false
     },
     {
         "id": 7804,
         "name": "Avoid Classes with High Weighted Methods per Class",
         "href": "AIP/quality-rules/7804",
+        "status": null,
         "critical": false
     },
     {
         "id": 7806,
         "name": "Avoid Artifacts with Group By",
         "href": "AIP/quality-rules/7806",
+        "status": null,
         "critical": false
     },
     {
         "id": 7810,
         "name": "Avoid Artifacts with a Complex SELECT Clause",
         "href": "AIP/quality-rules/7810",
+        "status": null,
         "critical": false
     },
     {
         "id": 7818,
         "name": "Avoid Functions having a very low Comment/Code ratio",
         "href": "AIP/quality-rules/7818",
+        "status": null,
         "critical": false
     },
     {
         "id": 7822,
         "name": "Avoid Artifacts with queries on more than 4 Tables",
         "href": "AIP/quality-rules/7822",
+        "status": null,
         "critical": false
     },
     {
         "id": 7828,
         "name": "Avoid Artifacts with High RAW SQL Complexity",
         "href": "AIP/quality-rules/7828",
+        "status": null,
         "critical": false
     },
     {
         "id": 7836,
         "name": "Avoid undocumented Functions",
         "href": "AIP/quality-rules/7836",
+        "status": null,
         "critical": false
     },
     {
         "id": 7838,
         "name": "Avoid undocumented Methods",
         "href": "AIP/quality-rules/7838",
+        "status": null,
         "critical": false
     },
     {
         "id": 7846,
         "name": "Avoid Methods with a very low comment/code ratio",
         "href": "AIP/quality-rules/7846",
+        "status": null,
         "critical": false
     },
     {
         "id": 7914,
         "name": "Avoid direct access to Database Tables",
         "href": "AIP/quality-rules/7914",
+        "status": null,
         "critical": false
     },
     {
         "id": 7944,
         "name": "Avoid High Response for Classes",
         "href": "AIP/quality-rules/7944",
+        "status": null,
         "critical": false
     },
     {
         "id": 1101036,
         "name": "Use ANSI standard operators in SQL WHERE clauses",
         "href": "AIP/quality-rules/1101036",
+        "status": null,
         "critical": false
     }
 ]

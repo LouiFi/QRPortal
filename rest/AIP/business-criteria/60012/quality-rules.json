@@ -3,5754 +3,6713 @@
         "id": 550,
         "name": "Class naming convention - case control",
         "href": "AIP/quality-rules/550",
+        "status": null,
         "critical": false
     },
     {
         "id": 552,
         "name": "Method naming convention - case control",
         "href": "AIP/quality-rules/552",
+        "status": null,
         "critical": false
     },
     {
         "id": 554,
         "name": "Constant naming convention - case control",
         "href": "AIP/quality-rules/554",
+        "status": null,
         "critical": false
     },
     {
         "id": 556,
         "name": "Macros naming convention - case control",
         "href": "AIP/quality-rules/556",
+        "status": null,
         "critical": false
     },
     {
         "id": 558,
         "name": "Data Members naming convention - case control",
         "href": "AIP/quality-rules/558",
+        "status": null,
         "critical": false
     },
     {
         "id": 562,
         "name": "File naming convention - embedded Class",
         "href": "AIP/quality-rules/562",
+        "status": null,
         "critical": false
     },
     {
         "id": 570,
         "name": "Avoid large Interfaces - too many Methods",
         "href": "AIP/quality-rules/570",
+        "status": null,
         "critical": false
     },
     {
         "id": 576,
         "name": "Avoid large Classes - too many Constructors",
         "href": "AIP/quality-rules/576",
+        "status": null,
         "critical": false
     },
     {
         "id": 578,
         "name": "Avoid Classes with multiple inheritance",
         "href": "AIP/quality-rules/578",
+        "status": null,
         "critical": false
     },
     {
         "id": 580,
         "name": "Avoid using Structures",
         "href": "AIP/quality-rules/580",
+        "status": null,
         "critical": false
     },
     {
         "id": 588,
         "name": "Avoid using Global Variables",
         "href": "AIP/quality-rules/588",
+        "status": null,
         "critical": false
     },
     {
         "id": 590,
         "name": "Avoid using global objects in Constructors and Destructors",
         "href": "AIP/quality-rules/590",
+        "status": null,
         "critical": false
     },
     {
         "id": 610,
         "name": "Avoid circular references between header files",
         "href": "AIP/quality-rules/610",
+        "status": null,
         "critical": false
     },
     {
         "id": 630,
         "name": "Avoid data members that are not private",
         "href": "AIP/quality-rules/630",
+        "status": null,
         "critical": false
     },
     {
         "id": 634,
         "name": "Avoid using VARIANT Structures",
         "href": "AIP/quality-rules/634",
+        "status": null,
         "critical": false
     },
     {
         "id": 1050,
         "name": "Static Functions naming conventions - case control",
         "href": "AIP/quality-rules/1050",
+        "status": null,
         "critical": false
     },
     {
         "id": 1052,
         "name": "Macros naming conventions - case control",
         "href": "AIP/quality-rules/1052",
+        "status": null,
         "critical": false
     },
     {
         "id": 1054,
         "name": "Types naming conventions - suffix control",
         "href": "AIP/quality-rules/1054",
+        "status": null,
         "critical": false
     },
     {
         "id": 1070,
         "name": "Avoid header files circular references",
         "href": "AIP/quality-rules/1070",
+        "status": null,
         "critical": false
     },
     {
         "id": 1078,
         "name": "Avoid undocumented Header files",
         "href": "AIP/quality-rules/1078",
+        "status": null,
         "critical": false
     },
     {
         "id": 1082,
         "name": "Avoid header files with a very low comment/code ratio",
         "href": "AIP/quality-rules/1082",
+        "status": null,
         "critical": false
     },
     {
         "id": 1084,
         "name": "Non static functions naming conventions - case control",
         "href": "AIP/quality-rules/1084",
+        "status": null,
         "critical": false
     },
     {
         "id": 1090,
         "name": "Avoid unreferenced Files",
         "href": "AIP/quality-rules/1090",
+        "status": null,
         "critical": false
     },
     {
         "id": 1092,
         "name": "Avoid undocumented Implementation files",
         "href": "AIP/quality-rules/1092",
+        "status": null,
         "critical": false
     },
     {
         "id": 1094,
         "name": "Avoid Implementation files with a very low comment/code ratio",
         "href": "AIP/quality-rules/1094",
+        "status": null,
         "critical": false
     },
     {
         "id": 1558,
         "name": "Package naming convention - prefix control",
         "href": "AIP/quality-rules/1558",
+        "status": null,
         "critical": false
     },
     {
         "id": 1560,
         "name": "Package Function naming convention - prefix control",
         "href": "AIP/quality-rules/1560",
+        "status": null,
         "critical": false
     },
     {
         "id": 1562,
         "name": "Package Stored Procedure naming convention - prefix control",
         "href": "AIP/quality-rules/1562",
+        "status": null,
         "critical": false
     },
     {
         "id": 1564,
         "name": "Cursor naming convention - prefix control",
         "href": "AIP/quality-rules/1564",
+        "status": null,
         "critical": false
     },
     {
         "id": 1606,
         "name": "Triggers should not directly modify tables, a procedure or function should be used instead",
         "href": "AIP/quality-rules/1606",
+        "status": null,
         "critical": false
     },
     {
         "id": 1608,
         "name": "Avoid cascading Triggers",
         "href": "AIP/quality-rules/1608",
+        "status": null,
         "critical": false
     },
     {
         "id": 1634,
         "name": "Avoid unreferenced Tables",
         "href": "AIP/quality-rules/1634",
+        "status": null,
         "critical": false
     },
     {
         "id": 2230,
         "name": "Use of style sheets",
         "href": "AIP/quality-rules/2230",
+        "status": null,
         "critical": false
     },
     {
         "id": 2236,
         "name": "Avoid use of standard SQL API",
         "href": "AIP/quality-rules/2236",
+        "status": null,
         "critical": false
     },
     {
         "id": 2238,
         "name": "Avoid unreferenced JSPs and web client files",
         "href": "AIP/quality-rules/2238",
+        "status": null,
         "critical": false
     },
     {
         "id": 2242,
         "name": "Avoid direct definition of JavaScript Functions in a Web page",
         "href": "AIP/quality-rules/2242",
+        "status": null,
         "critical": false
     },
     {
         "id": 2244,
         "name": "Avoid undocumented Web Server Pages",
         "href": "AIP/quality-rules/2244",
+        "status": null,
         "critical": false
     },
     {
         "id": 2248,
         "name": "Avoid Web Server pages having a very low Comment/Code ratio",
         "href": "AIP/quality-rules/2248",
+        "status": null,
         "critical": false
     },
     {
         "id": 2552,
         "name": "Event naming convention - case control",
         "href": "AIP/quality-rules/2552",
+        "status": null,
         "critical": false
     },
     {
         "id": 2558,
         "name": "Method/Sub naming convention - case control",
         "href": "AIP/quality-rules/2558",
+        "status": null,
         "critical": false
     },
     {
         "id": 2560,
         "name": "Property naming convention - case control",
         "href": "AIP/quality-rules/2560",
+        "status": null,
         "critical": false
     },
     {
         "id": 2572,
         "name": "Avoid declaring VB Variables without typing them",
         "href": "AIP/quality-rules/2572",
+        "status": null,
         "critical": false
     },
     {
         "id": 2574,
         "name": "Avoid using Global Variables",
         "href": "AIP/quality-rules/2574",
+        "status": null,
         "critical": false
     },
     {
         "id": 2576,
         "name": "Avoid Variables declared as Variants",
         "href": "AIP/quality-rules/2576",
+        "status": null,
         "critical": true
     },
     {
         "id": 2580,
         "name": "Avoid use of Scripting.FileSystemObject",
         "href": "AIP/quality-rules/2580",
+        "status": null,
         "critical": false
     },
     {
         "id": 2582,
         "name": "Use Option Explicit",
         "href": "AIP/quality-rules/2582",
+        "status": null,
         "critical": false
     },
     {
         "id": 2584,
         "name": "Avoid using late binding",
         "href": "AIP/quality-rules/2584",
+        "status": null,
         "critical": false
     },
     {
         "id": 2588,
         "name": "Avoid declaring Class Variables without declaring access Properties",
         "href": "AIP/quality-rules/2588",
+        "status": null,
         "critical": false
     },
     {
         "id": 2592,
         "name": "Encapsulation compliance",
         "href": "AIP/quality-rules/2592",
+        "status": null,
         "critical": false
     },
     {
         "id": 2616,
         "name": "Avoid undocumented Forms",
         "href": "AIP/quality-rules/2616",
+        "status": null,
         "critical": false
     },
     {
         "id": 2618,
         "name": "Avoid Forms with a very low comment/code ratio",
         "href": "AIP/quality-rules/2618",
+        "status": null,
         "critical": false
     },
     {
         "id": 2620,
         "name": "Avoid undocumented Modules",
         "href": "AIP/quality-rules/2620",
+        "status": null,
         "critical": false
     },
     {
         "id": 2622,
         "name": "Avoid Modules with a very low comment/code ratio",
         "href": "AIP/quality-rules/2622",
+        "status": null,
         "critical": false
     },
     {
         "id": 2624,
         "name": "Avoid unreferenced Forms",
         "href": "AIP/quality-rules/2624",
+        "status": null,
         "critical": false
     },
     {
         "id": 2626,
         "name": "Avoid unreferenced Modules",
         "href": "AIP/quality-rules/2626",
+        "status": null,
         "critical": false
     },
     {
         "id": 3058,
         "name": "Use of style sheets",
         "href": "AIP/quality-rules/3058",
+        "status": null,
         "critical": false
     },
     {
         "id": 3066,
         "name": "Use of Web Classes",
         "href": "AIP/quality-rules/3066",
+        "status": null,
         "critical": false
     },
     {
         "id": 3076,
         "name": "Avoid using more than one scripting language in one page",
         "href": "AIP/quality-rules/3076",
+        "status": null,
         "critical": false
     },
     {
         "id": 3078,
         "name": "Avoid unreferenced code",
         "href": "AIP/quality-rules/3078",
+        "status": null,
         "critical": false
     },
     {
         "id": 3080,
         "name": "Avoid undocumented Pages",
         "href": "AIP/quality-rules/3080",
+        "status": null,
         "critical": false
     },
     {
         "id": 3082,
         "name": "Avoid ASP pages having a very low Comment/Code ratio",
         "href": "AIP/quality-rules/3082",
+        "status": null,
         "critical": false
     },
     {
         "id": 3102,
         "name": "Avoid using Transactions in an ASP Page",
         "href": "AIP/quality-rules/3102",
+        "status": null,
         "critical": false
     },
     {
         "id": 3550,
         "name": "Namespace naming convention - case control",
         "href": "AIP/quality-rules/3550",
+        "status": null,
         "critical": false
     },
     {
         "id": 3554,
         "name": "Interface naming convention - case and character set control",
         "href": "AIP/quality-rules/3554",
+        "status": null,
         "critical": false
     },
     {
         "id": 3558,
         "name": "Enumerations naming convention - case and character set control",
         "href": "AIP/quality-rules/3558",
+        "status": null,
         "critical": false
     },
     {
         "id": 3560,
         "name": "Enumeration Items naming convention - case and character set control",
         "href": "AIP/quality-rules/3560",
+        "status": null,
         "critical": false
     },
     {
         "id": 3562,
         "name": "Private Fields naming convention - case and character set control",
         "href": "AIP/quality-rules/3562",
+        "status": null,
         "critical": false
     },
     {
         "id": 3564,
         "name": "Public Fields naming convention - case and character set control",
         "href": "AIP/quality-rules/3564",
+        "status": null,
         "critical": false
     },
     {
         "id": 3566,
         "name": "Methods naming convention - case and character set control",
         "href": "AIP/quality-rules/3566",
+        "status": null,
         "critical": false
     },
     {
         "id": 3568,
         "name": "Events naming convention - case and character set control",
         "href": "AIP/quality-rules/3568",
+        "status": null,
         "critical": false
     },
     {
         "id": 3570,
         "name": "Avoid using Keywords as names",
         "href": "AIP/quality-rules/3570",
+        "status": null,
         "critical": false
     },
     {
         "id": 3572,
         "name": "Controls naming convention - prefix, case and character set control",
         "href": "AIP/quality-rules/3572",
+        "status": null,
         "critical": false
     },
     {
         "id": 3574,
         "name": "Properties naming convention - case and character set control",
         "href": "AIP/quality-rules/3574",
+        "status": null,
         "critical": false
     },
     {
         "id": 3576,
         "name": "Avoid declaring public Fields",
         "href": "AIP/quality-rules/3576",
+        "status": null,
         "critical": true
     },
     {
         "id": 3578,
         "name": "Avoid large Classes - too many Constructors",
         "href": "AIP/quality-rules/3578",
+        "status": null,
         "critical": false
     },
     {
         "id": 3590,
         "name": "Avoid Interface implementation on Structures",
         "href": "AIP/quality-rules/3590",
+        "status": null,
         "critical": false
     },
     {
         "id": 3610,
         "name": "Avoid declaring VB Variables without typing them",
         "href": "AIP/quality-rules/3610",
+        "status": null,
         "critical": false
     },
     {
         "id": 3616,
         "name": "Data Access must be based on Stored Procedure Calls",
         "href": "AIP/quality-rules/3616",
+        "status": null,
         "critical": false
     },
     {
         "id": 3626,
         "name": "Avoid Interfaces with a very low comment/code ratio",
         "href": "AIP/quality-rules/3626",
+        "status": null,
         "critical": false
     },
     {
         "id": 3630,
         "name": "Avoid having Classes implementing too many Interfaces",
         "href": "AIP/quality-rules/3630",
+        "status": null,
         "critical": false
     },
     {
         "id": 4056,
         "name": "Avoid recursive Triggers",
         "href": "AIP/quality-rules/4056",
+        "status": null,
         "critical": false
     },
     {
         "id": 4058,
         "name": "Avoid queries using old style join convention  instead of ANSI-Standard joins",
         "href": "AIP/quality-rules/4058",
+        "status": null,
         "critical": false
     },
     {
         "id": 4062,
         "name": "Avoid Functions and Procedures doing an Insert, Update or Delete without managing a transaction",
         "href": "AIP/quality-rules/4062",
+        "status": null,
         "critical": false
     },
     {
         "id": 4076,
         "name": "Avoid using temporary Objects",
         "href": "AIP/quality-rules/4076",
+        "status": null,
         "critical": false
     },
     {
         "id": 4556,
         "name": "Avoid large Classes - too many Constructors",
         "href": "AIP/quality-rules/4556",
+        "status": null,
         "critical": false
     },
     {
         "id": 4560,
         "name": "Avoid large Interfaces - too many Methods",
         "href": "AIP/quality-rules/4560",
+        "status": null,
         "critical": false
     },
     {
         "id": 4566,
         "name": "Avoid declaring Instance Variables without defined access type",
         "href": "AIP/quality-rules/4566",
+        "status": null,
         "critical": false
     },
     {
         "id": 4568,
         "name": "Avoid declaring Public Instance Variables",
         "href": "AIP/quality-rules/4568",
+        "status": null,
         "critical": true
     },
     {
         "id": 4570,
         "name": "Avoid declaring Non Final Class Variables with Public or Package access type",
         "href": "AIP/quality-rules/4570",
+        "status": null,
         "critical": false
     },
     {
         "id": 4572,
         "name": "Avoid declaring Final Instance Variables that are not dynamically initialized",
         "href": "AIP/quality-rules/4572",
+        "status": null,
         "critical": false
     },
     {
         "id": 4574,
         "name": "Avoid using deprecated objects",
         "href": "AIP/quality-rules/4574",
+        "status": null,
         "critical": false
     },
     {
         "id": 4576,
         "name": "Provide accessors to Private Fields",
         "href": "AIP/quality-rules/4576",
+        "status": null,
         "critical": false
     },
     {
         "id": 4578,
         "name": "Good use of Interfaces with collections as Method return types",
         "href": "AIP/quality-rules/4578",
+        "status": null,
         "critical": false
     },
     {
         "id": 4580,
         "name": "Good use of Interfaces when instantiating a collection",
         "href": "AIP/quality-rules/4580",
+        "status": null,
         "critical": false
     },
     {
         "id": 4594,
         "name": "Avoid using 'java.io.File'",
         "href": "AIP/quality-rules/4594",
+        "status": null,
         "critical": false
     },
     {
         "id": 4596,
         "name": "Avoid using 'java.lang.System.getenv()'",
         "href": "AIP/quality-rules/4596",
+        "status": null,
         "critical": false
     },
     {
         "id": 4598,
         "name": "Avoid using 'java.lang.Runtime.exec()'",
         "href": "AIP/quality-rules/4598",
+        "status": null,
         "critical": false
     },
     {
         "id": 4602,
         "name": "Avoid using Fields (non static final) from other Classes",
         "href": "AIP/quality-rules/4602",
+        "status": null,
         "critical": true
     },
     {
         "id": 4606,
         "name": "Avoid using 'sun.*' Classes",
         "href": "AIP/quality-rules/4606",
+        "status": null,
         "critical": false
     },
     {
         "id": 4610,
         "name": "Avoid using anonymous Classes",
         "href": "AIP/quality-rules/4610",
+        "status": null,
         "critical": false
     },
     {
         "id": 4612,
         "name": "Avoid using native Methods (JNI)",
         "href": "AIP/quality-rules/4612",
+        "status": null,
         "critical": false
     },
     {
         "id": 4708,
         "name": "Avoid using Dynamic instantiation",
         "href": "AIP/quality-rules/4708",
+        "status": null,
         "critical": false
     },
     {
         "id": 4716,
         "name": "Avoid Classes implementing too many Interfaces",
         "href": "AIP/quality-rules/4716",
+        "status": null,
         "critical": false
     },
     {
         "id": 4722,
         "name": "Track Classes referencing Database objects",
         "href": "AIP/quality-rules/4722",
+        "status": null,
         "critical": false
     },
     {
         "id": 4730,
         "name": "Package naming convention - case control",
         "href": "AIP/quality-rules/4730",
+        "status": null,
         "critical": false
     },
     {
         "id": 4732,
         "name": "Interface naming convention - case control",
         "href": "AIP/quality-rules/4732",
+        "status": null,
         "critical": false
     },
     {
         "id": 4734,
         "name": "Class naming convention - case control",
         "href": "AIP/quality-rules/4734",
+        "status": null,
         "critical": false
     },
     {
         "id": 4736,
         "name": "Method naming convention - case control",
         "href": "AIP/quality-rules/4736",
+        "status": null,
         "critical": false
     },
     {
         "id": 4738,
         "name": "Constant naming convention - case control",
         "href": "AIP/quality-rules/4738",
+        "status": null,
         "critical": false
     },
     {
         "id": 4740,
         "name": "Field naming convention - case control",
         "href": "AIP/quality-rules/4740",
+        "status": null,
         "critical": false
     },
     {
         "id": 5062,
         "name": "Avoid using ALTER",
         "href": "AIP/quality-rules/5062",
+        "status": null,
         "critical": true
     },
     {
         "id": 5064,
         "name": "Program naming convention - prefix control",
         "href": "AIP/quality-rules/5064",
+        "status": null,
         "critical": false
     },
     {
         "id": 5066,
         "name": "Avoid using PERFORM ... THROUGH | THRU",
         "href": "AIP/quality-rules/5066",
+        "status": null,
         "critical": false
     },
     {
         "id": 5068,
         "name": "Avoid STOP RUN (use GOBACK instead)",
         "href": "AIP/quality-rules/5068",
+        "status": null,
         "critical": false
     },
     {
         "id": 5070,
         "name": "Section naming convention - prefix control",
         "href": "AIP/quality-rules/5070",
+        "status": null,
         "critical": false
     },
     {
         "id": 5074,
         "name": "Paragraph naming convention - prefix control",
         "href": "AIP/quality-rules/5074",
+        "status": null,
         "critical": false
     },
     {
         "id": 5080,
         "name": "Avoid Procedure Paragraphs that contains no statements",
         "href": "AIP/quality-rules/5080",
+        "status": null,
         "critical": false
     },
     {
         "id": 5082,
         "name": "Avoid Procedure Sections that contain no Paragraph",
         "href": "AIP/quality-rules/5082",
+        "status": null,
         "critical": false
     },
     {
         "id": 5086,
         "name": "Avoid using Sections in the PROCEDURE DIVISION (use Paragraphs only)",
         "href": "AIP/quality-rules/5086",
+        "status": null,
         "critical": false
     },
     {
         "id": 5090,
         "name": "Avoid using NEXT SENTENCE",
         "href": "AIP/quality-rules/5090",
+        "status": null,
         "critical": false
     },
     {
         "id": 5094,
         "name": "Avoid using MOVE CORRESPONDING ... TO ...",
         "href": "AIP/quality-rules/5094",
+        "status": null,
         "critical": true
     },
     {
         "id": 5108,
         "name": "Avoid Sections with a very low comment/code ratio",
         "href": "AIP/quality-rules/5108",
+        "status": null,
         "critical": false
     },
     {
         "id": 5110,
         "name": "Avoid Programs with a very low comment/code ratio",
         "href": "AIP/quality-rules/5110",
+        "status": null,
         "critical": false
     },
     {
         "id": 5112,
         "name": "Avoid undocumented Sections",
         "href": "AIP/quality-rules/5112",
+        "status": null,
         "critical": false
     },
     {
         "id": 5114,
         "name": "Avoid undocumented Programs",
         "href": "AIP/quality-rules/5114",
+        "status": null,
         "critical": false
     },
     {
         "id": 5116,
         "name": "Avoid undocumented Paragraphs",
         "href": "AIP/quality-rules/5116",
+        "status": null,
         "critical": false
     },
     {
         "id": 5144,
         "name": "Avoid using GOTO statement",
         "href": "AIP/quality-rules/5144",
+        "status": null,
         "critical": false
     },
     {
         "id": 5558,
         "name": "Based Data Blocks naming convention - represented table",
         "href": "AIP/quality-rules/5558",
+        "status": null,
         "critical": false
     },
     {
         "id": 5560,
         "name": "Based Data Block Items naming convention - represented column",
         "href": "AIP/quality-rules/5560",
+        "status": null,
         "critical": false
     },
     {
         "id": 5562,
         "name": "Not Based Data Blocks naming convention - prefix control",
         "href": "AIP/quality-rules/5562",
+        "status": null,
         "critical": false
     },
     {
         "id": 5564,
         "name": "Not Based Data Block Items naming convention - prefix control",
         "href": "AIP/quality-rules/5564",
+        "status": null,
         "critical": false
     },
     {
         "id": 5566,
         "name": "Use of call_form built-in Function from a centralized location",
         "href": "AIP/quality-rules/5566",
+        "status": null,
         "critical": false
     },
     {
         "id": 5572,
         "name": "Avoid objects without COMMENT property",
         "href": "AIP/quality-rules/5572",
+        "status": null,
         "critical": false
     },
     {
         "id": 6050,
         "name": "Datawindow naming convention",
         "href": "AIP/quality-rules/6050",
+        "status": null,
         "critical": false
     },
     {
         "id": 6052,
         "name": "Global function naming convention",
         "href": "AIP/quality-rules/6052",
+        "status": null,
         "critical": false
     },
     {
         "id": 6054,
         "name": "Menu naming convention",
         "href": "AIP/quality-rules/6054",
+        "status": null,
         "critical": false
     },
     {
         "id": 6056,
         "name": "Structure naming convention",
         "href": "AIP/quality-rules/6056",
+        "status": null,
         "critical": false
     },
     {
         "id": 6062,
         "name": "Window naming convention",
         "href": "AIP/quality-rules/6062",
+        "status": null,
         "critical": false
     },
     {
         "id": 6066,
         "name": "Global variable naming convention",
         "href": "AIP/quality-rules/6066",
+        "status": null,
         "critical": false
     },
     {
         "id": 6068,
         "name": "Instance variable naming convention",
         "href": "AIP/quality-rules/6068",
+        "status": null,
         "critical": false
     },
     {
         "id": 6070,
         "name": "User event naming convention",
         "href": "AIP/quality-rules/6070",
+        "status": null,
         "critical": false
     },
     {
         "id": 6072,
         "name": "Method naming convention",
         "href": "AIP/quality-rules/6072",
+        "status": null,
         "critical": false
     },
     {
         "id": 6076,
         "name": "Avoid Datawindows that does not access a database data",
         "href": "AIP/quality-rules/6076",
+        "status": null,
         "critical": false
     },
     {
         "id": 6078,
         "name": "Avoid Datawindows accessing Database Procedures or Functions",
         "href": "AIP/quality-rules/6078",
+        "status": null,
         "critical": false
     },
     {
         "id": 6082,
         "name": "Avoid PB Function/Event/Method accessing Database Procedures or Functions",
         "href": "AIP/quality-rules/6082",
+        "status": null,
         "critical": false
     },
     {
         "id": 6084,
         "name": "Avoid having unreferenced code",
         "href": "AIP/quality-rules/6084",
+        "status": null,
         "critical": false
     },
     {
         "id": 6102,
         "name": "Avoid undocumented Events",
         "href": "AIP/quality-rules/6102",
+        "status": null,
         "critical": false
     },
     {
         "id": 6104,
         "name": "Avoid events with a very low comment/code ratio",
         "href": "AIP/quality-rules/6104",
+        "status": null,
         "critical": false
     },
     {
         "id": 6106,
         "name": "User event naming convention - declare only",
         "href": "AIP/quality-rules/6106",
+        "status": null,
         "critical": false
     },
     {
         "id": 6112,
         "name": "Avoid using global variables",
         "href": "AIP/quality-rules/6112",
+        "status": null,
         "critical": false
     },
     {
         "id": 6114,
         "name": "Avoid using global functions",
         "href": "AIP/quality-rules/6114",
+        "status": null,
         "critical": false
     },
     {
         "id": 6124,
         "name": "Datawindows accessing database must be based on procedure",
         "href": "AIP/quality-rules/6124",
+        "status": null,
         "critical": false
     },
     {
         "id": 6126,
         "name": "Avoid using dynamic SQL in scripts",
         "href": "AIP/quality-rules/6126",
+        "status": null,
         "critical": false
     },
     {
         "id": 6128,
         "name": "Avoid window with too high level of inheritance",
         "href": "AIP/quality-rules/6128",
+        "status": null,
         "critical": false
     },
     {
         "id": 6130,
         "name": "Avoid userobject with too high level of inheritance",
         "href": "AIP/quality-rules/6130",
+        "status": null,
         "critical": false
     },
     {
         "id": 6134,
         "name": "Avoid menu with too high level of inheritance",
         "href": "AIP/quality-rules/6134",
+        "status": null,
         "critical": false
     },
     {
         "id": 6150,
         "name": "Avoid Menus, UserObjects and Windows that have no inheritance relations with other objects",
         "href": "AIP/quality-rules/6150",
+        "status": null,
         "critical": false
     },
     {
         "id": 6162,
         "name": "Avoid Artifacts with High integration complexity",
         "href": "AIP/quality-rules/6162",
+        "status": null,
         "critical": false
     },
     {
         "id": 6584,
         "name": "View naming convention - name size control",
         "href": "AIP/quality-rules/6584",
+        "status": null,
         "critical": false
     },
     {
         "id": 6586,
         "name": "Table naming convention - name size control",
         "href": "AIP/quality-rules/6586",
+        "status": null,
         "critical": false
     },
     {
         "id": 6588,
         "name": "View naming convention - character set control",
         "href": "AIP/quality-rules/6588",
+        "status": null,
         "critical": false
     },
     {
         "id": 6590,
         "name": "Table naming convention - character set control",
         "href": "AIP/quality-rules/6590",
+        "status": null,
         "critical": false
     },
     {
         "id": 7050,
         "name": "Function naming convention",
         "href": "AIP/quality-rules/7050",
+        "status": null,
         "critical": false
     },
     {
         "id": 7060,
         "name": "Avoid undocumented Programs",
         "href": "AIP/quality-rules/7060",
+        "status": null,
         "critical": false
     },
     {
         "id": 7062,
         "name": "Avoid undocumented Includes",
         "href": "AIP/quality-rules/7062",
+        "status": null,
         "critical": false
     },
     {
         "id": 7066,
         "name": "Avoid Programs with low comment/code ratio",
         "href": "AIP/quality-rules/7066",
+        "status": null,
         "critical": false
     },
     {
         "id": 7068,
         "name": "Avoid Includes with low comment/code ratio",
         "href": "AIP/quality-rules/7068",
+        "status": null,
         "critical": false
     },
     {
         "id": 7072,
         "name": "Program naming convention",
         "href": "AIP/quality-rules/7072",
+        "status": null,
         "critical": false
     },
     {
         "id": 7074,
         "name": "Include naming convention",
         "href": "AIP/quality-rules/7074",
+        "status": null,
         "critical": false
     },
     {
         "id": 7088,
         "name": "Processing Screen Naming Convention",
         "href": "AIP/quality-rules/7088",
+        "status": null,
         "critical": false
     },
     {
         "id": 7092,
         "name": "Avoid Include Circular references",
         "href": "AIP/quality-rules/7092",
+        "status": null,
         "critical": false
     },
     {
         "id": 7132,
         "name": "Action Mappings should have few forwards",
         "href": "AIP/quality-rules/7132",
+        "status": null,
         "critical": false
     },
     {
         "id": 7134,
         "name": "Avoid having local forward with same name as global forward",
         "href": "AIP/quality-rules/7134",
+        "status": null,
         "critical": false
     },
     {
         "id": 7136,
         "name": "Each method in an Action Class should have a small complexity",
         "href": "AIP/quality-rules/7136",
+        "status": null,
         "critical": false
     },
     {
         "id": 7138,
         "name": "Action Classes should only be called by Action Mappings tag (for Struts 1.x) or Action tag (for Struts 2.x)",
         "href": "AIP/quality-rules/7138",
+        "status": null,
         "critical": false
     },
     {
         "id": 7140,
         "name": "Action Artifacts should not directly call a JSP page",
         "href": "AIP/quality-rules/7140",
+        "status": null,
         "critical": true
     },
     {
         "id": 7142,
         "name": "Action Classes should have only one public method",
         "href": "AIP/quality-rules/7142",
+        "status": null,
         "critical": false
     },
     {
         "id": 7144,
         "name": "Action Artifacts should not directly use database objects",
         "href": "AIP/quality-rules/7144",
+        "status": null,
         "critical": true
     },
     {
         "id": 7146,
         "name": "JSP pages should only reference Java Objects associated to J2EE Scoped Bean",
         "href": "AIP/quality-rules/7146",
+        "status": null,
         "critical": false
     },
     {
         "id": 7148,
         "name": "JSP pages should always be accessed through their tiles definition",
         "href": "AIP/quality-rules/7148",
+        "status": null,
         "critical": false
     },
     {
         "id": 7156,
         "name": "Avoid Too Many Copy Pasted Artifacts",
         "href": "AIP/quality-rules/7156",
+        "status": null,
         "critical": false
     },
     {
         "id": 7220,
         "name": "Avoid Unused Imports",
         "href": "AIP/quality-rules/7220",
+        "status": null,
         "critical": false
     },
     {
         "id": 7234,
         "name": "EVALUATE statements must be closed by END-EVALUATE",
         "href": "AIP/quality-rules/7234",
+        "status": null,
         "critical": false
     },
     {
         "id": 7236,
         "name": "Avoid recursive calls with PERFORM statements",
         "href": "AIP/quality-rules/7236",
+        "status": null,
         "critical": true
     },
     {
         "id": 7238,
         "name": "Avoid calls between JSP Pages",
         "href": "AIP/quality-rules/7238",
+        "status": null,
         "critical": false
     },
     {
         "id": 7240,
         "name": "Action Classes should only call Business Classes",
         "href": "AIP/quality-rules/7240",
+        "status": null,
         "critical": false
     },
     {
         "id": 7242,
         "name": "Avoid implementing Action Classes inheriting directly from Struts Action",
         "href": "AIP/quality-rules/7242",
+        "status": null,
         "critical": false
     },
     {
         "id": 7244,
         "name": "Avoid direct usage of EJB Entity from the client",
         "href": "AIP/quality-rules/7244",
+        "status": null,
         "critical": false
     },
     {
         "id": 7246,
         "name": "Avoid Packages with High Efferent Coupling (CE)",
         "href": "AIP/quality-rules/7246",
+        "status": null,
         "critical": false
     },
     {
         "id": 7248,
         "name": "Avoid Packages with High Afferent Coupling (CA)",
         "href": "AIP/quality-rules/7248",
+        "status": null,
         "critical": false
     },
     {
         "id": 7260,
         "name": "User Interface elements must not use directly the database",
         "href": "AIP/quality-rules/7260",
+        "status": null,
         "critical": false
     },
     {
         "id": 7262,
         "name": "Avoid Namespaces with High Efferent Coupling (CE)",
         "href": "AIP/quality-rules/7262",
+        "status": null,
         "critical": false
     },
     {
         "id": 7264,
         "name": "Avoid namespaces with High Afferent Coupling (CA)",
         "href": "AIP/quality-rules/7264",
+        "status": null,
         "critical": false
     },
     {
         "id": 7274,
         "name": "Avoid GOTO jumps out of PERFORM range",
         "href": "AIP/quality-rules/7274",
+        "status": null,
         "critical": false
     },
     {
         "id": 7288,
         "name": "Avoid cyclic calls with PERFORM statements",
         "href": "AIP/quality-rules/7288",
+        "status": null,
         "critical": false
     },
     {
         "id": 7290,
         "name": "Avoid unreferenced Sections and Paragraphs",
         "href": "AIP/quality-rules/7290",
+        "status": null,
         "critical": false
     },
     {
         "id": 7292,
         "name": "Avoid cyclical calls and inheritances between packages",
         "href": "AIP/quality-rules/7292",
+        "status": null,
         "critical": true
     },
     {
         "id": 7294,
         "name": "Avoid cyclical calls and inheritances between namespaces content",
         "href": "AIP/quality-rules/7294",
+        "status": null,
         "critical": true
     },
     {
         "id": 7296,
         "name": "Never define static variables in header files",
         "href": "AIP/quality-rules/7296",
+        "status": null,
         "critical": true
     },
     {
         "id": 7302,
         "name": "Avoid using Pointers",
         "href": "AIP/quality-rules/7302",
+        "status": null,
         "critical": false
     },
     {
         "id": 7304,
         "name": "IF statements must be closed by END-IF",
         "href": "AIP/quality-rules/7304",
+        "status": null,
         "critical": false
     },
     {
         "id": 7306,
         "name": "Avoid declaring Inner Classes",
         "href": "AIP/quality-rules/7306",
+        "status": null,
         "critical": false
     },
     {
         "id": 7308,
         "name": "Avoid using Inner Classes",
         "href": "AIP/quality-rules/7308",
+        "status": null,
         "critical": false
     },
     {
         "id": 7340,
         "name": "Avoid Classes with Destructor not explicitly virtual whenever one of its base Class has a virtual Destructor",
         "href": "AIP/quality-rules/7340",
+        "status": null,
         "critical": false
     },
     {
         "id": 7342,
         "name": "Avoid functions overriding virtual functions without having the 'virtual' keyword",
         "href": "AIP/quality-rules/7342",
+        "status": null,
         "critical": false
     },
     {
         "id": 7388,
         "name": "Avoid artifacts having recursive calls",
         "href": "AIP/quality-rules/7388",
+        "status": null,
         "critical": false
     },
     {
         "id": 7390,
         "name": "Avoid having multiple Artifacts inserting data on the same SQL Table",
         "href": "AIP/quality-rules/7390",
+        "status": null,
         "critical": false
     },
     {
         "id": 7392,
         "name": "Avoid having multiple artifacts deleting data on the same SQL table",
         "href": "AIP/quality-rules/7392",
+        "status": null,
         "critical": false
     },
     {
         "id": 7394,
         "name": "Avoid having multiple Artifacts updating data on the same SQL Table",
         "href": "AIP/quality-rules/7394",
+        "status": null,
         "critical": false
     },
     {
         "id": 7404,
         "name": "Avoid unreferenced views",
         "href": "AIP/quality-rules/7404",
+        "status": null,
         "critical": false
     },
     {
         "id": 7434,
         "name": "Avoid classes overriding only equals() or only hashCode()",
         "href": "AIP/quality-rules/7434",
+        "status": null,
         "critical": true
     },
     {
         "id": 7458,
         "name": "Avoid large Interfaces - too many Methods",
         "href": "AIP/quality-rules/7458",
+        "status": null,
         "critical": false
     },
     {
         "id": 7460,
         "name": "Avoid using untyped DataSet",
         "href": "AIP/quality-rules/7460",
+        "status": null,
         "critical": true
     },
     {
         "id": 7484,
         "name": "Objects in Universe using inexistent Table/Column",
         "href": "AIP/quality-rules/7484",
+        "status": null,
         "critical": true
     },
     {
         "id": 7492,
         "name": "Avoid many-to-many association",
         "href": "AIP/quality-rules/7492",
+        "status": null,
         "critical": false
     },
     {
         "id": 7510,
         "name": "Use only Hibernate API to access to the database",
         "href": "AIP/quality-rules/7510",
+        "status": null,
         "critical": false
     },
     {
         "id": 7512,
         "name": "Avoid empty Functions, Forms and Modules",
         "href": "AIP/quality-rules/7512",
+        "status": null,
         "critical": false
     },
     {
         "id": 7514,
         "name": "Avoid empty Includes",
         "href": "AIP/quality-rules/7514",
+        "status": null,
         "critical": false
     },
     {
         "id": 7516,
         "name": "Avoid empty Programs",
         "href": "AIP/quality-rules/7516",
+        "status": null,
         "critical": false
     },
     {
         "id": 7522,
         "name": "Avoid using literals in assignments (hardcoded values)",
         "href": "AIP/quality-rules/7522",
+        "status": null,
         "critical": false
     },
     {
         "id": 7524,
         "name": "Avoid using BREAK or BREAK-POINT statement",
         "href": "AIP/quality-rules/7524",
+        "status": null,
         "critical": true
     },
     {
         "id": 7526,
         "name": "Avoid using hardcoded paths",
         "href": "AIP/quality-rules/7526",
+        "status": null,
         "critical": false
     },
     {
         "id": 7540,
         "name": "Avoid unreferenced Includes",
         "href": "AIP/quality-rules/7540",
+        "status": null,
         "critical": false
     },
     {
         "id": 7550,
         "name": "Avoid using nested programs",
         "href": "AIP/quality-rules/7550",
+        "status": null,
         "critical": false
     },
     {
         "id": 7552,
         "name": "Avoid incoherent file accesses in Cobol programs and DISP clauses in JCL",
         "href": "AIP/quality-rules/7552",
+        "status": null,
         "critical": false
     },
     {
         "id": 7554,
         "name": "Never access an IMS segment with an access mode not authorized in the PCB",
         "href": "AIP/quality-rules/7554",
+        "status": null,
         "critical": false
     },
     {
         "id": 7558,
         "name": "Avoid accessing data by using the position and length",
         "href": "AIP/quality-rules/7558",
+        "status": null,
         "critical": false
     },
     {
         "id": 7568,
         "name": "Avoid undocumented User-exits",
         "href": "AIP/quality-rules/7568",
+        "status": null,
         "critical": false
     },
     {
         "id": 7570,
         "name": "Avoid User-Exits with low comment/code ratio",
         "href": "AIP/quality-rules/7570",
+        "status": null,
         "critical": false
     },
     {
         "id": 7596,
         "name": "Avoid Classes implementing too many Interfaces",
         "href": "AIP/quality-rules/7596",
+        "status": null,
         "critical": false
     },
     {
         "id": 7598,
         "name": "Class naming convention",
         "href": "AIP/quality-rules/7598",
+        "status": null,
         "critical": false
     },
     {
         "id": 7602,
         "name": "Transaction naming convention",
         "href": "AIP/quality-rules/7602",
+        "status": null,
         "critical": false
     },
     {
         "id": 7612,
         "name": "Avoid Interfaces with a low comment/code ratio",
         "href": "AIP/quality-rules/7612",
+        "status": null,
         "critical": false
     },
     {
         "id": 7624,
         "name": "Class members should be declared as Private",
         "href": "AIP/quality-rules/7624",
+        "status": null,
         "critical": false
     },
     {
         "id": 7630,
         "name": "Avoid large Interfaces - too many Methods",
         "href": "AIP/quality-rules/7630",
+        "status": null,
         "critical": false
     },
     {
         "id": 7654,
         "name": "Avoid database tables associated to more than one Entity",
         "href": "AIP/quality-rules/7654",
+        "status": null,
         "critical": false
     },
     {
         "id": 7670,
         "name": "Avoid accessing SAP standard Tables in modification from custom code",
         "href": "AIP/quality-rules/7670",
+        "status": null,
         "critical": true
     },
     {
         "id": 7672,
         "name": "Avoid using EXIT statement in Include",
         "href": "AIP/quality-rules/7672",
+        "status": null,
         "critical": false
     },
     {
         "id": 7676,
         "name": "Avoid too many packages referencing Mainframe",
         "href": "AIP/quality-rules/7676",
+        "status": null,
         "critical": false
     },
     {
         "id": 7678,
         "name": "Avoid using specific logging implementation",
         "href": "AIP/quality-rules/7678",
+        "status": null,
         "critical": false
     },
     {
         "id": 7682,
         "name": "Avoid domain model depending on other Java API",
         "href": "AIP/quality-rules/7682",
+        "status": null,
         "critical": false
     },
     {
         "id": 7694,
         "name": "Avoid calling the same paragraph with PERFORM and GO TO statements",
         "href": "AIP/quality-rules/7694",
+        "status": null,
         "critical": false
     },
     {
         "id": 7700,
         "name": "Use only Struts HTTP Servlet",
         "href": "AIP/quality-rules/7700",
+        "status": null,
         "critical": false
     },
     {
         "id": 7704,
         "name": "Avoid static Fields that are not final",
         "href": "AIP/quality-rules/7704",
+        "status": null,
         "critical": false
     },
     {
         "id": 7706,
         "name": "Avoid table and column names that are too long (portability)",
         "href": "AIP/quality-rules/7706",
+        "status": null,
         "critical": false
     },
     {
         "id": 7714,
         "name": "Do not use auto-wiring",
         "href": "AIP/quality-rules/7714",
+        "status": null,
         "critical": false
     },
     {
         "id": 7716,
         "name": "Avoid defining singleton or factory when using Spring",
         "href": "AIP/quality-rules/7716",
+        "status": null,
         "critical": false
     },
     {
         "id": 7718,
         "name": "Sections and paragraphs should be located after the first statement calling them",
         "href": "AIP/quality-rules/7718",
+        "status": null,
         "critical": false
     },
     {
         "id": 7726,
         "name": "Avoid Action artifacts that call packages that reference database",
         "href": "AIP/quality-rules/7726",
+        "status": null,
         "critical": false
     },
     {
         "id": 7754,
         "name": "Avoid using COMPUTE statement for elementary arithmetic operation",
         "href": "AIP/quality-rules/7754",
+        "status": null,
         "critical": false
     },
     {
         "id": 7760,
         "name": "Avoid triggers, functions and procedures with a very low comment/code ratio",
         "href": "AIP/quality-rules/7760",
+        "status": null,
         "critical": false
     },
     {
         "id": 7762,
         "name": "Avoid undocumented Triggers, Functions and Procedures",
         "href": "AIP/quality-rules/7762",
+        "status": null,
         "critical": false
     },
     {
         "id": 7766,
         "name": "Avoid Artifacts with High Cyclomatic Complexity",
         "href": "AIP/quality-rules/7766",
+        "status": null,
         "critical": false
     },
     {
         "id": 7768,
         "name": "Avoid Artifacts with High Depth of Code",
         "href": "AIP/quality-rules/7768",
+        "status": null,
         "critical": false
     },
     {
         "id": 7770,
         "name": "Avoid Artifacts with too many parameters",
         "href": "AIP/quality-rules/7770",
+        "status": null,
         "critical": false
     },
     {
         "id": 7772,
         "name": "Avoid Artifacts with High Essential Complexity",
         "href": "AIP/quality-rules/7772",
+        "status": null,
         "critical": false
     },
     {
         "id": 7774,
         "name": "Avoid Artifacts with High Integration Complexity",
         "href": "AIP/quality-rules/7774",
+        "status": null,
         "critical": false
     },
     {
         "id": 7776,
         "name": "Avoid Artifacts with High Fan-In",
         "href": "AIP/quality-rules/7776",
+        "status": null,
         "critical": false
     },
     {
         "id": 7778,
         "name": "Avoid Artifacts with High Fan-Out",
         "href": "AIP/quality-rules/7778",
+        "status": null,
         "critical": false
     },
     {
         "id": 7780,
         "name": "Avoid Classes with a very low comment/code ratio",
         "href": "AIP/quality-rules/7780",
+        "status": null,
         "critical": false
     },
     {
         "id": 7786,
         "name": "Avoid long Table or View names",
         "href": "AIP/quality-rules/7786",
+        "status": null,
         "critical": false
     },
     {
         "id": 7792,
         "name": "Avoid Classes with a High Number Of Children",
         "href": "AIP/quality-rules/7792",
+        "status": null,
         "critical": false
     },
     {
         "id": 7794,
         "name": "Avoid Classes with a High Public Data Ratio",
         "href": "AIP/quality-rules/7794",
+        "status": null,
         "critical": false
     },
     {
         "id": 7796,
         "name": "Avoid Classes with a High Lack of Cohesion - variant",
         "href": "AIP/quality-rules/7796",
+        "status": null,
         "critical": false
     },
     {
         "id": 7798,
         "name": "Avoid Classes with a High Lack of Cohesion",
         "href": "AIP/quality-rules/7798",
+        "status": null,
         "critical": false
     },
     {
         "id": 7800,
         "name": "Avoid Classes with High Coupling Between Objects",
         "href": "AIP/quality-rules/7800",
+        "status": null,
         "critical": false
     },
     {
         "id": 7802,
         "name": "Avoid Classes with a High Depth of Inheritance Tree",
         "href": "AIP/quality-rules/7802",
+        "status": null,
         "critical": false
     },
     {
         "id": 7804,
         "name": "Avoid Classes with High Weighted Methods per Class",
         "href": "AIP/quality-rules/7804",
+        "status": null,
         "critical": false
     },
     {
         "id": 7810,
         "name": "Avoid Artifacts with a Complex SELECT Clause",
         "href": "AIP/quality-rules/7810",
+        "status": null,
         "critical": false
     },
     {
         "id": 7812,
         "name": "Class naming convention - case and character set control",
         "href": "AIP/quality-rules/7812",
+        "status": null,
         "critical": false
     },
     {
         "id": 7814,
         "name": "Avoid Tables not using referential integrity",
         "href": "AIP/quality-rules/7814",
+        "status": null,
         "critical": false
     },
     {
         "id": 7816,
         "name": "Avoid using GOTO statement",
         "href": "AIP/quality-rules/7816",
+        "status": null,
         "critical": false
     },
     {
         "id": 7818,
         "name": "Avoid Functions having a very low Comment/Code ratio",
         "href": "AIP/quality-rules/7818",
+        "status": null,
         "critical": false
     },
     {
         "id": 7826,
         "name": "Forms naming convention - prefix control",
         "href": "AIP/quality-rules/7826",
+        "status": null,
         "critical": false
     },
     {
         "id": 7828,
         "name": "Avoid Artifacts with High RAW SQL Complexity",
         "href": "AIP/quality-rules/7828",
+        "status": null,
         "critical": false
     },
     {
         "id": 7830,
         "name": "Avoid unreferenced Interfaces",
         "href": "AIP/quality-rules/7830",
+        "status": null,
         "critical": false
     },
     {
         "id": 7832,
         "name": "Avoid unreferenced Classes",
         "href": "AIP/quality-rules/7832",
+        "status": null,
         "critical": false
     },
     {
         "id": 7834,
         "name": "Avoid undocumented Interfaces",
         "href": "AIP/quality-rules/7834",
+        "status": null,
         "critical": false
     },
     {
         "id": 7836,
         "name": "Avoid undocumented Functions",
         "href": "AIP/quality-rules/7836",
+        "status": null,
         "critical": false
     },
     {
         "id": 7838,
         "name": "Avoid undocumented Methods",
         "href": "AIP/quality-rules/7838",
+        "status": null,
         "critical": false
     },
     {
         "id": 7840,
         "name": "Trigger naming convention - prefix control",
         "href": "AIP/quality-rules/7840",
+        "status": null,
         "critical": false
     },
     {
         "id": 7844,
         "name": "Avoid undocumented Classes",
         "href": "AIP/quality-rules/7844",
+        "status": null,
         "critical": false
     },
     {
         "id": 7846,
         "name": "Avoid Methods with a very low comment/code ratio",
         "href": "AIP/quality-rules/7846",
+        "status": null,
         "critical": false
     },
     {
         "id": 7848,
         "name": "Interface naming convention - prefix",
         "href": "AIP/quality-rules/7848",
+        "status": null,
         "critical": false
     },
     {
         "id": 7852,
         "name": "Database view naming convention - prefix control",
         "href": "AIP/quality-rules/7852",
+        "status": null,
         "critical": false
     },
     {
         "id": 7854,
         "name": "Database table naming convention - prefix control",
         "href": "AIP/quality-rules/7854",
+        "status": null,
         "critical": false
     },
     {
         "id": 7860,
         "name": "Avoid unreferenced Functions",
         "href": "AIP/quality-rules/7860",
+        "status": null,
         "critical": false
     },
     {
         "id": 7874,
         "name": "Avoid using dynamic queries",
         "href": "AIP/quality-rules/7874",
+        "status": null,
         "critical": true
     },
     {
         "id": 7882,
         "name": "Avoid using Native SQL",
         "href": "AIP/quality-rules/7882",
+        "status": null,
         "critical": true
     },
     {
         "id": 7886,
         "name": "Avoid using SYSTEM-CALL",
         "href": "AIP/quality-rules/7886",
+        "status": null,
         "critical": false
     },
     {
         "id": 7898,
         "name": "SQL Function naming convention - prefix control",
         "href": "AIP/quality-rules/7898",
+        "status": null,
         "critical": false
     },
     {
         "id": 7900,
         "name": "Stored Procedure naming convention - prefix control",
         "href": "AIP/quality-rules/7900",
+        "status": null,
         "critical": false
     },
     {
         "id": 7908,
         "name": "Avoid unreferenced Methods",
         "href": "AIP/quality-rules/7908",
+        "status": null,
         "critical": false
     },
     {
         "id": 7912,
         "name": "Avoid unreferenced Data Members",
         "href": "AIP/quality-rules/7912",
+        "status": null,
         "critical": false
     },
     {
         "id": 7914,
         "name": "Avoid direct access to Database Tables",
         "href": "AIP/quality-rules/7914",
+        "status": null,
         "critical": false
     },
     {
         "id": 7916,
         "name": "Avoid direct use of Database objects (JSP/ASP)",
         "href": "AIP/quality-rules/7916",
+        "status": null,
         "critical": false
     },
     {
         "id": 7918,
         "name": "Exceptions naming convention -suffix control",
         "href": "AIP/quality-rules/7918",
+        "status": null,
         "critical": false
     },
     {
         "id": 7920,
         "name": "Exceptions naming convention - case and character set control",
         "href": "AIP/quality-rules/7920",
+        "status": null,
         "critical": false
     },
     {
         "id": 8008,
         "name": "Avoid data members that are never read",
         "href": "AIP/quality-rules/8008",
+        "status": null,
         "critical": false
     },
     {
         "id": 8010,
         "name": "Do not overload the ampersand, comma, logical AND or logical OR operators",
         "href": "AIP/quality-rules/8010",
+        "status": null,
         "critical": false
     },
     {
         "id": 8032,
         "name": "Avoid using a break statement in 'for' loops",
         "href": "AIP/quality-rules/8032",
+        "status": null,
         "critical": false
     },
     {
         "id": 8046,
         "name": "Do not return non-const handles to Class data from const member Functions",
         "href": "AIP/quality-rules/8046",
+        "status": null,
         "critical": false
     },
     {
         "id": 8062,
         "name": "An unconditional 'throw', 'return' or 'break' shall terminate every non-empty switch-clause",
         "href": "AIP/quality-rules/8062",
+        "status": null,
         "critical": false
     },
     {
         "id": 8066,
         "name": "Avoid using 'using namespace' or 'using' declarations in header files",
         "href": "AIP/quality-rules/8066",
+        "status": null,
         "critical": false
     },
     {
         "id": 8070,
         "name": "Do not alter a control variable in the body of a 'for' statement",
         "href": "AIP/quality-rules/8070",
+        "status": null,
         "critical": false
     },
     {
         "id": 8076,
         "name": "Avoid using 'new[]', prefer 'std::vector' or 'std::array'",
         "href": "AIP/quality-rules/8076",
+        "status": null,
         "critical": false
     },
     {
         "id": 8102,
         "name": "Avoid hardcoded network resource names",
         "href": "AIP/quality-rules/8102",
+        "status": null,
         "critical": false
     },
     {
         "id": 8148,
         "name": "Avoid artifacts having Incorrect Type Conversion or Cast",
         "href": "AIP/quality-rules/8148",
+        "status": null,
         "critical": true
     },
     {
         "id": 8152,
         "name": "Avoid having transaction with the Thread.Sleep method in a loop",
         "href": "AIP/quality-rules/8152",
+        "status": null,
         "critical": false
     },
     {
         "id": 8236,
         "name": "Avoid using hard-coded values",
         "href": "AIP/quality-rules/8236",
+        "status": null,
         "critical": false
     },
     {
         "id": 1001008,
         "name": "Avoid having multiple artifacts inserting data on the same SQL table (PLI)",
         "href": "AIP/quality-rules/1001008",
+        "status": null,
         "critical": false
     },
     {
         "id": 1001010,
         "name": "Avoid having multiple artifacts deleting data on the same SQL table (PLI)",
         "href": "AIP/quality-rules/1001010",
+        "status": null,
         "critical": false
     },
     {
         "id": 1001012,
         "name": "Avoid having multiple artifacts updating data on the same SQL table (PLI)",
         "href": "AIP/quality-rules/1001012",
+        "status": null,
         "critical": false
     },
     {
         "id": 1001014,
         "name": "Avoid having multiple artifacts inserting data on the same SQL table (PLC)",
         "href": "AIP/quality-rules/1001014",
+        "status": null,
         "critical": false
     },
     {
         "id": 1001016,
         "name": "Avoid having multiple artifacts deleting data on the same SQL table (PLC)",
         "href": "AIP/quality-rules/1001016",
+        "status": null,
         "critical": false
     },
     {
         "id": 1001018,
         "name": "Avoid having multiple artifacts updating data on the same SQL table (PLC)",
         "href": "AIP/quality-rules/1001018",
+        "status": null,
         "critical": false
     },
     {
         "id": 1001020,
         "name": "Avoid PLI Procedures & Functions with a High Fan-out (PL1)",
         "href": "AIP/quality-rules/1001020",
+        "status": null,
         "critical": false
     },
     {
         "id": 1001022,
         "name": "Avoid PLC Procedures & Functions with a High Fan-out (PL1)",
         "href": "AIP/quality-rules/1001022",
+        "status": null,
         "critical": false
     },
     {
         "id": 1001024,
         "name": "Avoid PLI Procedures & Functions with a High Fan-in (PL1)",
         "href": "AIP/quality-rules/1001024",
+        "status": null,
         "critical": false
     },
     {
         "id": 1001026,
         "name": "Avoid PLC Procedures & Functions with a High Fan-in (PL1)",
         "href": "AIP/quality-rules/1001026",
+        "status": null,
         "critical": false
     },
     {
         "id": 1001028,
         "name": "Avoid duplicated Main Procedures (PL1)",
         "href": "AIP/quality-rules/1001028",
+        "status": null,
         "critical": false
     },
     {
         "id": 1001030,
         "name": "Avoid PLI Main Proc with High Cyclomatic Complexity (PL1)",
         "href": "AIP/quality-rules/1001030",
+        "status": null,
         "critical": false
     },
     {
         "id": 1001032,
         "name": "Avoid PLC Copybook with High Cyclomatic Complexity (PL1)",
         "href": "AIP/quality-rules/1001032",
+        "status": null,
         "critical": false
     },
     {
         "id": 1001034,
         "name": "Avoid PLI Procedures & Functions with High Cyclomatic Complexity (PL1)",
         "href": "AIP/quality-rules/1001034",
+        "status": null,
         "critical": false
     },
     {
         "id": 1001036,
         "name": "Avoid PLC Procedures & Functions with High Cyclomatic Complexity (PL1)",
         "href": "AIP/quality-rules/1001036",
+        "status": null,
         "critical": false
     },
     {
         "id": 1001038,
         "name": "Avoid PLI Functions and Procedures declared as RECURSIVE (PL1)",
         "href": "AIP/quality-rules/1001038",
+        "status": null,
         "critical": false
     },
     {
         "id": 1001040,
         "name": "Avoid PLC Includes having recursive PLC procedures (PL1)",
         "href": "AIP/quality-rules/1001040",
+        "status": null,
         "critical": false
     },
     {
         "id": 1001042,
         "name": "Avoid Functions and Procedures having  multiple statements on the same line (PL1)",
         "href": "AIP/quality-rules/1001042",
+        "status": null,
         "critical": false
     },
     {
         "id": 1001044,
         "name": "Avoid Functions and Procedures using RETURN statements (PL1)",
         "href": "AIP/quality-rules/1001044",
+        "status": null,
         "critical": false
     },
     {
         "id": 1001046,
         "name": "Avoid Functions and Procedures using logical operators (or, and) in the \"WHEN\" clause of the SELECT statement (PL1)",
         "href": "AIP/quality-rules/1001046",
+        "status": null,
         "critical": false
     },
     {
         "id": 1001048,
         "name": "Avoid excessive number of successive nested Procedure calls  and limit it to two  (PL1)",
         "href": "AIP/quality-rules/1001048",
+        "status": null,
         "critical": false
     },
     {
         "id": 1001054,
         "name": "Avoid unreferenced PLI Procedures & Functions (PL1)",
         "href": "AIP/quality-rules/1001054",
+        "status": null,
         "critical": false
     },
     {
         "id": 1001056,
         "name": "Avoid unreferenced PLC Procedures & Functions (PL1)",
         "href": "AIP/quality-rules/1001056",
+        "status": null,
         "critical": false
     },
     {
         "id": 1001058,
         "name": "Avoid unreferenced PLC Copybooks (PL1)",
         "href": "AIP/quality-rules/1001058",
+        "status": null,
         "critical": false
     },
     {
         "id": 1001060,
         "name": "Avoid duplicate Programs in different files (PL1)",
         "href": "AIP/quality-rules/1001060",
+        "status": null,
         "critical": false
     },
     {
         "id": 1001062,
         "name": "Avoid unreferenced Main procedures (PL1)",
         "href": "AIP/quality-rules/1001062",
+        "status": null,
         "critical": false
     },
     {
         "id": 1001064,
         "name": "Avoid unreferenced DB2 tables (PL1)",
         "href": "AIP/quality-rules/1001064",
+        "status": null,
         "critical": false
     },
     {
         "id": 1001066,
         "name": "Avoid unreferenced PLC DB2 tables (PL1)",
         "href": "AIP/quality-rules/1001066",
+        "status": null,
         "critical": false
     },
     {
         "id": 1001070,
         "name": "Avoid using Main Procedures not having the same name as the file name (PL1)",
         "href": "AIP/quality-rules/1001070",
+        "status": null,
         "critical": false
     },
     {
         "id": 1001072,
         "name": "Avoid Functions and Procedures having bad naming convention (PL1)",
         "href": "AIP/quality-rules/1001072",
+        "status": null,
         "critical": false
     },
     {
         "id": 1001074,
         "name": "Avoid Main Procedures having  in the same statement the combination of two words among : INDEX, SUBSTR, REPEAT, TRANSLATE (PL1)",
         "href": "AIP/quality-rules/1001074",
+        "status": null,
         "critical": false
     },
     {
         "id": 1001078,
         "name": "Avoid having Copybooks with reserved prefix (PL1)",
         "href": "AIP/quality-rules/1001078",
+        "status": null,
         "critical": false
     },
     {
         "id": 1001088,
         "name": "Avoid undocumented PLI Programs (PL1)",
         "href": "AIP/quality-rules/1001088",
+        "status": null,
         "critical": false
     },
     {
         "id": 1001090,
         "name": "Avoid undocumented PLC Copybook (PL1)",
         "href": "AIP/quality-rules/1001090",
+        "status": null,
         "critical": false
     },
     {
         "id": 1001092,
         "name": "Avoid undocumented PLI Procedures and Functions (PL1)",
         "href": "AIP/quality-rules/1001092",
+        "status": null,
         "critical": false
     },
     {
         "id": 1001094,
         "name": "Avoid undocumented PLC Procedures and Functions (PL1)",
         "href": "AIP/quality-rules/1001094",
+        "status": null,
         "critical": false
     },
     {
         "id": 1001096,
         "name": "Avoid PLI Programs with a very low comment/code ratio (PL1)",
         "href": "AIP/quality-rules/1001096",
+        "status": null,
         "critical": false
     },
     {
         "id": 1001098,
         "name": "Avoid PLC Copybook with a very low comment/code ratio (PL1)",
         "href": "AIP/quality-rules/1001098",
+        "status": null,
         "critical": false
     },
     {
         "id": 1001100,
         "name": "Avoid PLC Procedures & Functions with a very low comment/code ratio (PL1)",
         "href": "AIP/quality-rules/1001100",
+        "status": null,
         "critical": false
     },
     {
         "id": 1001102,
         "name": "Avoid PLI Procedures & Functions with a very low comment/code ratio (PL1)",
         "href": "AIP/quality-rules/1001102",
+        "status": null,
         "critical": false
     },
     {
         "id": 1001160,
         "name": "Avoid  PLI Main procedures, PL1 function and PL1 Procedures using GOTO statement (PL1)",
         "href": "AIP/quality-rules/1001160",
+        "status": null,
         "critical": true
     },
     {
         "id": 1001162,
         "name": "Avoid PLC Copybook using GOTO statement  (PL1)",
         "href": "AIP/quality-rules/1001162",
+        "status": null,
         "critical": true
     },
     {
         "id": 1001164,
         "name": "Avoid Main procedures using the DATE builtin function (PL1)",
         "href": "AIP/quality-rules/1001164",
+        "status": null,
         "critical": false
     },
     {
         "id": 1001166,
         "name": "Avoid Main procedures using the DATE builtin Function via include PLC (PL1)",
         "href": "AIP/quality-rules/1001166",
+        "status": null,
         "critical": false
     },
     {
         "id": 1001168,
         "name": "Avoid Functions and Procedures  not having variable declared on a separate line (PL1)",
         "href": "AIP/quality-rules/1001168",
+        "status": null,
         "critical": false
     },
     {
         "id": 1001170,
         "name": "Avoid Main Procedures having LEAVE statement (PL1)",
         "href": "AIP/quality-rules/1001170",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002000,
         "name": "Do not use EQUIVALENCE in Subroutines (FORTRAN)",
         "href": "AIP/quality-rules/1002000",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002002,
         "name": "Do not use EQUIVALENCE in Functions  (FORTRAN)",
         "href": "AIP/quality-rules/1002002",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002004,
         "name": "Do not use EQUIVALENCE in Programs  (FORTRAN)",
         "href": "AIP/quality-rules/1002004",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002006,
         "name": "Do not use EQUIVALENCE in Modules  (FORTRAN)",
         "href": "AIP/quality-rules/1002006",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002008,
         "name": "Do not use COMMON blocks in Fortran-90 in Programs  (FORTRAN)",
         "href": "AIP/quality-rules/1002008",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002010,
         "name": "Do not use COMMON blocks in Fortran-90 in Subroutines  (FORTRAN)",
         "href": "AIP/quality-rules/1002010",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002012,
         "name": "Do not use COMMON blocks in Fortran-90 in Functions  (FORTRAN)",
         "href": "AIP/quality-rules/1002012",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002014,
         "name": "Do not use COMMON blocks in Fortran-90 in Modules  (FORTRAN)",
         "href": "AIP/quality-rules/1002014",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002024,
         "name": "Avoid using too many GOTO statement in Programs  (FORTRAN)",
         "href": "AIP/quality-rules/1002024",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002026,
         "name": "Avoid using too many GOTO statement in Subroutines  (FORTRAN)",
         "href": "AIP/quality-rules/1002026",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002028,
         "name": "Avoid using too many GOTO statement in Functions  (FORTRAN)",
         "href": "AIP/quality-rules/1002028",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002030,
         "name": "Avoid using too many GOTO statement in Modules  (FORTRAN)",
         "href": "AIP/quality-rules/1002030",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002032,
         "name": "Any Data must be declared, use IMPLICIT NONE in Programs  (FORTRAN)",
         "href": "AIP/quality-rules/1002032",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002034,
         "name": "Any Data must be declared, use IMPLICIT NONE in Subroutines  (FORTRAN)",
         "href": "AIP/quality-rules/1002034",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002036,
         "name": "Any Data must be declared, use IMPLICIT NONE in Functions  (FORTRAN)",
         "href": "AIP/quality-rules/1002036",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002038,
         "name": "Any Data must be declared, use IMPLICIT NONE in Modules  (FORTRAN)",
         "href": "AIP/quality-rules/1002038",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002040,
         "name": "Avoid using too many CONTINUE statements in Fortran-77 Programs  (FORTRAN)",
         "href": "AIP/quality-rules/1002040",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002042,
         "name": "Avoid using too many CONTINUE statements in Fortran-77 Subroutines  (FORTRAN)",
         "href": "AIP/quality-rules/1002042",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002044,
         "name": "Avoid using too many CONTINUE statements in Fortran-77 Functions  (FORTRAN)",
         "href": "AIP/quality-rules/1002044",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002046,
         "name": "Avoid using too many CONTINUE statements in Fortran-77 Modules  (FORTRAN)",
         "href": "AIP/quality-rules/1002046",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002048,
         "name": "Avoid using too many CYCLE or/and EXIT statements in Fortran-90 Program  (FORTRAN)",
         "href": "AIP/quality-rules/1002048",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002050,
         "name": "Avoid using too many CYCLE or/and EXIT statements in Fortran-90 Subroutines  (FORTRAN)",
         "href": "AIP/quality-rules/1002050",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002052,
         "name": "Avoid using too many CYCLE or/and EXIT statements in Fortran-90 Functions  (FORTRAN)",
         "href": "AIP/quality-rules/1002052",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002054,
         "name": "Avoid using too many CYCLE or/and EXIT statements in Fortran-90 Modules  (FORTRAN)",
         "href": "AIP/quality-rules/1002054",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002056,
         "name": "Avoid Programs with High Cyclomatic Complexity  (FORTRAN)",
         "href": "AIP/quality-rules/1002056",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002058,
         "name": "Avoid Subroutines with High Cyclomatic Complexity  (FORTRAN)",
         "href": "AIP/quality-rules/1002058",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002060,
         "name": "Avoid Functions with High Cyclomatic Complexity  (FORTRAN)",
         "href": "AIP/quality-rules/1002060",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002062,
         "name": "Avoid Modules with High Cyclomatic Complexity  (FORTRAN)",
         "href": "AIP/quality-rules/1002062",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002064,
         "name": "Avoid too many Exit statements in Programs  (FORTRAN)",
         "href": "AIP/quality-rules/1002064",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002066,
         "name": "Avoid too many Exit statements in Subroutines  (FORTRAN)",
         "href": "AIP/quality-rules/1002066",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002068,
         "name": "Avoid too many Exit statements in Functions  (FORTRAN)",
         "href": "AIP/quality-rules/1002068",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002070,
         "name": "Avoid too many Exit statements in Modules  (FORTRAN)",
         "href": "AIP/quality-rules/1002070",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002072,
         "name": "Avoid too many Entry statements in Programs  (FORTRAN)",
         "href": "AIP/quality-rules/1002072",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002074,
         "name": "Avoid too many Entry statements in Subroutines  (FORTRAN)",
         "href": "AIP/quality-rules/1002074",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002076,
         "name": "Avoid too many Entry statements in Functions  (FORTRAN)",
         "href": "AIP/quality-rules/1002076",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002078,
         "name": "Avoid too many Entry statements in Modules  (FORTRAN)",
         "href": "AIP/quality-rules/1002078",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002080,
         "name": "Avoid too many Exit and Entry points in Programs  (FORTRAN)",
         "href": "AIP/quality-rules/1002080",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002082,
         "name": "Avoid too many Exit and Entry points in Subroutines  (FORTRAN)",
         "href": "AIP/quality-rules/1002082",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002084,
         "name": "Avoid too many Exit and Entry points in Functions  (FORTRAN)",
         "href": "AIP/quality-rules/1002084",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002086,
         "name": "Avoid too many Exit and Entry points in Modules  (FORTRAN)",
         "href": "AIP/quality-rules/1002086",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002088,
         "name": "Avoid too many Statements (STMT) in a Subroutine  (FORTRAN)",
         "href": "AIP/quality-rules/1002088",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002090,
         "name": "Avoid too many Statements (STMT) in a Program  (FORTRAN)",
         "href": "AIP/quality-rules/1002090",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002092,
         "name": "Avoid too many Statements (STMT) in a Function  (FORTRAN)",
         "href": "AIP/quality-rules/1002092",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002094,
         "name": "Avoid too many Statements (STMT) in a Module  (FORTRAN)",
         "href": "AIP/quality-rules/1002094",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002110,
         "name": "Avoid Programs with High Average size of Statements (AVGS)  (FORTRAN)",
         "href": "AIP/quality-rules/1002110",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002112,
         "name": "Avoid Subroutines with High Average size of Statements (AVGS)  (FORTRAN)",
         "href": "AIP/quality-rules/1002112",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002114,
         "name": "Avoid Functions with High Average size of Statements (AVGS)  (FORTRAN)",
         "href": "AIP/quality-rules/1002114",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002116,
         "name": "Avoid Modules with High Average size of Statements (AVGS)  (FORTRAN)",
         "href": "AIP/quality-rules/1002116",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002118,
         "name": "Avoid Programs with High Program Length (PR_LGTH)  (FORTRAN)",
         "href": "AIP/quality-rules/1002118",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002120,
         "name": "Avoid Subroutines with High Program Length (PR_LGTH)  (FORTRAN)",
         "href": "AIP/quality-rules/1002120",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002122,
         "name": "Avoid Functions with High Program Length (PR_LGTH)  (FORTRAN)",
         "href": "AIP/quality-rules/1002122",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002124,
         "name": "Avoid Modules with High Program Length (PR_LGTH)  (FORTRAN)",
         "href": "AIP/quality-rules/1002124",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002126,
         "name": "Avoid Programs with High Vocabulary Frequency (VOCF)  (FORTRAN)",
         "href": "AIP/quality-rules/1002126",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002128,
         "name": "Avoid Subroutines with High Vocabulary Frequency (VOCF)  (FORTRAN)",
         "href": "AIP/quality-rules/1002128",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002130,
         "name": "Avoid Functions with High Vocabulary Frequency (VOCF)  (FORTRAN)",
         "href": "AIP/quality-rules/1002130",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002132,
         "name": "Avoid Modules with High Vocabulary Frequency (VOCF)  (FORTRAN)",
         "href": "AIP/quality-rules/1002132",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002134,
         "name": "Avoid Programs with more then 1 statement per line  (FORTRAN)",
         "href": "AIP/quality-rules/1002134",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002136,
         "name": "Avoid Subroutines with more then 1 statement per line  (FORTRAN)",
         "href": "AIP/quality-rules/1002136",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002138,
         "name": "Avoid Functions with more then 1 statement per line  (FORTRAN)",
         "href": "AIP/quality-rules/1002138",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002140,
         "name": "Avoid Modules with more then 1 statement per line  (FORTRAN)",
         "href": "AIP/quality-rules/1002140",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002150,
         "name": "Avoid Programs with a high Fan-in  (FORTRAN)",
         "href": "AIP/quality-rules/1002150",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002152,
         "name": "Avoid Subroutines with a high Fan-in  (FORTRAN)",
         "href": "AIP/quality-rules/1002152",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002154,
         "name": "Avoid Subroutines with a high Fan-out (FORTRAN)",
         "href": "AIP/quality-rules/1002154",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002156,
         "name": "Avoid Functions with a high Fan-in (FORTRAN)",
         "href": "AIP/quality-rules/1002156",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002158,
         "name": "Avoid Functions with a high Fan-out (FORTRAN)",
         "href": "AIP/quality-rules/1002158",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002160,
         "name": "Avoid undocumented Programs (FORTRAN)",
         "href": "AIP/quality-rules/1002160",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002162,
         "name": "Avoid undocumented Subroutines (FORTRAN)",
         "href": "AIP/quality-rules/1002162",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002164,
         "name": "Avoid undocumented Functions (FORTRAN)",
         "href": "AIP/quality-rules/1002164",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002166,
         "name": "Avoid undocumented Modules (FORTRAN)",
         "href": "AIP/quality-rules/1002166",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002168,
         "name": "Avoid Programs with a low comment/code ratio (FORTRAN)",
         "href": "AIP/quality-rules/1002168",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002170,
         "name": "Avoid Subroutines with a low comment/code ratio",
         "href": "AIP/quality-rules/1002170",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002172,
         "name": "Avoid Functions with a low comment/code ratio (FORTRAN)",
         "href": "AIP/quality-rules/1002172",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002174,
         "name": "Avoid Modules with a low comment/code ratio (FORTRAN)",
         "href": "AIP/quality-rules/1002174",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002176,
         "name": "Avoid unreferenced Programs (FORTRAN)",
         "href": "AIP/quality-rules/1002176",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002178,
         "name": "Avoid unreferenced Subroutines (FORTRAN)",
         "href": "AIP/quality-rules/1002178",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002180,
         "name": "Avoid unreferenced Functions (FORTRAN)",
         "href": "AIP/quality-rules/1002180",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002182,
         "name": "Avoid unreferenced Modules (FORTRAN)",
         "href": "AIP/quality-rules/1002182",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002184,
         "name": "Avoid Programs with a low number of Comment Blocks (FORTRAN)",
         "href": "AIP/quality-rules/1002184",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002186,
         "name": "Avoid Subroutines with a low number of Comment Blocks (FORTRAN)",
         "href": "AIP/quality-rules/1002186",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002188,
         "name": "Avoid Functions with a low number of Comment Blocks (FORTRAN)",
         "href": "AIP/quality-rules/1002188",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002190,
         "name": "Avoid Modules with a low number of Comment Blocks",
         "href": "AIP/quality-rules/1002190",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002192,
         "name": "Avoid Programs with a low Comments Frequency",
         "href": "AIP/quality-rules/1002192",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002194,
         "name": "Avoid Subroutines with a low Comments Frequency (FORTRAN)",
         "href": "AIP/quality-rules/1002194",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002196,
         "name": "Avoid Functions with a low Comments Frequency (FORTRAN)",
         "href": "AIP/quality-rules/1002196",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002198,
         "name": "Avoid Modules with a low Comments Frequency (FORTRAN)",
         "href": "AIP/quality-rules/1002198",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002216,
         "name": "Avoid Programs with a High number of Paths (FORTRAN)",
         "href": "AIP/quality-rules/1002216",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002218,
         "name": "Avoid Subroutines with a High number of Paths (FORTRAN)",
         "href": "AIP/quality-rules/1002218",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002220,
         "name": "Avoid Functions with a High number of Paths (FORTRAN)",
         "href": "AIP/quality-rules/1002220",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002222,
         "name": "Avoid Modules with a High number of Paths (FORTRAN)",
         "href": "AIP/quality-rules/1002222",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002224,
         "name": "Avoid high depth of code in Programs (FORTRAN)",
         "href": "AIP/quality-rules/1002224",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002226,
         "name": "Avoid high depth of code in Subroutines (FORTRAN)",
         "href": "AIP/quality-rules/1002226",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002228,
         "name": "Avoid high depth of code in Functions (FORTRAN)",
         "href": "AIP/quality-rules/1002228",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002230,
         "name": "Avoid using the loop DO.. label.. CONTINUE in F90 Programs (FORTRAN)",
         "href": "AIP/quality-rules/1002230",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002232,
         "name": "Avoid using the loop DO.. label.. CONTINUE in F90 Subroutines (FORTRAN)",
         "href": "AIP/quality-rules/1002232",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002234,
         "name": "Avoid using the loop DO.. label.. CONTINUE in F90 Functions (FORTRAN)",
         "href": "AIP/quality-rules/1002234",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002236,
         "name": "Avoid using the loop DO.. label.. CONTINUE in F90 Modules (FORTRAN)",
         "href": "AIP/quality-rules/1002236",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002254,
         "name": "Avoid using free format files in Fortran-77 (FORTRAN)",
         "href": "AIP/quality-rules/1002254",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002256,
         "name": "Logical operators should be enclosed in proper parenthesis in Programs (FORTRAN)",
         "href": "AIP/quality-rules/1002256",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002258,
         "name": "Logical operators should be enclosed in proper parenthesis in Subroutines (FORTRAN)",
         "href": "AIP/quality-rules/1002258",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002260,
         "name": "Logical operators should be enclosed in proper parenthesis in Functions (FORTRAN)",
         "href": "AIP/quality-rules/1002260",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002262,
         "name": "Logical operators should be enclosed in proper parenthesis in Modules (FORTRAN)",
         "href": "AIP/quality-rules/1002262",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002264,
         "name": "Avoid Programs with a high Fan-out (FORTRAN)",
         "href": "AIP/quality-rules/1002264",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002266,
         "name": "Avoid high level of Nesting in Programs (FORTRAN)",
         "href": "AIP/quality-rules/1002266",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002268,
         "name": "Avoid high level of Nesting in Functions (FORTRAN)",
         "href": "AIP/quality-rules/1002268",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002270,
         "name": "Avoid high level of Nesting in Subroutines (FORTRAN)",
         "href": "AIP/quality-rules/1002270",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002278,
         "name": "Avoid using fixed format files in Fortran-90 (FORTRAN)",
         "href": "AIP/quality-rules/1002278",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002290,
         "name": "Avoid using complex Allocates in Fortran 90 Programs (FORTRAN)",
         "href": "AIP/quality-rules/1002290",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002292,
         "name": "Avoid using complex Allocates in Fortran 90 Subroutines (FORTRAN)",
         "href": "AIP/quality-rules/1002292",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002294,
         "name": "Avoid using complex Allocates in Fortran 90 Function  (FORTRAN)",
         "href": "AIP/quality-rules/1002294",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002296,
         "name": "Avoid using complex Allocates in Fortran 90 Modules (FORTRAN)",
         "href": "AIP/quality-rules/1002296",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003000,
         "name": "Avoid packages with high number of imports (Flex)",
         "href": "AIP/quality-rules/1003000",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003002,
         "name": "Avoid scripts high number of imports (Flex)",
         "href": "AIP/quality-rules/1003002",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003004,
         "name": "Avoid packages with view components referenced in a model class (Flex)",
         "href": "AIP/quality-rules/1003004",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003006,
         "name": "Avoid scripts with view components referenced in a model class (Flex)",
         "href": "AIP/quality-rules/1003006",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003008,
         "name": "Avoid class duplicated with a SDK class (Flex)",
         "href": "AIP/quality-rules/1003008",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003010,
         "name": "Avoid class that imports an internal class from another function area (Flex)",
         "href": "AIP/quality-rules/1003010",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003012,
         "name": "Avoid using code behind files (Flex)",
         "href": "AIP/quality-rules/1003012",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003014,
         "name": "Avoid nested if statements (Flex)",
         "href": "AIP/quality-rules/1003014",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003016,
         "name": "Avoid long switch case (Flex)",
         "href": "AIP/quality-rules/1003016",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003018,
         "name": "Avoid nested switch statements (Flex)",
         "href": "AIP/quality-rules/1003018",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003020,
         "name": "Avoid empty method (Flex)",
         "href": "AIP/quality-rules/1003020",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003022,
         "name": "Avoid empty statement (Flex)",
         "href": "AIP/quality-rules/1003022",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003024,
         "name": "Avoid empty used private method (Flex)",
         "href": "AIP/quality-rules/1003024",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003030,
         "name": "Avoid function with unused parameter (Flex)",
         "href": "AIP/quality-rules/1003030",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003032,
         "name": "Avoid unused variable (Flex)",
         "href": "AIP/quality-rules/1003032",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003034,
         "name": "Avoid unused private method (Flex)",
         "href": "AIP/quality-rules/1003034",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003036,
         "name": "Avoid unused private attribute (Flex)",
         "href": "AIP/quality-rules/1003036",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003038,
         "name": "Avoid Cairngorm event name not containing the function area name before the actual event name (Flex)",
         "href": "AIP/quality-rules/1003038",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003040,
         "name": "Avoid Event name not explicitly set (Flex)",
         "href": "AIP/quality-rules/1003040",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003042,
         "name": "Avoid extension with same name as the class name (Flex)",
         "href": "AIP/quality-rules/1003042",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003044,
         "name": "Avoid too short field name (Flex)",
         "href": "AIP/quality-rules/1003044",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003046,
         "name": "Avoid too short variable name (Flex)",
         "href": "AIP/quality-rules/1003046",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003048,
         "name": "Avoid package name in upper case (Flex)",
         "href": "AIP/quality-rules/1003048",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003050,
         "name": "Avoid field names ending with numeric characters (Flex)",
         "href": "AIP/quality-rules/1003050",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003052,
         "name": "Avoid variable names ending with numeric characters (Flex)",
         "href": "AIP/quality-rules/1003052",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003054,
         "name": "Avoid local variable hiding a class property (Flex)",
         "href": "AIP/quality-rules/1003054",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003056,
         "name": "Avoid class name not starting by a majuscule character (Flex)",
         "href": "AIP/quality-rules/1003056",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003058,
         "name": "Avoid field incorrectly named. (Flex)",
         "href": "AIP/quality-rules/1003058",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003060,
         "name": "Avoid variable incorrectly named. (Flex)",
         "href": "AIP/quality-rules/1003060",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003068,
         "name": "Avoid Attribute not documented with AsDocs (Flex)",
         "href": "AIP/quality-rules/1003068",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003070,
         "name": "Avoid class not documented with AsDocs (Flex)",
         "href": "AIP/quality-rules/1003070",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003072,
         "name": "Avoid method not documented with AsDocs (Flex)",
         "href": "AIP/quality-rules/1003072",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003096,
         "name": "Avoid using public static fields (Flex)",
         "href": "AIP/quality-rules/1003096",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003098,
         "name": "Avoid non-static constant fields (Flex)",
         "href": "AIP/quality-rules/1003098",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003100,
         "name": "Avoid protected accessors in a final class (Flex)",
         "href": "AIP/quality-rules/1003100",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003102,
         "name": "Protected static methods should be declared private (Flex)",
         "href": "AIP/quality-rules/1003102",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003104,
         "name": "Avoid Parsley metadata placed on inaccessible members. (Flex)",
         "href": "AIP/quality-rules/1003104",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003106,
         "name": "Avoid too many methods in class (Flex)",
         "href": "AIP/quality-rules/1003106",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003108,
         "name": "Avoid too many methods in script (Flex)",
         "href": "AIP/quality-rules/1003108",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003110,
         "name": "Avoid function that are too long (Flex)",
         "href": "AIP/quality-rules/1003110",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003112,
         "name": "Avoid too many public fields or functions (Flex)",
         "href": "AIP/quality-rules/1003112",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003114,
         "name": "Avoid class with too many fields (Flex)",
         "href": "AIP/quality-rules/1003114",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003116,
         "name": "Avoid class (in script) with too many fields (Flex)",
         "href": "AIP/quality-rules/1003116",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003118,
         "name": "Avoid Value Objects with too many fields (Flex)",
         "href": "AIP/quality-rules/1003118",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003120,
         "name": "Avoid ModelLocator not only accessible from the main application file (Flex)",
         "href": "AIP/quality-rules/1003120",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003122,
         "name": "Avoid FrontController that adds all its commands within the Controller constructor (Flex)",
         "href": "AIP/quality-rules/1003122",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003124,
         "name": "Avoid empty if statements (Flex)",
         "href": "AIP/quality-rules/1003124",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003126,
         "name": "Avoid method with more than one exit point (Flex)",
         "href": "AIP/quality-rules/1003126",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003128,
         "name": "Avoid using the with keyword (Flex)",
         "href": "AIP/quality-rules/1003128",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003130,
         "name": "Avoid managed events without matching [Event] metadata (Flex)",
         "href": "AIP/quality-rules/1003130",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003132,
         "name": "Avoid switch statement with too few branches (Flex)",
         "href": "AIP/quality-rules/1003132",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003134,
         "name": "Avoid identical switch cases (Flex)",
         "href": "AIP/quality-rules/1003134",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003136,
         "name": "Avoid test that does not contain at least one assertion (Flex)",
         "href": "AIP/quality-rules/1003136",
+        "status": null,
         "critical": false
     },
     {
         "id": 1005006,
         "name": "Avoid having multiple artifacts deleting data on the same SQL table (EGL)",
         "href": "AIP/quality-rules/1005006",
+        "status": null,
         "critical": false
     },
     {
         "id": 1005008,
         "name": "Avoid having multiple artifacts inserting data on the same SQL table (EGL)",
         "href": "AIP/quality-rules/1005008",
+        "status": null,
         "critical": false
     },
     {
         "id": 1005010,
         "name": "Avoid having multiple artifacts updating data on the same SQL table (EGL)",
         "href": "AIP/quality-rules/1005010",
+        "status": null,
         "critical": false
     },
     {
         "id": 1005012,
         "name": "Avoid Functions with High Fan-In (EGL)",
         "href": "AIP/quality-rules/1005012",
+        "status": null,
         "critical": false
     },
     {
         "id": 1005014,
         "name": "Avoid Functions with High Fan-Out (EGL)",
         "href": "AIP/quality-rules/1005014",
+        "status": null,
         "critical": false
     },
     {
         "id": 1005016,
         "name": "Avoid Programs with High Fan-In (EGL)",
         "href": "AIP/quality-rules/1005016",
+        "status": null,
         "critical": false
     },
     {
         "id": 1005018,
         "name": "Avoid Programs with High Fan-Out (EGL)",
         "href": "AIP/quality-rules/1005018",
+        "status": null,
         "critical": false
     },
     {
         "id": 1005020,
         "name": "Avoid old VAGen Compatibility statements (EGL)",
         "href": "AIP/quality-rules/1005020",
+        "status": null,
         "critical": false
     },
     {
         "id": 1005022,
         "name": "Avoid Programs not having  the property includeReferencedFunctions set to YES (EGL)",
         "href": "AIP/quality-rules/1005022",
+        "status": null,
         "critical": false
     },
     {
         "id": 1005024,
         "name": "Avoid programs not having the property allowUnqualifiedItemReferences set to YES (EGL)",
         "href": "AIP/quality-rules/1005024",
+        "status": null,
         "critical": false
     },
     {
         "id": 1005026,
         "name": "Avoid Too Many Copy Pasted Artifacts (EGL)",
         "href": "AIP/quality-rules/1005026",
+        "status": null,
         "critical": false
     },
     {
         "id": 1005028,
         "name": "Avoid Functions with High Cyclomatic Complexity (EGL)",
         "href": "AIP/quality-rules/1005028",
+        "status": null,
         "critical": false
     },
     {
         "id": 1005030,
         "name": "Avoid \"SELECT *\" queries (EGL)",
         "href": "AIP/quality-rules/1005030",
+        "status": null,
         "critical": false
     },
     {
         "id": 1005032,
         "name": "Avoid having Programs without a naming convention(EGL)",
         "href": "AIP/quality-rules/1005032",
+        "status": null,
         "critical": false
     },
     {
         "id": 1005034,
         "name": "Avoid having SQL Records without a naming convention (EGL)",
         "href": "AIP/quality-rules/1005034",
+        "status": null,
         "critical": false
     },
     {
         "id": 1005036,
         "name": "Avoid having Records without a naming convention (EGL)",
         "href": "AIP/quality-rules/1005036",
+        "status": null,
         "critical": false
     },
     {
         "id": 1005040,
         "name": "Avoid Programs with a very low comment/code ratio (EGL)",
         "href": "AIP/quality-rules/1005040",
+        "status": null,
         "critical": false
     },
     {
         "id": 1005042,
         "name": "Avoid undocumented Programs (EGL)",
         "href": "AIP/quality-rules/1005042",
+        "status": null,
         "critical": false
     },
     {
         "id": 1006000,
         "name": "Avoid scripts using SQL static statements (Shell)",
         "href": "AIP/quality-rules/1006000",
+        "status": null,
         "critical": false
     },
     {
         "id": 1006002,
         "name": "Avoid scripts and functions with SQL code in temporary files (Shell)",
         "href": "AIP/quality-rules/1006002",
+        "status": null,
         "critical": false
     },
     {
         "id": 1006004,
         "name": "Avoid unreferenced Programs  (Shell)",
         "href": "AIP/quality-rules/1006004",
+        "status": null,
         "critical": false
     },
     {
         "id": 1006006,
         "name": "Avoid unreferenced Functions  (Shell)",
         "href": "AIP/quality-rules/1006006",
+        "status": null,
         "critical": false
     },
     {
         "id": 1006008,
         "name": "Avoid programs with low comment / code ratio  (Shell)",
         "href": "AIP/quality-rules/1006008",
+        "status": null,
         "critical": false
     },
     {
         "id": 1006010,
         "name": "Avoid script without interpretor access path  (Shell)",
         "href": "AIP/quality-rules/1006010",
+        "status": null,
         "critical": false
     },
     {
         "id": 1007002,
         "name": "Avoid artifacts directly accessing database tables (PHP)",
         "href": "AIP/quality-rules/1007002",
+        "status": null,
         "critical": false
     },
     {
         "id": 1007004,
         "name": "Avoid Methods and Functions with High Fan-In (PHP)",
         "href": "AIP/quality-rules/1007004",
+        "status": null,
         "critical": false
     },
     {
         "id": 1007006,
         "name": "Avoid Methods and Functions with High Fan-Out (PHP)",
         "href": "AIP/quality-rules/1007006",
+        "status": null,
         "critical": false
     },
     {
         "id": 1007008,
         "name": "Avoid JavaScript Functions with High Fan-In (PHP)",
         "href": "AIP/quality-rules/1007008",
+        "status": null,
         "critical": false
     },
     {
         "id": 1007010,
         "name": "Avoid JavaScript Functions with High Fan-Out (PHP)",
         "href": "AIP/quality-rules/1007010",
+        "status": null,
         "critical": false
     },
     {
         "id": 1007012,
         "name": "Avoid using embedded CSS in Web Pages (PHP)",
         "href": "AIP/quality-rules/1007012",
+        "status": null,
         "critical": false
     },
     {
         "id": 1007014,
         "name": "Avoid direct definition of JavaScript Functions in a Web page (PHP)",
         "href": "AIP/quality-rules/1007014",
+        "status": null,
         "critical": false
     },
     {
         "id": 1007016,
         "name": "Avoid artifacts with High Cyclomatic Complexity (PHP)",
         "href": "AIP/quality-rules/1007016",
+        "status": null,
         "critical": false
     },
     {
         "id": 1007020,
         "name": "Avoid Sections with High Cyclomatic Complexity (PHP)",
         "href": "AIP/quality-rules/1007020",
+        "status": null,
         "critical": false
     },
     {
         "id": 1007022,
         "name": "Avoid artifacts using \"for\" loops which can be simplified to a \"while\" loop (PHP)",
         "href": "AIP/quality-rules/1007022",
+        "status": null,
         "critical": false
     },
     {
         "id": 1007024,
         "name": "Avoid incrementer jumbling in loops (PHP)",
         "href": "AIP/quality-rules/1007024",
+        "status": null,
         "critical": false
     },
     {
         "id": 1007026,
         "name": "Use identical type operator rather than \"equal\" operator (PHP)",
         "href": "AIP/quality-rules/1007026",
+        "status": null,
         "critical": false
     },
     {
         "id": 1007028,
         "name": "Use increment/decrement operators where possible (PHP)",
         "href": "AIP/quality-rules/1007028",
+        "status": null,
         "critical": false
     },
     {
         "id": 1007030,
         "name": "Avoid using empty statement (PHP)",
         "href": "AIP/quality-rules/1007030",
+        "status": null,
         "critical": false
     },
     {
         "id": 1007034,
         "name": "Avoid empty style definition (PHP)",
         "href": "AIP/quality-rules/1007034",
+        "status": null,
         "critical": false
     },
     {
         "id": 1007036,
         "name": "Avoid classes having excessive number of derived classes(PHP)",
         "href": "AIP/quality-rules/1007036",
+        "status": null,
         "critical": false
     },
     {
         "id": 1007038,
         "name": "Avoid classes having excessive number of dependencies (PHP)",
         "href": "AIP/quality-rules/1007038",
+        "status": null,
         "critical": false
     },
     {
         "id": 1007042,
         "name": "Avoid Classes implementing excessive number of Interfaces (PHP)",
         "href": "AIP/quality-rules/1007042",
+        "status": null,
         "critical": false
     },
     {
         "id": 1007046,
         "name": "Avoid Classes with High Depth of Inheritance Tree (PHP)",
         "href": "AIP/quality-rules/1007046",
+        "status": null,
         "critical": false
     },
     {
         "id": 1007048,
         "name": "Avoid Interfaces with excessive number of methods (PHP)",
         "href": "AIP/quality-rules/1007048",
+        "status": null,
         "critical": false
     },
     {
         "id": 1007052,
         "name": "Avoid unreferenced PHP Files (PHP)",
         "href": "AIP/quality-rules/1007052",
+        "status": null,
         "critical": false
     },
     {
         "id": 1007054,
         "name": "Avoid unreferenced JavaScript Functions (PHP)",
         "href": "AIP/quality-rules/1007054",
+        "status": null,
         "critical": false
     },
     {
         "id": 1007056,
         "name": "Avoid unnecessary final modifiers inside final Classes (PHP)",
         "href": "AIP/quality-rules/1007056",
+        "status": null,
         "critical": false
     },
     {
         "id": 1007058,
         "name": "Avoid artifacts with unused parameters (PHP)",
         "href": "AIP/quality-rules/1007058",
+        "status": null,
         "critical": false
     },
     {
         "id": 1007060,
         "name": "Avoid unreferenced Classes (PHP)",
         "href": "AIP/quality-rules/1007060",
+        "status": null,
         "critical": false
     },
     {
         "id": 1007062,
         "name": "Avoid unreferenced Interfaces (PHP)",
         "href": "AIP/quality-rules/1007062",
+        "status": null,
         "critical": false
     },
     {
         "id": 1007064,
         "name": "Avoid unreferenced Methods (PHP)",
         "href": "AIP/quality-rules/1007064",
+        "status": null,
         "critical": false
     },
     {
         "id": 1007072,
         "name": "Avoid files with names not following naming convention (PHP)",
         "href": "AIP/quality-rules/1007072",
+        "status": null,
         "critical": false
     },
     {
         "id": 1007074,
         "name": "Avoid having Methods and Functions without naming convention (PHP)",
         "href": "AIP/quality-rules/1007074",
+        "status": null,
         "critical": false
     },
     {
         "id": 1007078,
         "name": "A class name should start with an upper case letter (PHP)",
         "href": "AIP/quality-rules/1007078",
+        "status": null,
         "critical": false
     },
     {
         "id": 1007080,
         "name": "Avoid Class name not matching parent file name (PHP)",
         "href": "AIP/quality-rules/1007080",
+        "status": null,
         "critical": false
     },
     {
         "id": 1007086,
         "name": "Use lowercase for control structures (PHP)",
         "href": "AIP/quality-rules/1007086",
+        "status": null,
         "critical": false
     },
     {
         "id": 1007088,
         "name": "Avoid having variable with too short name (PHP)",
         "href": "AIP/quality-rules/1007088",
+        "status": null,
         "critical": false
     },
     {
         "id": 1007090,
         "name": "Avoid having variable with too long name (PHP)",
         "href": "AIP/quality-rules/1007090",
+        "status": null,
         "critical": false
     },
     {
         "id": 1007098,
         "name": "Avoid undocumented artifacts (PHP)",
         "href": "AIP/quality-rules/1007098",
+        "status": null,
         "critical": false
     },
     {
         "id": 1007100,
         "name": "Avoid artifacts with a very low comment/code ratio (PHP)",
         "href": "AIP/quality-rules/1007100",
+        "status": null,
         "critical": false
     },
     {
         "id": 1007102,
         "name": "Avoid undocumented classes (PHP)",
         "href": "AIP/quality-rules/1007102",
+        "status": null,
         "critical": false
     },
     {
         "id": 1007104,
         "name": "Avoid classes with a very low comment/code ratio (PHP)",
         "href": "AIP/quality-rules/1007104",
+        "status": null,
         "critical": false
     },
     {
         "id": 1007106,
         "name": "Avoid undocumented Sections (PHP)",
         "href": "AIP/quality-rules/1007106",
+        "status": null,
         "critical": false
     },
     {
         "id": 1007108,
         "name": "Avoid Sections with a very low comment/code ratio (PHP)",
         "href": "AIP/quality-rules/1007108",
+        "status": null,
         "critical": false
     },
     {
         "id": 1007110,
         "name": "Avoid undocumented JavaScript Functions (PHP)",
         "href": "AIP/quality-rules/1007110",
+        "status": null,
         "critical": false
     },
     {
         "id": 1007112,
         "name": "Avoid JavaScript Functions with a very low comment/code ratio (PHP)",
         "href": "AIP/quality-rules/1007112",
+        "status": null,
         "critical": false
     },
     {
         "id": 1007126,
         "name": "Avoid classes with excessive lines of code (PHP)",
         "href": "AIP/quality-rules/1007126",
+        "status": null,
         "critical": false
     },
     {
         "id": 1007130,
         "name": "Avoid Artifacts with excessive lines of code (PHP)",
         "href": "AIP/quality-rules/1007130",
+        "status": null,
         "critical": false
     },
     {
         "id": 1007146,
         "name": "Avoid unconditional \"if\" and \"else if\\elseif\" statements (PHP)",
         "href": "AIP/quality-rules/1007146",
+        "status": null,
         "critical": false
     },
     {
         "id": 1007148,
         "name": "Avoid methods and constructor overridden only with parent artifact call (PHP)",
         "href": "AIP/quality-rules/1007148",
+        "status": null,
         "critical": false
     },
     {
         "id": 1007150,
         "name": "Avoid artifacts with optional parameters before required parameters (PHP)",
         "href": "AIP/quality-rules/1007150",
+        "status": null,
         "critical": true
     },
     {
         "id": 1007154,
         "name": "Avoid using goto statements (PHP)",
         "href": "AIP/quality-rules/1007154",
+        "status": null,
         "critical": true
     },
     {
         "id": 1007158,
         "name": "Avoid artifacts using exit and die expressions (PHP)",
         "href": "AIP/quality-rules/1007158",
+        "status": null,
         "critical": false
     },
     {
         "id": 1007212,
         "name": "Avoid having variables without naming conventions (PHP)",
         "href": "AIP/quality-rules/1007212",
+        "status": null,
         "critical": false
     },
     {
         "id": 1007232,
         "name": "Avoid artifacts with variables passed by reference when calling a function (PHP)",
         "href": "AIP/quality-rules/1007232",
+        "status": null,
         "critical": false
     },
     {
         "id": 1007234,
         "name": "Avoid having inline control statements (PHP)",
         "href": "AIP/quality-rules/1007234",
+        "status": null,
         "critical": false
     },
     {
         "id": 1007236,
         "name": "Avoid having Class Methods or Constructor without scope modifiers - Symfony STD (PHP)",
         "href": "AIP/quality-rules/1007236",
+        "status": null,
         "critical": false
     },
     {
         "id": 1007240,
         "name": "Avoid artifacts having object instantiation without parenthesis - Symfony STD (PHP)",
         "href": "AIP/quality-rules/1007240",
+        "status": null,
         "critical": false
     },
     {
         "id": 1007242,
         "name": "Avoid Methods and Functions having recursive calls (PHP)",
         "href": "AIP/quality-rules/1007242",
+        "status": null,
         "critical": false
     },
     {
         "id": 1008014,
         "name": "Avoid Programs with High Fan-In  (RPG400)",
         "href": "AIP/quality-rules/1008014",
+        "status": null,
         "critical": false
     },
     {
         "id": 1008016,
         "name": "Avoid Subroutines with High Fan-In  (RPG400)",
         "href": "AIP/quality-rules/1008016",
+        "status": null,
         "critical": false
     },
     {
         "id": 1008018,
         "name": "Avoid Procedures with High Fan-In  (RPG400)",
         "href": "AIP/quality-rules/1008018",
+        "status": null,
         "critical": false
     },
     {
         "id": 1008020,
         "name": "Avoid Programs with High Fan-Out  (RPG400)",
         "href": "AIP/quality-rules/1008020",
+        "status": null,
         "critical": true
     },
     {
         "id": 1008022,
         "name": "Avoid Subroutines with High Fan-Out  (RPG400)",
         "href": "AIP/quality-rules/1008022",
+        "status": null,
         "critical": false
     },
     {
         "id": 1008024,
         "name": "Avoid Procedures with High Fan-Out  (RPG400)",
         "href": "AIP/quality-rules/1008024",
+        "status": null,
         "critical": false
     },
     {
         "id": 1008026,
         "name": "Avoid using internally described files  (RPG400)",
         "href": "AIP/quality-rules/1008026",
+        "status": null,
         "critical": false
     },
     {
         "id": 1008028,
         "name": "Avoid Programs with High Cyclomatic Complexity  (RPG400)",
         "href": "AIP/quality-rules/1008028",
+        "status": null,
         "critical": true
     },
     {
         "id": 1008030,
         "name": "Avoid Subroutines with High Cyclomatic Complexity  (RPG400)",
         "href": "AIP/quality-rules/1008030",
+        "status": null,
         "critical": false
     },
     {
         "id": 1008032,
         "name": "Avoid Procedures with High Cyclomatic Complexity  (RPG400)",
         "href": "AIP/quality-rules/1008032",
+        "status": null,
         "critical": false
     },
     {
         "id": 1008034,
         "name": "Avoid Subroutines with nested IF  statements  (RPG400)",
         "href": "AIP/quality-rules/1008034",
+        "status": null,
         "critical": false
     },
     {
         "id": 1008038,
         "name": "Avoid unreferenced Programs  (RPG400)",
         "href": "AIP/quality-rules/1008038",
+        "status": null,
         "critical": false
     },
     {
         "id": 1008040,
         "name": "Avoid unreferenced Subroutines  (RPG400)",
         "href": "AIP/quality-rules/1008040",
+        "status": null,
         "critical": false
     },
     {
         "id": 1008042,
         "name": "Avoid undocumented RPG400 Programs  (RPG400)",
         "href": "AIP/quality-rules/1008042",
+        "status": null,
         "critical": true
     },
     {
         "id": 1008048,
         "name": "Avoid Programs with a very low comment/code ratio  (RPG400)",
         "href": "AIP/quality-rules/1008048",
+        "status": null,
         "critical": false
     },
     {
         "id": 1008078,
         "name": "Avoid using obsolete \"Arithmetic Operations\" Statement in RPG Programs (RPG-IV only)  (RPG400)",
         "href": "AIP/quality-rules/1008078",
+        "status": null,
         "critical": false
     },
     {
         "id": 1008080,
         "name": "Avoid using obsolete \"String Operations\" statements in RPG Programs (RPG-IV only)  (RPG400)",
         "href": "AIP/quality-rules/1008080",
+        "status": null,
         "critical": false
     },
     {
         "id": 1008082,
         "name": "Avoid using obsolete \"Assignment Operations\" statements in RPG Programs (RPG-IV only)  (RPG400)",
         "href": "AIP/quality-rules/1008082",
+        "status": null,
         "critical": false
     },
     {
         "id": 1008084,
         "name": "Avoid using obsolete \"Conditional Operations\" statements in RPG Subroutines (RPG-IV only)  (RPG400)",
         "href": "AIP/quality-rules/1008084",
+        "status": null,
         "critical": false
     },
     {
         "id": 1008086,
         "name": "Avoid using obsolete \"Date Operations\" statements in RPG Programs (RPG-IV only)  (RPG400)",
         "href": "AIP/quality-rules/1008086",
+        "status": null,
         "critical": false
     },
     {
         "id": 1008088,
         "name": "Avoid using obsolete \"Definition/Allocation/Array Operations\" statements in RPG Programs (RPG-IV only)  (RPG400)",
         "href": "AIP/quality-rules/1008088",
+        "status": null,
         "critical": false
     },
     {
         "id": 1008090,
         "name": "Avoid using obsolete \"Bit Operations\" statements in RPG Programs  (RPG400)",
         "href": "AIP/quality-rules/1008090",
+        "status": null,
         "critical": false
     },
     {
         "id": 1008092,
         "name": "Avoid using obsolete \"Call Operations\" statements in RPG Programs (RPG-IV only)  (RPG400)",
         "href": "AIP/quality-rules/1008092",
+        "status": null,
         "critical": false
     },
     {
         "id": 1008096,
         "name": "Better to use QUALIFIED data structures  (RPG400)",
         "href": "AIP/quality-rules/1008096",
+        "status": null,
         "critical": false
     },
     {
         "id": 1008098,
         "name": "Avoid using plain END statement, use the explained END statement like ENDIF, ENDDO, etc  (RPG400)",
         "href": "AIP/quality-rules/1008098",
+        "status": null,
         "critical": false
     },
     {
         "id": 1008100,
         "name": "Avoid using O-spec; use Printer Files instead  (RPG400)",
         "href": "AIP/quality-rules/1008100",
+        "status": null,
         "critical": false
     },
     {
         "id": 1008102,
         "name": "Avoid using I-spec (RPG-IV only)  (RPG400)",
         "href": "AIP/quality-rules/1008102",
+        "status": null,
         "critical": false
     },
     {
         "id": 1008104,
         "name": "Avoid obsolete E-spec  (RPG400)",
         "href": "AIP/quality-rules/1008104",
+        "status": null,
         "critical": false
     },
     {
         "id": 1008106,
         "name": "Avoid obsolete L-spec  (RPG400)",
         "href": "AIP/quality-rules/1008106",
+        "status": null,
         "critical": false
     },
     {
         "id": 1008108,
         "name": "Avoid using GOTO statement in RPG Programs  (RPG400)",
         "href": "AIP/quality-rules/1008108",
+        "status": null,
         "critical": false
     },
     {
         "id": 1008124,
         "name": "Avoid unreferenced Copy Members  (RPG400)",
         "href": "AIP/quality-rules/1008124",
+        "status": null,
         "critical": false
     },
     {
         "id": 1008126,
         "name": "Avoid defining File Disk if not used  (RPG400)\"",
         "href": "AIP/quality-rules/1008126",
+        "status": null,
         "critical": false
     },
     {
         "id": 1009014,
         "name": "Avoid Programs with High Fan-In   (RPG300)",
         "href": "AIP/quality-rules/1009014",
+        "status": null,
         "critical": false
     },
     {
         "id": 1009016,
         "name": "Avoid Subroutines with High Fan-In  (RPG300)",
         "href": "AIP/quality-rules/1009016",
+        "status": null,
         "critical": false
     },
     {
         "id": 1009020,
         "name": "Avoid Programs with High Fan-Out  (RPG300)",
         "href": "AIP/quality-rules/1009020",
+        "status": null,
         "critical": true
     },
     {
         "id": 1009022,
         "name": "Avoid Subroutines with High Fan-Out  (RPG300)",
         "href": "AIP/quality-rules/1009022",
+        "status": null,
         "critical": false
     },
     {
         "id": 1009026,
         "name": "Avoid using internally described files  (RPG300)",
         "href": "AIP/quality-rules/1009026",
+        "status": null,
         "critical": false
     },
     {
         "id": 1009028,
         "name": "Avoid Programs with High Cyclomatic Complexity  (RPG300)",
         "href": "AIP/quality-rules/1009028",
+        "status": null,
         "critical": true
     },
     {
         "id": 1009030,
         "name": "Avoid Subroutines with High Cyclomatic Complexity  (RPG300)",
         "href": "AIP/quality-rules/1009030",
+        "status": null,
         "critical": false
     },
     {
         "id": 1009034,
         "name": "Avoid Subroutines with nested if Statements  (RPG300)",
         "href": "AIP/quality-rules/1009034",
+        "status": null,
         "critical": false
     },
     {
         "id": 1009038,
         "name": "Avoid unreferenced Programs  (RPG300)",
         "href": "AIP/quality-rules/1009038",
+        "status": null,
         "critical": false
     },
     {
         "id": 1009040,
         "name": "Avoid unreferenced Subroutines  (RPG300)",
         "href": "AIP/quality-rules/1009040",
+        "status": null,
         "critical": false
     },
     {
         "id": 1009042,
         "name": "Avoid undocumented RPG300 Programs  (RPG300)",
         "href": "AIP/quality-rules/1009042",
+        "status": null,
         "critical": true
     },
     {
         "id": 1009048,
         "name": "Avoid Programs with a very low comment/code ratio  (RPG300)",
         "href": "AIP/quality-rules/1009048",
+        "status": null,
         "critical": false
     },
     {
         "id": 1009090,
         "name": "Avoid using obsolete \"Bit Operations\" statements in RPG Programs  (RPG300)",
         "href": "AIP/quality-rules/1009090",
+        "status": null,
         "critical": false
     },
     {
         "id": 1009098,
         "name": "Avoid using plain END statement, use the explained END statement like ENDIF, ENDDO, etc  (RPG300)",
         "href": "AIP/quality-rules/1009098",
+        "status": null,
         "critical": false
     },
     {
         "id": 1009124,
         "name": "Avoid unreferenced Copy Members  (RPG300)",
         "href": "AIP/quality-rules/1009124",
+        "status": null,
         "critical": false
     },
     {
         "id": 1009126,
         "name": "Avoid defining File Disk if not used  (RPG300)",
         "href": "AIP/quality-rules/1009126",
+        "status": null,
         "critical": false
     },
     {
         "id": 1011010,
         "name": "Avoid Logical File without associated Physical File  (DDS400)",
         "href": "AIP/quality-rules/1011010",
+        "status": null,
         "critical": false
     },
     {
         "id": 1011014,
         "name": "Avoid unreferenced Physical file  (DDS400)",
         "href": "AIP/quality-rules/1011014",
+        "status": null,
         "critical": false
     },
     {
         "id": 1011016,
         "name": "Avoid unreferenced Logical file  (DDS400)",
         "href": "AIP/quality-rules/1011016",
+        "status": null,
         "critical": false
     },
     {
         "id": 1011026,
         "name": "Avoid unreferenced Display Files  (DDS400)",
         "href": "AIP/quality-rules/1011026",
+        "status": null,
         "critical": false
     },
     {
         "id": 1011028,
         "name": "Avoid unreferenced Printer Files  (DDS400)",
         "href": "AIP/quality-rules/1011028",
+        "status": null,
         "critical": false
     },
     {
         "id": 1011030,
         "name": "Avoid Physical files with fields defined locally  (DDS400)",
         "href": "AIP/quality-rules/1011030",
+        "status": null,
         "critical": false
     },
     {
         "id": 1012010,
         "name": "MONMSG command must be formated    (CL400)",
         "href": "AIP/quality-rules/1012010",
+        "status": null,
         "critical": false
     },
     {
         "id": 1012012,
         "name": "Avoid Programs with High Cyclomatic Complexity    (CL400)",
         "href": "AIP/quality-rules/1012012",
+        "status": null,
         "critical": true
     },
     {
         "id": 1012014,
         "name": "Avoid locking object by ALCOBJ command    (CL400)",
         "href": "AIP/quality-rules/1012014",
+        "status": null,
         "critical": false
     },
     {
         "id": 1012016,
         "name": "Avoid unreferenced CL Programs  (CL400)",
         "href": "AIP/quality-rules/1012016",
+        "status": null,
         "critical": false
     },
     {
         "id": 1018100,
         "name": "Avoid using Get JMS Queue Message (TIBCO BW)",
         "href": "AIP/quality-rules/1018100",
+        "status": null,
         "critical": true
     },
     {
         "id": 1018140,
         "name": "Avoid using Java Activities (TIBCO BW)",
         "href": "AIP/quality-rules/1018140",
+        "status": null,
         "critical": true
     },
     {
         "id": 1018142,
         "name": "Avoid using External Command Activities (TIBCO BW)",
         "href": "AIP/quality-rules/1018142",
+        "status": null,
         "critical": true
     },
     {
         "id": 1018144,
         "name": "Avoid hardcoded timeout in Process Activities (TIBCO BW)",
         "href": "AIP/quality-rules/1018144",
+        "status": null,
         "critical": true
     },
     {
         "id": 1018304,
         "name": "Avoid unreferenced Processes (TIBCO BW)",
         "href": "AIP/quality-rules/1018304",
+        "status": null,
         "critical": false
     },
     {
         "id": 1018530,
         "name": "Avoid undocumented processes (TIBCO BW)",
         "href": "AIP/quality-rules/1018530",
+        "status": null,
         "critical": false
     },
     {
         "id": 1018720,
         "name": "Avoid oversized processes Activities (1100x900)  (TIBCO BW)",
         "href": "AIP/quality-rules/1018720",
+        "status": null,
         "critical": false
     },
     {
         "id": 1018866,
         "name": "Avoid Activities with \"SELECT *\" queries (TIBCO BW)",
         "href": "AIP/quality-rules/1018866",
+        "status": null,
         "critical": false
     },
     {
         "id": 1018868,
         "name": "Avoid Activities using \"UNION\" instead of \"Union all\" (TIBCO BW)",
         "href": "AIP/quality-rules/1018868",
+        "status": null,
         "critical": false
     },
     {
         "id": 1018870,
         "name": "Avoid Activities using \"Group By\" statement (TIBCO BW)",
         "href": "AIP/quality-rules/1018870",
+        "status": null,
         "critical": false
     },
     {
         "id": 1018872,
         "name": "Avoid Activities using ROWNUM (TIBCO BW)",
         "href": "AIP/quality-rules/1018872",
+        "status": null,
         "critical": false
     },
     {
         "id": 1018874,
         "name": "Avoid Activities With Queries on more than 4 Tables (TIBCO BW)",
         "href": "AIP/quality-rules/1018874",
+        "status": null,
         "critical": false
     },
     {
         "id": 1018876,
         "name": "Avoid unreferenced Process Activities (TIBCO BW)",
         "href": "AIP/quality-rules/1018876",
+        "status": null,
         "critical": false
     },
     {
         "id": 1018878,
         "name": "Avoid unreferenced Process Groups (TIBCO BW)",
         "href": "AIP/quality-rules/1018878",
+        "status": null,
         "critical": false
     },
     {
         "id": 1020000,
         "name": "Avoid Artifacts with High Cyclomatic Complexity (HTML5/Javascript)",
         "href": "AIP/quality-rules/1020000",
+        "status": null,
         "critical": false
     },
     {
         "id": 1020002,
         "name": "Avoid programs with low comment / code ratio  (HTML5/Javascript)",
         "href": "AIP/quality-rules/1020002",
+        "status": null,
         "critical": false
     },
     {
         "id": 1020018,
         "name": "Avoid using Web SQL databases",
         "href": "AIP/quality-rules/1020018",
+        "status": null,
         "critical": true
     },
     {
         "id": 1020070,
         "name": "Avoid hardcoded network resource names in Javascript",
         "href": "AIP/quality-rules/1020070",
+        "status": null,
         "critical": false
     },
     {
         "id": 1020072,
         "name": "Avoid direct access to Database Tables in Javascript",
         "href": "AIP/quality-rules/1020072",
+        "status": null,
         "critical": false
     },
     {
         "id": 1020076,
         "name": "Avoid Artifacts with too many parameters (Javascript)",
         "href": "AIP/quality-rules/1020076",
+        "status": null,
         "critical": false
     },
     {
         "id": 1020082,
         "name": "Avoid undocumented Functions",
         "href": "AIP/quality-rules/1020082",
+        "status": null,
         "critical": false
     },
     {
         "id": 1020084,
         "name": "Avoid unreferenced Functions",
         "href": "AIP/quality-rules/1020084",
+        "status": null,
         "critical": false
     },
     {
         "id": 1020086,
         "name": "Avoid Functions having a very low Comment/Code ratio",
         "href": "AIP/quality-rules/1020086",
+        "status": null,
         "critical": false
     },
     {
         "id": 1020090,
         "name": "Avoid Artifacts with High Depth of Code",
         "href": "AIP/quality-rules/1020090",
+        "status": null,
         "critical": false
     },
     {
         "id": 1020312,
         "name": "Avoid use of anonymous functions to attach events",
         "href": "AIP/quality-rules/1020312",
+        "status": null,
         "critical": false
     },
     {
         "id": 1020502,
         "name": "Avoid the use of JSON.parse and JSON.stringify in AngularJS web app",
         "href": "AIP/quality-rules/1020502",
+        "status": null,
         "critical": false
     },
     {
         "id": 1020506,
         "name": "Avoid using $scope in controllers",
         "href": "AIP/quality-rules/1020506",
+        "status": null,
         "critical": false
     },
     {
         "id": 1020508,
         "name": "Use Angular wrapper service $document",
         "href": "AIP/quality-rules/1020508",
+        "status": null,
         "critical": false
     },
     {
         "id": 1020510,
         "name": "Use Angular wrapper service $window",
         "href": "AIP/quality-rules/1020510",
+        "status": null,
         "critical": false
     },
     {
         "id": 1020512,
         "name": "Use Angular wrapper service $timeout",
         "href": "AIP/quality-rules/1020512",
+        "status": null,
         "critical": false
     },
     {
         "id": 1020516,
         "name": "Avoid using Javascript Array typecheck in AngularJS application",
         "href": "AIP/quality-rules/1020516",
+        "status": null,
         "critical": false
     },
     {
         "id": 1020518,
         "name": "Avoid using Javascript Date typecheck in AngularJS application",
         "href": "AIP/quality-rules/1020518",
+        "status": null,
         "critical": false
     },
     {
         "id": 1020520,
         "name": "Avoid using Javascript Function typecheck in AngularJS application",
         "href": "AIP/quality-rules/1020520",
+        "status": null,
         "critical": false
     },
     {
         "id": 1020522,
         "name": "Avoid using Javascript String typecheck in AngularJS application",
         "href": "AIP/quality-rules/1020522",
+        "status": null,
         "critical": false
     },
     {
         "id": 1020524,
         "name": "Avoid using Javascript Object typecheck in AngularJS application",
         "href": "AIP/quality-rules/1020524",
+        "status": null,
         "critical": false
     },
     {
         "id": 1020526,
         "name": "Avoid using Javascript Number typecheck in AngularJS application",
         "href": "AIP/quality-rules/1020526",
+        "status": null,
         "critical": false
     },
     {
         "id": 1020528,
         "name": "Avoid using Javascript Regexp typecheck in AngularJS application",
         "href": "AIP/quality-rules/1020528",
+        "status": null,
         "critical": false
     },
     {
         "id": 1020532,
         "name": "Use Angular factory() instead of service()",
         "href": "AIP/quality-rules/1020532",
+        "status": null,
         "critical": false
     },
     {
         "id": 1021000,
         "name": "Avoid Artifacts with High Cyclomatic Complexity (Python)",
         "href": "AIP/quality-rules/1021000",
+        "status": null,
         "critical": false
     },
     {
         "id": 1021030,
         "name": "Avoid hardcoded network resource names",
         "href": "AIP/quality-rules/1021030",
+        "status": null,
         "critical": false
     },
     {
         "id": 1021040,
         "name": "Avoid instance attributes only differing by capitalization",
         "href": "AIP/quality-rules/1021040",
+        "status": null,
         "critical": false
     },
     {
         "id": 1021068,
         "name": "Avoid using global statement",
         "href": "AIP/quality-rules/1021068",
+        "status": null,
         "critical": false
     },
     {
         "id": 1050010,
         "name": "Avoid using NSURLRequest setAllowsAnyHTTPSCertificate:forHost",
         "href": "AIP/quality-rules/1050010",
+        "status": null,
         "critical": true
     },
     {
         "id": 1050012,
         "name": "Objective-C interface overrides the isEqual: method but not the hash method",
         "href": "AIP/quality-rules/1050012",
+        "status": null,
         "critical": true
     },
     {
         "id": 1050014,
         "name": "UIApplication delegate applicationDidEnterBackground: must delete sensitive data",
         "href": "AIP/quality-rules/1050014",
+        "status": null,
         "critical": true
     },
     {
         "id": 1065000,
         "name": "\"continue\" statement should not be used.",
         "href": "AIP/quality-rules/1065000",
+        "status": null,
         "critical": false
     },
     {
         "id": 1065002,
         "name": "\"enum\" members other than the first one should not be explicitly initialized unless all members are explicitly initialized.",
         "href": "AIP/quality-rules/1065002",
+        "status": null,
         "critical": false
     },
     {
         "id": 1101016,
         "name": "Avoid Artifacts with too many parameters",
         "href": "AIP/quality-rules/1101016",
+        "status": null,
         "critical": false
     },
     {
         "id": 1101036,
         "name": "Use ANSI standard operators in SQL WHERE clauses",
         "href": "AIP/quality-rules/1101036",
+        "status": null,
         "critical": false
     },
     {
         "id": 1101042,
         "name": "Table naming convention - character set control",
         "href": "AIP/quality-rules/1101042",
+        "status": null,
         "critical": false
     },
     {
         "id": 1101044,
         "name": "View naming convention - character set control",
         "href": "AIP/quality-rules/1101044",
+        "status": null,
         "critical": false
     },
     {
         "id": 1101046,
         "name": "Package naming convention - prefix control",
         "href": "AIP/quality-rules/1101046",
+        "status": null,
         "critical": false
     },
     {
         "id": 1101048,
         "name": "Package Function naming convention - prefix control",
         "href": "AIP/quality-rules/1101048",
+        "status": null,
         "critical": false
     },
     {
         "id": 1101050,
         "name": "Package Stored Procedure naming convention - prefix control",
         "href": "AIP/quality-rules/1101050",
+        "status": null,
         "critical": false
     },
     {
         "id": 1101916,
         "name": "When using compound indexes, avoid having different indexes",
         "href": "AIP/quality-rules/1101916",
+        "status": null,
         "critical": false
     },
     {
         "id": 1101918,
         "name": "Avoid having MongoDB databases access without authentication activated",
         "href": "AIP/quality-rules/1101918",
+        "status": null,
         "critical": false
     },
     {
         "id": 1101958,
         "name": "Avoid artifacts having db.collection.ensureIndex() to create new indexes",
         "href": "AIP/quality-rules/1101958",
+        "status": null,
         "critical": false
     },
     {
         "id": 1101962,
         "name": "Avoid using explain() in production code",
         "href": "AIP/quality-rules/1101962",
+        "status": null,
         "critical": false
     },
     {
         "id": 1101964,
         "name": "When using compound indexes, avoid having different index ordering in collection access",
         "href": "AIP/quality-rules/1101964",
+        "status": null,
         "critical": false
     },
     {
         "id": 1520102,
         "name": "SiebelReview: Custom BC Based On S_PARTY Table Missing the \"Inner Join Extension Table\" User Property",
         "href": "AIP/quality-rules/1520102",
+        "status": null,
         "critical": true
     },
     {
         "id": 1520106,
         "name": "SiebelReview: Avoid bad BusComp configuration when using Standard 1:M Extension Tables",
         "href": "AIP/quality-rules/1520106",
+        "status": null,
         "critical": false
     },
     {
         "id": 1520108,
         "name": "SiebelReview: Avoid bad Link configuration when using Standard 1:M Extension Tables",
         "href": "AIP/quality-rules/1520108",
+        "status": null,
         "critical": false
     },
     {
         "id": 1520110,
         "name": "SiebelReview: Incorrect Join Specification To 1:1 Extension Table ROW_ID",
         "href": "AIP/quality-rules/1520110",
+        "status": null,
         "critical": false
     },
     {
         "id": 1520112,
         "name": "SiebelReview: Missing Join Specification for Custom Joins",
         "href": "AIP/quality-rules/1520112",
+        "status": null,
         "critical": false
     },
     {
         "id": 1520114,
         "name": "SiebelReview: Pick Maps Missing or Incorrectly Defined",
         "href": "AIP/quality-rules/1520114",
+        "status": null,
         "critical": false
     },
     {
         "id": 1520124,
         "name": "Siebel: Don't associate Views to more than 1 Screen",
         "href": "AIP/quality-rules/1520124",
+        "status": null,
         "critical": false
     },
     {
         "id": 1520126,
         "name": "SiebelReview: Duplicate Column Mappings",
         "href": "AIP/quality-rules/1520126",
+        "status": null,
         "critical": false
     },
     {
         "id": 1520128,
         "name": "SiebelReview: PickList Not Defined",
         "href": "AIP/quality-rules/1520128",
+        "status": null,
         "critical": false
     },
     {
         "id": 1520140,
         "name": "SiebelScriptingReview: Unilingual Error messages scripted",
         "href": "AIP/quality-rules/1520140",
+        "status": null,
         "critical": false
     },
     {
         "id": 1520160,
         "name": "Siebel: Don't delete standard extension columns (ATTRIB_)",
         "href": "AIP/quality-rules/1520160",
+        "status": null,
         "critical": false
     },
     {
         "id": 1520162,
         "name": "Siebel: Do not add custom Fields to a Siebel Base table",
         "href": "AIP/quality-rules/1520162",
+        "status": null,
         "critical": false
     },
     {
         "id": 1520180,
         "name": "Siebel eScript: Avoid Functions with High Cyclomatic Complexity",
         "href": "AIP/quality-rules/1520180",
+        "status": null,
         "critical": false
     },
     {
         "id": 1520182,
         "name": "Siebel eScript: Avoid missing default Case handling in Switch Construct in Functions",
         "href": "AIP/quality-rules/1520182",
+        "status": null,
         "critical": false
     },
     {
         "id": 1520220,
         "name": "Siebel eScript: Avoid empty Functions",
         "href": "AIP/quality-rules/1520220",
+        "status": null,
         "critical": false
     },
     {
         "id": 1520322,
         "name": "Siebel eScript: Avoid setting Scripts to Inactive",
         "href": "AIP/quality-rules/1520322",
+        "status": null,
         "critical": false
     },
     {
         "id": 1520324,
         "name": "Siebel: Avoid inactive elements in an Applet",
         "href": "AIP/quality-rules/1520324",
+        "status": null,
         "critical": false
     },
     {
         "id": 1520326,
         "name": "Siebel: Avoid unreferenced Fields in Business Component",
         "href": "AIP/quality-rules/1520326",
+        "status": null,
         "critical": false
     },
     {
         "id": 1520328,
         "name": "Siebel: Avoid unreferenced Columns in Tables",
         "href": "AIP/quality-rules/1520328",
+        "status": null,
         "critical": false
     },
     {
         "id": 1520380,
         "name": "Siebel: Applet's name should contain the type",
         "href": "AIP/quality-rules/1520380",
+        "status": null,
         "critical": false
     },
     {
         "id": 1520382,
         "name": "Siebel: View's name should have an initial capatilized word only and no special characters",
         "href": "AIP/quality-rules/1520382",
+        "status": null,
         "critical": false
     },
     {
         "id": 1520384,
         "name": "Siebel: BusComp's name should have an initial capatilized word only and no special characters",
         "href": "AIP/quality-rules/1520384",
+        "status": null,
         "critical": false
     },
     {
         "id": 1520386,
         "name": "Siebel: One-to-One Extension tables should be suffixed with _X",
         "href": "AIP/quality-rules/1520386",
+        "status": null,
         "critical": false
     },
     {
         "id": 1520388,
         "name": "Siebel: One-to-Many Extension tables should be suffixed with _XM",
         "href": "AIP/quality-rules/1520388",
+        "status": null,
         "critical": false
     },
     {
         "id": 1520390,
         "name": "Siebel: BC Field name should not end with a question mark",
         "href": "AIP/quality-rules/1520390",
+        "status": null,
         "critical": false
     },
     {
         "id": 1520440,
         "name": "Siebel eScript: Avoid undocumented Functions",
         "href": "AIP/quality-rules/1520440",
+        "status": null,
         "critical": false
     },
     {
         "id": 1520442,
         "name": "Siebel eScript: Avoid Functions with a low comment/code ratio",
         "href": "AIP/quality-rules/1520442",
+        "status": null,
         "critical": false
     },
     {
         "id": 1520720,
         "name": "Siebel: Defining Ancestry of Custom Applets",
         "href": "AIP/quality-rules/1520720",
+        "status": null,
         "critical": false
     },
     {
         "id": 1520722,
         "name": "Siebel: Defining Ancestry of Custom Business Components",
         "href": "AIP/quality-rules/1520722",
+        "status": null,
         "critical": false
     },
     {
         "id": 1520724,
         "name": "Siebel: Length of the Column should not exceed the length of the Field",
         "href": "AIP/quality-rules/1520724",
+        "status": null,
         "critical": false
     },
     {
         "id": 1520726,
         "name": "Siebel eScript: Avoid putting all code in the Applet_PreInvokeMethod event",
         "href": "AIP/quality-rules/1520726",
+        "status": null,
         "critical": false
     },
     {
         "id": 1520728,
         "name": "Siebel eScript: Avoid putting all code in the Service_PreInvokeMethod event",
         "href": "AIP/quality-rules/1520728",
+        "status": null,
         "critical": false
     },
     {
         "id": 1520730,
         "name": "Siebel eScript: Prefer SWITCH over nested IF-THEN-ELSE in Functions",
         "href": "AIP/quality-rules/1520730",
+        "status": null,
         "critical": false
     },
     {
         "id": 1520732,
         "name": "Siebel eScript: Use DeleteRecord Method only inside Loops located in Functions",
         "href": "AIP/quality-rules/1520732",
+        "status": null,
         "critical": false
     },
     {
         "id": 1520734,
         "name": "Siebel eScript: Avoid using multiple conditions in IF constructions in Functions",
         "href": "AIP/quality-rules/1520734",
+        "status": null,
         "critical": false
     },
     {
         "id": 1520736,
         "name": "Siebel: Business Component Field should have same type as related Table Column",
         "href": "AIP/quality-rules/1520736",
+        "status": null,
         "critical": false
     },
     {
         "id": 1520738,
         "name": "Siebel eScript: Avoid Functions using compiler directives like define and if",
         "href": "AIP/quality-rules/1520738",
+        "status": null,
         "critical": false
     },
     {
         "id": 1520742,
         "name": "Siebel Scripting Review: Use of the SetViewMode() method",
         "href": "AIP/quality-rules/1520742",
+        "status": null,
         "critical": false
     },
     {
         "id": 1521000,
         "name": "Siebel: Don't delete Standard Tables",
         "href": "AIP/quality-rules/1521000",
+        "status": null,
         "critical": false
     },
     {
         "id": 1521002,
         "name": "Siebel: Don't delete Standard Business Components",
         "href": "AIP/quality-rules/1521002",
+        "status": null,
         "critical": false
     },
     {
         "id": 1521004,
         "name": "Siebel: Don't delete Standard Applets",
         "href": "AIP/quality-rules/1521004",
+        "status": null,
         "critical": false
     },
     {
         "id": 1521006,
         "name": "Siebel: Don't delete Standard Views",
         "href": "AIP/quality-rules/1521006",
+        "status": null,
         "critical": false
     },
     {
         "id": 1521008,
         "name": "Siebel: Don't delete Standard Screens",
         "href": "AIP/quality-rules/1521008",
+        "status": null,
         "critical": false
     },
     {
         "id": 1521010,
         "name": "Siebel: Don't delete Standard Business Objects",
         "href": "AIP/quality-rules/1521010",
+        "status": null,
         "critical": false
     },
     {
         "id": 1521012,
         "name": "Siebel: Don't delete Standard Business Services",
         "href": "AIP/quality-rules/1521012",
+        "status": null,
         "critical": false
     },
     {
         "id": 1521500,
         "name": "Siebel: Avoid unreferenced Tables",
         "href": "AIP/quality-rules/1521500",
+        "status": null,
         "critical": false
     },
     {
         "id": 1521502,
         "name": "Siebel: Avoid unreferenced Business Components",
         "href": "AIP/quality-rules/1521502",
+        "status": null,
         "critical": false
     },
     {
         "id": 1521504,
         "name": "Siebel: Avoid unreferenced Applets",
         "href": "AIP/quality-rules/1521504",
+        "status": null,
         "critical": false
     },
     {
         "id": 1521506,
         "name": "Siebel: Avoid unreferenced Views",
         "href": "AIP/quality-rules/1521506",
+        "status": null,
         "critical": false
     },
     {
         "id": 1521508,
         "name": "Siebel: Avoid unreferenced Screens",
         "href": "AIP/quality-rules/1521508",
+        "status": null,
         "critical": false
     },
     {
         "id": 1521510,
         "name": "Siebel: Avoid unreferenced Business Objects",
         "href": "AIP/quality-rules/1521510",
+        "status": null,
         "critical": false
     },
     {
         "id": 1521512,
         "name": "Siebel: Avoid unreferenced Business Services",
         "href": "AIP/quality-rules/1521512",
+        "status": null,
         "critical": false
     },
     {
         "id": 1521700,
         "name": "Siebel: Table's name should have a designated prefix like XX_LABEL",
         "href": "AIP/quality-rules/1521700",
+        "status": null,
         "critical": false
     },
     {
         "id": 1521702,
         "name": "Siebel: Business Component's name should begin with Company prefix",
         "href": "AIP/quality-rules/1521702",
+        "status": null,
         "critical": false
     },
     {
         "id": 1521704,
         "name": "Siebel: Applet's name should begin with Company prefix",
         "href": "AIP/quality-rules/1521704",
+        "status": null,
         "critical": false
     },
     {
         "id": 1521706,
         "name": "Siebel: View's name should begin with Company prefix",
         "href": "AIP/quality-rules/1521706",
+        "status": null,
         "critical": false
     },
     {
         "id": 1521708,
         "name": "Siebel: Screen's name should begin with Company prefix",
         "href": "AIP/quality-rules/1521708",
+        "status": null,
         "critical": false
     },
     {
         "id": 1521710,
         "name": "Siebel: Business Object's name should begin with Company prefix",
         "href": "AIP/quality-rules/1521710",
+        "status": null,
         "critical": false
     },
     {
         "id": 1521712,
         "name": "Siebel: Business Service's name should begin with Company prefix",
         "href": "AIP/quality-rules/1521712",
+        "status": null,
         "critical": false
     },
     {
         "id": 1522000,
         "name": "Siebel: Avoid undocumented Tables",
         "href": "AIP/quality-rules/1522000",
+        "status": null,
         "critical": false
     },
     {
         "id": 1522002,
         "name": "Siebel: Avoid undocumented Business Components",
         "href": "AIP/quality-rules/1522002",
+        "status": null,
         "critical": false
     },
     {
         "id": 1522004,
         "name": "Siebel: Avoid undocumented Applets",
         "href": "AIP/quality-rules/1522004",
+        "status": null,
         "critical": false
     },
     {
         "id": 1522006,
         "name": "Siebel: Avoid undocumented Views",
         "href": "AIP/quality-rules/1522006",
+        "status": null,
         "critical": false
     },
     {
         "id": 1522008,
         "name": "Siebel: Avoid undocumented Screens",
         "href": "AIP/quality-rules/1522008",
+        "status": null,
         "critical": false
     },
     {
         "id": 1522010,
         "name": "Siebel: Avoid undocumented Business Objects",
         "href": "AIP/quality-rules/1522010",
+        "status": null,
         "critical": false
     },
     {
         "id": 1522012,
         "name": "Siebel: Avoid undocumented Business Services",
         "href": "AIP/quality-rules/1522012",
+        "status": null,
         "critical": false
     },
     {
         "id": 1600100,
         "name": "PeopleSoft: Page fields using views must be display only",
         "href": "AIP/quality-rules/1600100",
+        "status": null,
         "critical": false
     },
     {
         "id": 1600102,
         "name": "PeopleSoft: Avoid inserting or deleting data on grid based on a record view",
         "href": "AIP/quality-rules/1600102",
+        "status": null,
         "critical": false
     },
     {
         "id": 1600104,
         "name": "PeopleSoft: Avoid disabling insert or delete on grid based on a record table",
         "href": "AIP/quality-rules/1600104",
+        "status": null,
         "critical": false
     },
     {
         "id": 1600106,
         "name": "PeopleSoft: Avoid using the SQLExec statements in the PeopleCode",
         "href": "AIP/quality-rules/1600106",
+        "status": null,
         "critical": false
     },
     {
         "id": 1600108,
         "name": "PeopleSoft: Check if \"Commit\" statements have been used only where it is necessary",
         "href": "AIP/quality-rules/1600108",
+        "status": null,
         "critical": false
     },
     {
         "id": 1600110,
         "name": "PeopleSoft: Check existence of \"Update\", \"Insert\" & \"Delete\" Statements using SQLExec function",
         "href": "AIP/quality-rules/1600110",
+        "status": null,
         "critical": true
     },
     {
         "id": 1600140,
         "name": "PeopleSoft: Record field based on XLAT should be defined as \"Translate Table Edit\"",
         "href": "AIP/quality-rules/1600140",
+        "status": null,
         "critical": false
     },
     {
         "id": 1600142,
         "name": "PeopleSoft: Message item must have a translation into another language",
         "href": "AIP/quality-rules/1600142",
+        "status": null,
         "critical": false
     },
     {
         "id": 1600144,
         "name": "PeopleSoft: XLAT item must have a translation into another language",
         "href": "AIP/quality-rules/1600144",
+        "status": null,
         "critical": false
     },
     {
         "id": 1600146,
         "name": "PeopleSoft: Field label item must have a translation into another language",
         "href": "AIP/quality-rules/1600146",
+        "status": null,
         "critical": false
     },
     {
         "id": 1600148,
         "name": "PeopleSoft: Menu label must have a translation into another language",
         "href": "AIP/quality-rules/1600148",
+        "status": null,
         "critical": false
     },
     {
         "id": 1600150,
         "name": "PeopleSoft: Number of substitution joker for message text must be equal",
         "href": "AIP/quality-rules/1600150",
+        "status": null,
         "critical": false
     },
     {
         "id": 1600160,
         "name": "PeopleSoft: Avoid deleting delivered values in standard XLAT",
         "href": "AIP/quality-rules/1600160",
+        "status": null,
         "critical": false
     },
     {
         "id": 1600162,
         "name": "PeopleSoft: Never delete a field from a standard panel",
         "href": "AIP/quality-rules/1600162",
+        "status": null,
         "critical": false
     },
     {
         "id": 1600166,
         "name": "PeopleSoft: Do NOT delete PeopleSoft defined fields from a record.",
         "href": "AIP/quality-rules/1600166",
+        "status": null,
         "critical": false
     },
     {
         "id": 1600168,
         "name": "PeopleSoft: All new Translate value shoud be at dd/mm/yyyy",
         "href": "AIP/quality-rules/1600168",
+        "status": null,
         "critical": false
     },
     {
         "id": 1600170,
         "name": "PeopleSoft: Never remove a standard page from component",
         "href": "AIP/quality-rules/1600170",
+        "status": null,
         "critical": false
     },
     {
         "id": 1600180,
         "name": "PeopleSoft: Avoid modification on lenghts or types on Field",
         "href": "AIP/quality-rules/1600180",
+        "status": null,
         "critical": true
     },
     {
         "id": 1600182,
         "name": "PeopleSoft: Avoid renaming or changing attributes on existing projet's Fields",
         "href": "AIP/quality-rules/1600182",
+        "status": null,
         "critical": false
     },
     {
         "id": 1600184,
         "name": "PeopleSoft: Avoid PeopleCode Event with High Cyclomatic",
         "href": "AIP/quality-rules/1600184",
+        "status": null,
         "critical": false
     },
     {
         "id": 1600186,
         "name": "PeopleSoft: Avoid PeopleCode Functions with High Cyclomatic",
         "href": "AIP/quality-rules/1600186",
+        "status": null,
         "critical": false
     },
     {
         "id": 1600188,
         "name": "PeopleSoft: Avoid PeopleCode Methods with High Cyclomatic",
         "href": "AIP/quality-rules/1600188",
+        "status": null,
         "critical": false
     },
     {
         "id": 1600190,
         "name": "PeopleSoft: Avoid PeopleCode Classes with High Cyclomatic",
         "href": "AIP/quality-rules/1600190",
+        "status": null,
         "critical": false
     },
     {
         "id": 1600200,
         "name": "PeopleSoft: Don't use hardcoded message",
         "href": "AIP/quality-rules/1600200",
+        "status": null,
         "critical": false
     },
     {
         "id": 1600220,
         "name": "PeopleSoft: Avoid unfilled Field Label",
         "href": "AIP/quality-rules/1600220",
+        "status": null,
         "critical": false
     },
     {
         "id": 1600280,
         "name": "PeopleSoft: Avoid put PeopleCode into Fields, prefer Component Level",
         "href": "AIP/quality-rules/1600280",
+        "status": null,
         "critical": false
     },
     {
         "id": 1600282,
         "name": "PeopleSoft: Write UNION ALL instead of UNION statement",
         "href": "AIP/quality-rules/1600282",
+        "status": null,
         "critical": false
     },
     {
         "id": 1600284,
         "name": "PeopleSoft: Avoid using comments in SQL queries",
         "href": "AIP/quality-rules/1600284",
+        "status": null,
         "critical": false
     },
     {
         "id": 1600286,
         "name": "PeopleSoft: Avoid use the Hints to force Oracle to use a specific access method",
         "href": "AIP/quality-rules/1600286",
+        "status": null,
         "critical": false
     },
     {
         "id": 1600288,
         "name": "PeopleSoft: Avoid using count(*) syntax",
         "href": "AIP/quality-rules/1600288",
+        "status": null,
         "critical": false
     },
     {
         "id": 1600290,
         "name": "PeopleSoft: Avoid using ROWNUM and ORDER BY",
         "href": "AIP/quality-rules/1600290",
+        "status": null,
         "critical": false
     },
     {
         "id": 1600292,
         "name": "PeopleSoft: In an INSERT statement define explicitly the values for all the table columns",
         "href": "AIP/quality-rules/1600292",
+        "status": null,
         "critical": false
     },
     {
         "id": 1600294,
         "name": "PeopleSoft: Child records must share all keys as the parent record, plus one or more keys that uniquely identify each row.",
         "href": "AIP/quality-rules/1600294",
+        "status": null,
         "critical": false
     },
     {
         "id": 1600296,
         "name": "PeopleSoft: Related Language tables must have the same key structure as the table with the addition of the field LANGUAGE_CD.",
         "href": "AIP/quality-rules/1600296",
+        "status": null,
         "critical": false
     },
     {
         "id": 1600320,
         "name": "PeopleSoft: Avoid creating unused Field label",
         "href": "AIP/quality-rules/1600320",
+        "status": null,
         "critical": false
     },
     {
         "id": 1600380,
         "name": "PeopleSoft: Naming convention on Search Record",
         "href": "AIP/quality-rules/1600380",
+        "status": null,
         "critical": false
     },
     {
         "id": 1600384,
         "name": "PeopleSoft: Naming convention on Language Record Table",
         "href": "AIP/quality-rules/1600384",
+        "status": null,
         "critical": false
     },
     {
         "id": 1600386,
         "name": "PeopleSoft: Naming convention on Language Record View",
         "href": "AIP/quality-rules/1600386",
+        "status": null,
         "critical": false
     },
     {
         "id": 1600396,
         "name": "PeopleSoft: Naming convention on AE State Record",
         "href": "AIP/quality-rules/1600396",
+        "status": null,
         "critical": false
     },
     {
         "id": 1600398,
         "name": "PeopleSoft: Naming convention on AE Temporary Record",
         "href": "AIP/quality-rules/1600398",
+        "status": null,
         "critical": false
     },
     {
         "id": 1600400,
         "name": "PeopleSoft: Naming convention suffix on Record View",
         "href": "AIP/quality-rules/1600400",
+        "status": null,
         "critical": false
     },
     {
         "id": 1600402,
         "name": "PeopleSoft: Naming convention suffix on Record Derived",
         "href": "AIP/quality-rules/1600402",
+        "status": null,
         "critical": false
     },
     {
         "id": 1600620,
         "name": "PeopleSoft: Avoid PeopleCode Events with a low comment/code ratio",
         "href": "AIP/quality-rules/1600620",
+        "status": null,
         "critical": false
     },
     {
         "id": 1600622,
         "name": "PeopleSoft: Avoid PeopleCode Functions with a low comment/code ratio",
         "href": "AIP/quality-rules/1600622",
+        "status": null,
         "critical": false
     },
     {
         "id": 1600624,
         "name": "PeopleSoft: Avoid PeopleCode Methods with a low comment/code ratio",
         "href": "AIP/quality-rules/1600624",
+        "status": null,
         "critical": false
     },
     {
         "id": 1600626,
         "name": "PeopleSoft: Avoid PeopleCode Classes with a low comment/code ratio",
         "href": "AIP/quality-rules/1600626",
+        "status": null,
         "critical": false
     },
     {
         "id": 1600628,
         "name": "PeopleSoft: Avoid undocumented PeopleCode Events",
         "href": "AIP/quality-rules/1600628",
+        "status": null,
         "critical": false
     },
     {
         "id": 1600630,
         "name": "PeopleSoft: Avoid undocumented PeopleCode Functions",
         "href": "AIP/quality-rules/1600630",
+        "status": null,
         "critical": false
     },
     {
         "id": 1600632,
         "name": "PeopleSoft: Avoid undocumented PeopleCode Methods",
         "href": "AIP/quality-rules/1600632",
+        "status": null,
         "critical": false
     },
     {
         "id": 1600634,
         "name": "PeopleSoft: Avoid undocumented PeopleCode Classes",
         "href": "AIP/quality-rules/1600634",
+        "status": null,
         "critical": false
     },
     {
         "id": 1600640,
         "name": "PeopleSoft: Field label don't contain \":\"",
         "href": "AIP/quality-rules/1600640",
+        "status": null,
         "critical": false
     },
     {
         "id": 1600642,
         "name": "PeopleSoft: Pages should be designed assuming the user has an 800x600 monitor resolution",
         "href": "AIP/quality-rules/1600642",
+        "status": null,
         "critical": false
     },
     {
         "id": 1600644,
         "name": "PeopleSoft: Developers should avoid developing web pages that result in horizontal scrolling",
         "href": "AIP/quality-rules/1600644",
+        "status": null,
         "critical": false
     },
     {
         "id": 1600646,
         "name": "PeopleSoft: Developers should not build long pages that are longer than 5 pages",
         "href": "AIP/quality-rules/1600646",
+        "status": null,
         "critical": false
     },
     {
         "id": 1600648,
         "name": "PeopleSoft: Avoid use a radio button or check box when the user has more than three choices",
         "href": "AIP/quality-rules/1600648",
+        "status": null,
         "critical": false
     },
     {
         "id": 1600650,
         "name": "PeopleSoft: Use Default Style and Font",
         "href": "AIP/quality-rules/1600650",
+        "status": null,
         "critical": false
     },
     {
         "id": 1600652,
         "name": "PeopleSoft: Key fields displayed on a panel should ALWAYS be display only",
         "href": "AIP/quality-rules/1600652",
+        "status": null,
         "critical": false
     },
     {
         "id": 1600654,
         "name": "PeopleSoft: Attribute No colon should be check for visible label",
         "href": "AIP/quality-rules/1600654",
+        "status": null,
         "critical": false
     },
     {
         "id": 1600656,
         "name": "PeopleSoft: Avoid specific visual design for grid",
         "href": "AIP/quality-rules/1600656",
+        "status": null,
         "critical": false
     },
     {
         "id": 1600658,
         "name": "PeopleSoft: Display control field must be before the related display field that depend on it",
         "href": "AIP/quality-rules/1600658",
+        "status": null,
         "critical": false
     },
     {
         "id": 1600660,
         "name": "PeopleSoft: Display and related fields from same record must be avoid",
         "href": "AIP/quality-rules/1600660",
+        "status": null,
         "critical": false
     },
     {
         "id": 1600662,
         "name": "PeopleSoft: All records with SETID in its key, must be linked to a record group.",
         "href": "AIP/quality-rules/1600662",
+        "status": null,
         "critical": false
     },
     {
         "id": 1600664,
         "name": "PeopleSoft: Only one long character type field is allowed in a regular record definition.",
         "href": "AIP/quality-rules/1600664",
+        "status": null,
         "critical": false
     },
     {
         "id": 1600666,
         "name": "PeopleSoft: Use DESCR and DESCRSHORT for description fields rather than record specific titles",
         "href": "AIP/quality-rules/1600666",
+        "status": null,
         "critical": false
     },
     {
         "id": 1600668,
         "name": "PeopleSoft: Do not define a recordField EFFDT or EFF_STATUS without the other",
         "href": "AIP/quality-rules/1600668",
+        "status": null,
         "critical": false
     },
     {
         "id": 1600670,
         "name": "PeopleSoft: FIELDNUM values should be numbered sequentially for Record",
         "href": "AIP/quality-rules/1600670",
+        "status": null,
         "critical": false
     },
     {
         "id": 1600674,
         "name": "PeopleSoft: Language records should have the same type as the based record",
         "href": "AIP/quality-rules/1600674",
+        "status": null,
         "critical": false
     },
     {
         "id": 1600676,
         "name": "CWE-484: Put Break statements in your Evaluate statements (PeopleSoft)",
         "href": "AIP/quality-rules/1600676",
+        "status": null,
         "critical": false
     },
     {
         "id": 1600678,
         "name": "PeopleSoft: Consolidating PeopleCode Programs",
         "href": "AIP/quality-rules/1600678",
+        "status": null,
         "critical": false
     },
     {
         "id": 1600680,
         "name": "PeopleSoft: Move PeopleCode to a Component or Page Definition",
         "href": "AIP/quality-rules/1600680",
+        "status": null,
         "critical": false
     },
     {
         "id": 1600840,
         "name": "CWE-798: Avoid using hardcoded usernames (PeopleSoft)",
         "href": "AIP/quality-rules/1600840",
+        "status": null,
         "critical": false
     },
     {
         "id": 1601500,
         "name": "PeopleSoft: Avoid unused Record Table",
         "href": "AIP/quality-rules/1601500",
+        "status": null,
         "critical": false
     },
     {
         "id": 1601502,
         "name": "PeopleSoft: Avoid unused Record View",
         "href": "AIP/quality-rules/1601502",
+        "status": null,
         "critical": false
     },
     {
         "id": 1601504,
         "name": "PeopleSoft: Avoid unused Record Derived",
         "href": "AIP/quality-rules/1601504",
+        "status": null,
         "critical": false
     },
     {
         "id": 1601506,
         "name": "PeopleSoft: Avoid unused Record Sub",
         "href": "AIP/quality-rules/1601506",
+        "status": null,
         "critical": false
     },
     {
         "id": 1601508,
         "name": "PeopleSoft: Avoid unused Record Dynamic",
         "href": "AIP/quality-rules/1601508",
+        "status": null,
         "critical": false
     },
     {
         "id": 1601510,
         "name": "PeopleSoft: Avoid unused Record Query",
         "href": "AIP/quality-rules/1601510",
+        "status": null,
         "critical": false
     },
     {
         "id": 1601512,
         "name": "PeopleSoft: Avoid unused Record Temp",
         "href": "AIP/quality-rules/1601512",
+        "status": null,
         "critical": false
     },
     {
         "id": 1601514,
         "name": "PeopleSoft: Avoid unused Field",
         "href": "AIP/quality-rules/1601514",
+        "status": null,
         "critical": false
     },
     {
         "id": 1601516,
         "name": "PeopleSoft: Avoid unused Page",
         "href": "AIP/quality-rules/1601516",
+        "status": null,
         "critical": false
     },
     {
         "id": 1601518,
         "name": "PeopleSoft: Avoid unused Sub Page",
         "href": "AIP/quality-rules/1601518",
+        "status": null,
         "critical": false
     },
     {
         "id": 1601520,
         "name": "PeopleSoft: Avoid unused Secondary Page",
         "href": "AIP/quality-rules/1601520",
+        "status": null,
         "critical": false
     },
     {
         "id": 1601522,
         "name": "PeopleSoft: Avoid unused SQL",
         "href": "AIP/quality-rules/1601522",
+        "status": null,
         "critical": false
     },
     {
         "id": 1601524,
         "name": "PeopleSoft: Avoid unused Component Interface",
         "href": "AIP/quality-rules/1601524",
+        "status": null,
         "critical": false
     },
     {
         "id": 1601526,
         "name": "PeopleSoft: Avoid unused Application Engine",
         "href": "AIP/quality-rules/1601526",
+        "status": null,
         "critical": false
     },
     {
         "id": 1601530,
         "name": "PeopleSoft: Avoid unused Mobile Page",
         "href": "AIP/quality-rules/1601530",
+        "status": null,
         "critical": false
     },
     {
         "id": 1601532,
         "name": "PeopleSoft: Avoid unused Component",
         "href": "AIP/quality-rules/1601532",
+        "status": null,
         "critical": false
     },
     {
         "id": 1601534,
         "name": "PeopleSoft: Avoid unused Menu",
         "href": "AIP/quality-rules/1601534",
+        "status": null,
         "critical": false
     },
     {
         "id": 1601536,
         "name": "PeopleSoft: Avoid unused Popup Menu",
         "href": "AIP/quality-rules/1601536",
+        "status": null,
         "critical": false
     },
     {
         "id": 1601700,
         "name": "PeopleSoft: Naming convention prefix on Record Table",
         "href": "AIP/quality-rules/1601700",
+        "status": null,
         "critical": false
     },
     {
         "id": 1601702,
         "name": "PeopleSoft: Naming convention prefix on Record View",
         "href": "AIP/quality-rules/1601702",
+        "status": null,
         "critical": false
     },
     {
         "id": 1601704,
         "name": "PeopleSoft: Naming convention prefix on Record Derived",
         "href": "AIP/quality-rules/1601704",
+        "status": null,
         "critical": false
     },
     {
         "id": 1601706,
         "name": "PeopleSoft: Naming convention prefix on Record Sub",
         "href": "AIP/quality-rules/1601706",
+        "status": null,
         "critical": false
     },
     {
         "id": 1601708,
         "name": "PeopleSoft: Naming convention prefix on Record Dynamic",
         "href": "AIP/quality-rules/1601708",
+        "status": null,
         "critical": false
     },
     {
         "id": 1601710,
         "name": "PeopleSoft: Naming convention prefix on Record Query",
         "href": "AIP/quality-rules/1601710",
+        "status": null,
         "critical": false
     },
     {
         "id": 1601712,
         "name": "PeopleSoft: Naming convention prefix on Record Temp",
         "href": "AIP/quality-rules/1601712",
+        "status": null,
         "critical": false
     },
     {
         "id": 1601714,
         "name": "PeopleSoft: Naming convention prefix on Field",
         "href": "AIP/quality-rules/1601714",
+        "status": null,
         "critical": false
     },
     {
         "id": 1601716,
         "name": "PeopleSoft: Naming convention prefix on Page",
         "href": "AIP/quality-rules/1601716",
+        "status": null,
         "critical": false
     },
     {
         "id": 1601718,
         "name": "PeopleSoft: Naming convention prefix on Sub Page",
         "href": "AIP/quality-rules/1601718",
+        "status": null,
         "critical": false
     },
     {
         "id": 1601720,
         "name": "PeopleSoft: Naming convention prefix on Secondary Page",
         "href": "AIP/quality-rules/1601720",
+        "status": null,
         "critical": false
     },
     {
         "id": 1601722,
         "name": "PeopleSoft: Naming convention prefix on SQL",
         "href": "AIP/quality-rules/1601722",
+        "status": null,
         "critical": false
     },
     {
         "id": 1601724,
         "name": "PeopleSoft: Naming convention prefix on Component Interface",
         "href": "AIP/quality-rules/1601724",
+        "status": null,
         "critical": false
     },
     {
         "id": 1601726,
         "name": "PeopleSoft: Naming convention prefix on Application Engine",
         "href": "AIP/quality-rules/1601726",
+        "status": null,
         "critical": false
     },
     {
         "id": 1601728,
         "name": "PeopleSoft: Naming convention prefix on Package",
         "href": "AIP/quality-rules/1601728",
+        "status": null,
         "critical": false
     },
     {
         "id": 1601730,
         "name": "PeopleSoft: Naming convention prefix on Mobile Page",
         "href": "AIP/quality-rules/1601730",
+        "status": null,
         "critical": false
     },
     {
         "id": 1601732,
         "name": "PeopleSoft: Naming convention prefix on Component",
         "href": "AIP/quality-rules/1601732",
+        "status": null,
         "critical": false
     },
     {
         "id": 1601734,
         "name": "PeopleSoft: Naming convention prefix on Menu",
         "href": "AIP/quality-rules/1601734",
+        "status": null,
         "critical": false
     },
     {
         "id": 1601736,
         "name": "PeopleSoft: Naming convention prefix on Popup Menu",
         "href": "AIP/quality-rules/1601736",
+        "status": null,
         "critical": false
     },
     {
         "id": 1601738,
         "name": "PeopleSoft: Naming convention prefix on Field Label",
         "href": "AIP/quality-rules/1601738",
+        "status": null,
         "critical": false
     },
     {
         "id": 1601740,
         "name": "PeopleSoft: Naming convention prefix on Field Format",
         "href": "AIP/quality-rules/1601740",
+        "status": null,
         "critical": false
     },
     {
         "id": 1601742,
         "name": "PeopleSoft: Naming convention prefix on Portal Content Reference",
         "href": "AIP/quality-rules/1601742",
+        "status": null,
         "critical": false
     },
     {
         "id": 1601744,
         "name": "PeopleSoft: Naming convention prefix on Menu Item",
         "href": "AIP/quality-rules/1601744",
+        "status": null,
         "critical": false
     },
     {
         "id": 1601746,
         "name": "PeopleSoft: Naming convention prefix on Role",
         "href": "AIP/quality-rules/1601746",
+        "status": null,
         "critical": false
     },
     {
         "id": 1601750,
         "name": "PeopleSoft: Naming convention prefix on Permission List",
         "href": "AIP/quality-rules/1601750",
+        "status": null,
         "critical": false
     },
     {
         "id": 1601752,
         "name": "PeopleSoft: Naming convention prefix on File Layout",
         "href": "AIP/quality-rules/1601752",
+        "status": null,
         "critical": false
     },
     {
         "id": 1601754,
         "name": "PeopleSoft: Naming convention prefix on Messages Nodes",
         "href": "AIP/quality-rules/1601754",
+        "status": null,
         "critical": false
     },
     {
         "id": 1601756,
         "name": "PeopleSoft: Naming convention prefix on Business Process",
         "href": "AIP/quality-rules/1601756",
+        "status": null,
         "critical": false
     },
     {
         "id": 1601758,
         "name": "PeopleSoft: Naming convention prefix on Activity",
         "href": "AIP/quality-rules/1601758",
+        "status": null,
         "critical": false
     },
     {
         "id": 1601760,
         "name": "PeopleSoft: Naming convention prefix on Query",
         "href": "AIP/quality-rules/1601760",
+        "status": null,
         "critical": false
     },
     {
         "id": 1601762,
         "name": "PeopleSoft: Naming convention prefix on Process",
         "href": "AIP/quality-rules/1601762",
+        "status": null,
         "critical": false
     },
     {
         "id": 1601764,
         "name": "PeopleSoft: Naming convention prefix on HTML",
         "href": "AIP/quality-rules/1601764",
+        "status": null,
         "critical": false
     },
     {
         "id": 1601766,
         "name": "PeopleSoft: Naming convention prefix on URL",
         "href": "AIP/quality-rules/1601766",
+        "status": null,
         "critical": false
     },
     {
         "id": 1602000,
         "name": "PeopleSoft: Record Table should have a Description",
         "href": "AIP/quality-rules/1602000",
+        "status": null,
         "critical": false
     },
     {
         "id": 1602002,
         "name": "PeopleSoft: Record View should have a Description",
         "href": "AIP/quality-rules/1602002",
+        "status": null,
         "critical": false
     },
     {
         "id": 1602004,
         "name": "PeopleSoft: Record Derived should have a Description",
         "href": "AIP/quality-rules/1602004",
+        "status": null,
         "critical": false
     },
     {
         "id": 1602006,
         "name": "PeopleSoft: Record Sub should have a Description",
         "href": "AIP/quality-rules/1602006",
+        "status": null,
         "critical": false
     },
     {
         "id": 1602008,
         "name": "PeopleSoft: Record Dynamic should have a Description",
         "href": "AIP/quality-rules/1602008",
+        "status": null,
         "critical": false
     },
     {
         "id": 1602010,
         "name": "PeopleSoft: Record Query should have a Description",
         "href": "AIP/quality-rules/1602010",
+        "status": null,
         "critical": false
     },
     {
         "id": 1602012,
         "name": "PeopleSoft: Record Temp should have a Description",
         "href": "AIP/quality-rules/1602012",
+        "status": null,
         "critical": false
     },
     {
         "id": 1602016,
         "name": "PeopleSoft: Page should have a Description",
         "href": "AIP/quality-rules/1602016",
+        "status": null,
         "critical": false
     },
     {
         "id": 1602018,
         "name": "PeopleSoft: Sub Page should have a Description",
         "href": "AIP/quality-rules/1602018",
+        "status": null,
         "critical": false
     },
     {
         "id": 1602020,
         "name": "PeopleSoft: Secondary Page should have a Description",
         "href": "AIP/quality-rules/1602020",
+        "status": null,
         "critical": false
     },
     {
         "id": 1602022,
         "name": "PeopleSoft: SQL should have a Description",
         "href": "AIP/quality-rules/1602022",
+        "status": null,
         "critical": false
     },
     {
         "id": 1602024,
         "name": "PeopleSoft: Component Interface should have a Description",
         "href": "AIP/quality-rules/1602024",
+        "status": null,
         "critical": false
     },
     {
         "id": 1602026,
         "name": "PeopleSoft: Application Engine should have a Description",
         "href": "AIP/quality-rules/1602026",
+        "status": null,
         "critical": false
     },
     {
         "id": 1602028,
         "name": "PeopleSoft: Package should have a Description",
         "href": "AIP/quality-rules/1602028",
+        "status": null,
         "critical": false
     },
     {
         "id": 1602030,
         "name": "PeopleSoft: Mobile Page should have a Description",
         "href": "AIP/quality-rules/1602030",
+        "status": null,
         "critical": false
     },
     {
         "id": 1602032,
         "name": "PeopleSoft: Component should have a Description",
         "href": "AIP/quality-rules/1602032",
+        "status": null,
         "critical": false
     },
     {
         "id": 1602034,
         "name": "PeopleSoft: Menu should have a Description",
         "href": "AIP/quality-rules/1602034",
+        "status": null,
         "critical": false
     },
     {
         "id": 1602036,
         "name": "PeopleSoft: Popup Menu should have a Description",
         "href": "AIP/quality-rules/1602036",
+        "status": null,
         "critical": false
     },
     {
         "id": 1602100,
         "name": "PeopleSoft: Record Table should have a Description Long",
         "href": "AIP/quality-rules/1602100",
+        "status": null,
         "critical": false
     },
     {
         "id": 1602102,
         "name": "PeopleSoft: Record View should have a Description Long",
         "href": "AIP/quality-rules/1602102",
+        "status": null,
         "critical": false
     },
     {
         "id": 1602104,
         "name": "PeopleSoft: Record Derived should have a Description Long",
         "href": "AIP/quality-rules/1602104",
+        "status": null,
         "critical": false
     },
     {
         "id": 1602106,
         "name": "PeopleSoft: Record Sub should have a Description Long",
         "href": "AIP/quality-rules/1602106",
+        "status": null,
         "critical": false
     },
     {
         "id": 1602108,
         "name": "PeopleSoft: Record Dynamic should have a Description Long",
         "href": "AIP/quality-rules/1602108",
+        "status": null,
         "critical": false
     },
     {
         "id": 1602110,
         "name": "PeopleSoft: Record Query should have a Description Long",
         "href": "AIP/quality-rules/1602110",
+        "status": null,
         "critical": false
     },
     {
         "id": 1602112,
         "name": "PeopleSoft: Record Temp should have a Description Long",
         "href": "AIP/quality-rules/1602112",
+        "status": null,
         "critical": false
     },
     {
         "id": 1602114,
         "name": "PeopleSoft: Field should have a Description Long",
         "href": "AIP/quality-rules/1602114",
+        "status": null,
         "critical": false
     },
     {
         "id": 1602116,
         "name": "PeopleSoft: Page should have a Description Long",
         "href": "AIP/quality-rules/1602116",
+        "status": null,
         "critical": false
     },
     {
         "id": 1602118,
         "name": "PeopleSoft: Sub Page should have a Description Long",
         "href": "AIP/quality-rules/1602118",
+        "status": null,
         "critical": false
     },
     {
         "id": 1602120,
         "name": "PeopleSoft: Secondary Page should have a Description Long",
         "href": "AIP/quality-rules/1602120",
+        "status": null,
         "critical": false
     },
     {
         "id": 1602122,
         "name": "PeopleSoft: SQL should have a Description Long",
         "href": "AIP/quality-rules/1602122",
+        "status": null,
         "critical": false
     },
     {
         "id": 1602124,
         "name": "PeopleSoft: Component Interface should have a Description Long",
         "href": "AIP/quality-rules/1602124",
+        "status": null,
         "critical": false
     },
     {
         "id": 1602126,
         "name": "PeopleSoft: Application Engine should have a Description Long",
         "href": "AIP/quality-rules/1602126",
+        "status": null,
         "critical": false
     },
     {
         "id": 1602128,
         "name": "PeopleSoft: Package should have a Description Long",
         "href": "AIP/quality-rules/1602128",
+        "status": null,
         "critical": false
     },
     {
         "id": 1602130,
         "name": "PeopleSoft: Mobile Page should have a Description Long",
         "href": "AIP/quality-rules/1602130",
+        "status": null,
         "critical": false
     },
     {
         "id": 1602132,
         "name": "PeopleSoft: Component should have a Description Long",
         "href": "AIP/quality-rules/1602132",
+        "status": null,
         "critical": false
     },
     {
         "id": 1602134,
         "name": "PeopleSoft: Menu should have a Description Long",
         "href": "AIP/quality-rules/1602134",
+        "status": null,
         "critical": false
     },
     {
         "id": 1602136,
         "name": "PeopleSoft: Popup Menu should have a Description Long",
         "href": "AIP/quality-rules/1602136",
+        "status": null,
         "critical": false
     },
     {
         "id": 1602200,
         "name": "PeopleSoft: Never use PS and VP1 login to develop - Record Table",
         "href": "AIP/quality-rules/1602200",
+        "status": null,
         "critical": false
     },
     {
         "id": 1602202,
         "name": "PeopleSoft: Never use PS and VP1 login to develop - Record View",
         "href": "AIP/quality-rules/1602202",
+        "status": null,
         "critical": false
     },
     {
         "id": 1602204,
         "name": "PeopleSoft: Never use PS and VP1 login to develop - Record Derived",
         "href": "AIP/quality-rules/1602204",
+        "status": null,
         "critical": false
     },
     {
         "id": 1602206,
         "name": "PeopleSoft: Never use PS and VP1 login to develop - Record Sub",
         "href": "AIP/quality-rules/1602206",
+        "status": null,
         "critical": false
     },
     {
         "id": 1602208,
         "name": "PeopleSoft: Never use PS and VP1 login to develop - Record Dynamic",
         "href": "AIP/quality-rules/1602208",
+        "status": null,
         "critical": false
     },
     {
         "id": 1602210,
         "name": "PeopleSoft: Never use PS and VP1 login to develop - Record Query",
         "href": "AIP/quality-rules/1602210",
+        "status": null,
         "critical": false
     },
     {
         "id": 1602212,
         "name": "PeopleSoft: Never use PS and VP1 login to develop - Record Temp",
         "href": "AIP/quality-rules/1602212",
+        "status": null,
         "critical": false
     },
     {
         "id": 1602214,
         "name": "PeopleSoft: Never use PS and VP1 login to develop - Field",
         "href": "AIP/quality-rules/1602214",
+        "status": null,
         "critical": false
     },
     {
         "id": 1602216,
         "name": "PeopleSoft: Never use PS and VP1 login to develop - Page",
         "href": "AIP/quality-rules/1602216",
+        "status": null,
         "critical": false
     },
     {
         "id": 1602218,
         "name": "PeopleSoft: Never use PS and VP1 login to develop - Sub Page",
         "href": "AIP/quality-rules/1602218",
+        "status": null,
         "critical": false
     },
     {
         "id": 1602220,
         "name": "PeopleSoft: Never use PS and VP1 login to develop - Secondary Page",
         "href": "AIP/quality-rules/1602220",
+        "status": null,
         "critical": false
     },
     {
         "id": 1602222,
         "name": "PeopleSoft: Never use PS and VP1 login to develop - SQL",
         "href": "AIP/quality-rules/1602222",
+        "status": null,
         "critical": false
     },
     {
         "id": 1602224,
         "name": "PeopleSoft: Never use PS and VP1 login to develop - Component Interface",
         "href": "AIP/quality-rules/1602224",
+        "status": null,
         "critical": false
     },
     {
         "id": 1602226,
         "name": "PeopleSoft: Never use PS and VP1 login to develop - Application Engine",
         "href": "AIP/quality-rules/1602226",
+        "status": null,
         "critical": false
     },
     {
         "id": 1602228,
         "name": "PeopleSoft: Never use PS and VP1 login to develop - Package",
         "href": "AIP/quality-rules/1602228",
+        "status": null,
         "critical": false
     },
     {
         "id": 1602230,
         "name": "PeopleSoft: Never use PS and VP1 login to develop - Mobile Page",
         "href": "AIP/quality-rules/1602230",
+        "status": null,
         "critical": false
     },
     {
         "id": 1602232,
         "name": "PeopleSoft: Never use PS and VP1 login to develop - Component",
         "href": "AIP/quality-rules/1602232",
+        "status": null,
         "critical": false
     },
     {
         "id": 1602234,
         "name": "PeopleSoft: Never use PS and VP1 login to develop - Menu",
         "href": "AIP/quality-rules/1602234",
+        "status": null,
         "critical": false
     },
     {
         "id": 1602236,
         "name": "PeopleSoft: Never use PS and VP1 login to develop - Popup Menu",
         "href": "AIP/quality-rules/1602236",
+        "status": null,
         "critical": false
     }
 ]

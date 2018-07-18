@@ -3,30 +3,35 @@
         "id": 2232,
         "name": "Pages should use error handling page",
         "href": "AIP/quality-rules/2232",
+        "status": null,
         "critical": false
     },
     {
         "id": 7824,
         "name": "The exception Exception should never been thrown. Always Subclass Exception and throw the subclassed Classes.",
         "href": "AIP/quality-rules/7824",
+        "status": null,
         "critical": true
     },
     {
         "id": 8122,
         "name": "Avoid using CALL METHOD without error handling",
         "href": "AIP/quality-rules/8122",
+        "status": null,
         "critical": false
     },
     {
         "id": 1020540,
         "name": "Avoid using $http success and error function",
         "href": "AIP/quality-rules/1020540",
+        "status": null,
         "critical": false
     },
     {
         "id": 1020700,
         "name": "Avoid the lack of error handling in the Node.js callbacks",
         "href": "AIP/quality-rules/1020700",
+        "status": null,
         "critical": false
     }
 ]

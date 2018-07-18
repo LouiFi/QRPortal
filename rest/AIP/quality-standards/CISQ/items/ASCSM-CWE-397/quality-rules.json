@@ -3,24 +3,28 @@
         "id": 4656,
         "name": "Avoid declaring throwing an exception and not throwing it",
         "href": "AIP/quality-rules/4656",
+        "status": null,
         "critical": false
     },
     {
         "id": 7652,
         "name": "Avoid throwing an exception in a catch block without chaining it",
         "href": "AIP/quality-rules/7652",
+        "status": null,
         "critical": false
     },
     {
         "id": 1020304,
         "name": "Implement success and error callbacks when using jquery web service call",
         "href": "AIP/quality-rules/1020304",
+        "status": null,
         "critical": true
     },
     {
         "id": 1020702,
         "name": "Avoid using process.exit()",
         "href": "AIP/quality-rules/1020702",
+        "status": null,
         "critical": false
     }
 ]

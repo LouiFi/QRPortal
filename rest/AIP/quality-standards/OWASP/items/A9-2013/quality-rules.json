@@ -3,12 +3,14 @@
         "id": 1020018,
         "name": "Avoid using Web SQL databases",
         "href": "AIP/quality-rules/1020018",
+        "status": null,
         "critical": true
     },
     {
         "id": 1020724,
         "name": "Ensure that marked is sanitized",
         "href": "AIP/quality-rules/1020724",
+        "status": null,
         "critical": true
     }
 ]

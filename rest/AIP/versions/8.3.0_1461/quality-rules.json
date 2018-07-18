@@ -121,6 +121,7 @@
     {
         "id": 8128,
         "name": "Avoid using UPDATE and DELETE without WHERE condition",
+        "href": null,
         "status": "deprecated",
         "critical": true
     },

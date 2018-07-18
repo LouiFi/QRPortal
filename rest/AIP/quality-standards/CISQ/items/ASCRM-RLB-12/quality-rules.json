@@ -3,6 +3,7 @@
         "id": 1050026,
         "name": "Avoid using non thread-safe Objective-C singleton pattern",
         "href": "AIP/quality-rules/1050026",
+        "status": null,
         "critical": true
     }
 ]

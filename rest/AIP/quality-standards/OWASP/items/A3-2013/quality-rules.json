@@ -3,144 +3,168 @@
         "id": 7130,
         "name": "Avoid Artifacts with High Depth of Nested Subqueries",
         "href": "AIP/quality-rules/7130",
+        "status": null,
         "critical": false
     },
     {
         "id": 7740,
         "name": "CWE-79: Avoid cross-site scripting DOM vulnerabilities",
         "href": "AIP/quality-rules/7740",
+        "status": null,
         "critical": true
     },
     {
         "id": 7750,
         "name": "CWE-91: Avoid XPath injection vulnerabilities",
         "href": "AIP/quality-rules/7750",
+        "status": null,
         "critical": true
     },
     {
         "id": 7808,
         "name": "Avoid Artifacts with SQL statement including subqueries",
         "href": "AIP/quality-rules/7808",
+        "status": null,
         "critical": false
     },
     {
         "id": 1020022,
         "name": "Avoid using submitted markup containing \"form\" and \"formaction\" attributes",
         "href": "AIP/quality-rules/1020022",
+        "status": null,
         "critical": true
     },
     {
         "id": 1020024,
         "name": "Avoid using submit markup related to \"form\" with id attribute",
         "href": "AIP/quality-rules/1020024",
+        "status": null,
         "critical": true
     },
     {
         "id": 1020026,
         "name": "Avoid using autofocus and onfocus in submitted markup",
         "href": "AIP/quality-rules/1020026",
+        "status": null,
         "critical": true
     },
     {
         "id": 1020028,
         "name": "Avoid using autofocus and onblur in submitted markup",
         "href": "AIP/quality-rules/1020028",
+        "status": null,
         "critical": true
     },
     {
         "id": 1020030,
         "name": "Avoid using javascript or expression in the CSS file",
         "href": "AIP/quality-rules/1020030",
+        "status": null,
         "critical": true
     },
     {
         "id": 1020032,
         "name": "Avoid using video poster attributes in combination with javascript",
         "href": "AIP/quality-rules/1020032",
+        "status": null,
         "critical": true
     },
     {
         "id": 1020034,
         "name": "Avoid hosting HTML code in iframe srcdoc",
         "href": "AIP/quality-rules/1020034",
+        "status": null,
         "critical": true
     },
     {
         "id": 1020036,
         "name": "Avoid using onscroll event with autofocus input",
         "href": "AIP/quality-rules/1020036",
+        "status": null,
         "critical": true
     },
     {
         "id": 1020042,
         "name": "Avoid having iframe inside a tag",
         "href": "AIP/quality-rules/1020042",
+        "status": null,
         "critical": true
     },
     {
         "id": 1020044,
         "name": "Avoid using setData in ondragstart with attribute draggable set to true",
         "href": "AIP/quality-rules/1020044",
+        "status": null,
         "critical": true
     },
     {
         "id": 1020046,
         "name": "Avoid using oninput in body containing input autofocus",
         "href": "AIP/quality-rules/1020046",
+        "status": null,
         "critical": true
     },
     {
         "id": 1020048,
         "name": "Avoid using source tag in video/audio with event handler",
         "href": "AIP/quality-rules/1020048",
+        "status": null,
         "critical": true
     },
     {
         "id": 1020050,
         "name": "Avoid white-listing the \"dirname\" attribute in user generated content",
         "href": "AIP/quality-rules/1020050",
+        "status": null,
         "critical": true
     },
     {
         "id": 1020052,
         "name": "Avoid using import with external URI",
         "href": "AIP/quality-rules/1020052",
+        "status": null,
         "critical": true
     },
     {
         "id": 1020074,
         "name": "Avoid enabling autocomplete \"on\" for inputs/forms",
         "href": "AIP/quality-rules/1020074",
+        "status": null,
         "critical": false
     },
     {
         "id": 1020542,
         "name": "Enable Content Security Policy when creating an AngularJS application",
         "href": "AIP/quality-rules/1020542",
+        "status": null,
         "critical": true
     },
     {
         "id": 1020544,
         "name": "Avoid disabling Strict Contextual Escaping (SCE) when created",
         "href": "AIP/quality-rules/1020544",
+        "status": null,
         "critical": true
     },
     {
         "id": 1020546,
         "name": "Avoid using unsanitized AngularJS application",
         "href": "AIP/quality-rules/1020546",
+        "status": null,
         "critical": true
     },
     {
         "id": 1020548,
         "name": "Avoid disabling withCredentials option for the httpProvider",
         "href": "AIP/quality-rules/1020548",
+        "status": null,
         "critical": true
     },
     {
         "id": 1020710,
         "name": "Ensure the X-XSS-Protection header is enabled",
         "href": "AIP/quality-rules/1020710",
+        "status": null,
         "critical": true
     }
 ]

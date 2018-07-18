@@ -1,0 +1,45 @@
+{
+    "id": 1039004,
+    "name": "Avoid using HttpServletRequest.getRequestedSessionId()",
+    "href": "AIP/quality-rules/1039004",
+    "critical": true,
+    "associatedValueName": "Associated Value",
+    "description": "According to the Oracle Java API, the HttpServletRequest.getRequestedSessionId() method Returns the session ID specified by the client. \n        This may not be the same as the ID of the current valid session for this request. If the client did not specify a session ID, this method returns null. \n\n        The session ID it returns is either transmitted in a cookie or a URL parameter so by definition, nothing prevents the end-user from manually updating \n        the value of this session ID in the HTTP request. \n\n        Here is an example of a updated HTTP header: \n        \n        ----------------------------------- \n        GET /pageSomeWhere HTTP/1.1 \n        Host: webSite.com \n        User-Agent: Mozilla/5.0 \n        Cookie: JSESSIONID=Hacked_Session_Value'''\"> \n        -------------------------------------- \n\n        Due to the ability of the end-user to manually change the value, the session ID in the request should only be used by a servlet container (E.G. Tomcat or Jetty) \n        to see if the value matches the ID of an an existing session. If it does not, the user should be considered unauthenticated. Moreover, \n        this session ID should never be logged to prevent hijacking of active sessions. ",
+    "output": "This report lists all artifacts with JAVA methods ",
+    "rationale": "Developers may assume that inputs such as cookies, environment variables, and hidden form fields cannot be modified. \n        However, an attacker could change these inputs using customized clients or other attacks. This change might not be detected. \n        When security decisions such as authentication and authorization are made based on the values of these inputs, attackers can bypass the security of the software. \n        Without sufficient encryption, integrity checking, or other mechanism, any input that originates from an outsider cannot be trusted.",
+    "reference": "http://cwe.mitre.org/data/definitions/807 \n        OWASP 2017 Category A2 - Broken Authentication ",
+    "remediation": "Do NOT USE getRequestedSessionId.",
+    "remediationSample": "Do NOT USE getRequestedSessionId.",
+    "sample": "\n             if(isActiveSession(request.getRequestedSessionId()) ){ \n               ... \n              }   ",
+    "total": "Number of Java Artifact",
+    "businessCriteria": [
+        {
+            "id": 20140522,
+            "name": "Green Stuff",
+            "href": "AIP/business-criteria/20140522"
+        },
+        {
+            "id": 60016,
+            "name": "Security",
+            "href": "AIP/business-criteria/60016"
+        }
+    ],
+    "technicalCriteria": [
+        {
+            "id": 66064,
+            "name": "Secure Coding - Weak Security Features",
+            "weight": 7,
+            "critical": true
+        }
+    ],
+    "technologies": [
+        {
+            "id": 140029,
+            "name": "JEE",
+            "href": "AIP/technologies/140029"
+        }
+    ],
+    "qualityStandards": [
+        
+    ]
+}

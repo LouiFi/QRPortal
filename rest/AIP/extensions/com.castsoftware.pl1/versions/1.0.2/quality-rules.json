@@ -233,6 +233,7 @@
     {
         "id": 1001076,
         "name": "Avoid using letters as  I, J, K,.. for loops instead of using more meaningful variables (PL1)",
+        "href": null,
         "status": "deprecated",
         "critical": false
     },

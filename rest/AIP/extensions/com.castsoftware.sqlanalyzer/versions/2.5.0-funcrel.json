@@ -1,0 +1,15 @@
+{
+    "extension": {
+        "name": "com.castsoftware.sqlanalyzer",
+        "href": "AIP/extensions/com.castsoftware.sqlanalyzer"
+    },
+    "name": "2.5.0-funcrel",
+    "href": "AIP/extensions/com.castsoftware.sqlanalyzer/versions/2.5.0-funcrel",
+    "publishedTime": "2018-07-13T13:39:32.1974971+00:00",
+    "qualityModel": true,
+    "transactionsConfiguration": true,
+    "qualityRules": {
+        "name": "Quality Rules in numeric ID order",
+        "href": "AIP/extensions/com.castsoftware.sqlanalyzer/versions/2.5.0-funcrel/quality-rules"
+    }
+}

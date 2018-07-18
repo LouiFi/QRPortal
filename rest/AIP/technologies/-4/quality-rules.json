@@ -3,474 +3,553 @@
         "id": 5050,
         "name": "Avoid using HANDLE CONDITION",
         "href": "AIP/quality-rules/5050",
+        "status": null,
         "critical": false
     },
     {
         "id": 5052,
         "name": "Avoid using IGNORE CONDITION",
         "href": "AIP/quality-rules/5052",
+        "status": null,
         "critical": false
     },
     {
         "id": 5054,
         "name": "Avoid using HANDLE ABEND",
         "href": "AIP/quality-rules/5054",
+        "status": null,
         "critical": false
     },
     {
         "id": 5056,
         "name": "Avoid using SEARCH without the ALL addition",
         "href": "AIP/quality-rules/5056",
+        "status": null,
         "critical": false
     },
     {
         "id": 5058,
         "name": "Avoid using SORT",
         "href": "AIP/quality-rules/5058",
+        "status": null,
         "critical": false
     },
     {
         "id": 5060,
         "name": "Avoid using MERGE",
         "href": "AIP/quality-rules/5060",
+        "status": null,
         "critical": false
     },
     {
         "id": 5062,
         "name": "Avoid using ALTER",
         "href": "AIP/quality-rules/5062",
+        "status": null,
         "critical": true
     },
     {
         "id": 5064,
         "name": "Program naming convention - prefix control",
         "href": "AIP/quality-rules/5064",
+        "status": null,
         "critical": false
     },
     {
         "id": 5066,
         "name": "Avoid using PERFORM ... THROUGH | THRU",
         "href": "AIP/quality-rules/5066",
+        "status": null,
         "critical": false
     },
     {
         "id": 5068,
         "name": "Avoid STOP RUN (use GOBACK instead)",
         "href": "AIP/quality-rules/5068",
+        "status": null,
         "critical": false
     },
     {
         "id": 5070,
         "name": "Section naming convention - prefix control",
         "href": "AIP/quality-rules/5070",
+        "status": null,
         "critical": false
     },
     {
         "id": 5072,
         "name": "Avoid DISPLAY ... UPON CONSOLE",
         "href": "AIP/quality-rules/5072",
+        "status": null,
         "critical": false
     },
     {
         "id": 5074,
         "name": "Paragraph naming convention - prefix control",
         "href": "AIP/quality-rules/5074",
+        "status": null,
         "critical": false
     },
     {
         "id": 5080,
         "name": "Avoid Procedure Paragraphs that contains no statements",
         "href": "AIP/quality-rules/5080",
+        "status": null,
         "critical": false
     },
     {
         "id": 5082,
         "name": "Avoid Procedure Sections that contain no Paragraph",
         "href": "AIP/quality-rules/5082",
+        "status": null,
         "critical": false
     },
     {
         "id": 5086,
         "name": "Avoid using Sections in the PROCEDURE DIVISION (use Paragraphs only)",
         "href": "AIP/quality-rules/5086",
+        "status": null,
         "critical": false
     },
     {
         "id": 5090,
         "name": "Avoid using NEXT SENTENCE",
         "href": "AIP/quality-rules/5090",
+        "status": null,
         "critical": false
     },
     {
         "id": 5092,
         "name": "Include a WHEN OTHER clause when using EVALUATE",
         "href": "AIP/quality-rules/5092",
+        "status": null,
         "critical": false
     },
     {
         "id": 5094,
         "name": "Avoid using MOVE CORRESPONDING ... TO ...",
         "href": "AIP/quality-rules/5094",
+        "status": null,
         "critical": true
     },
     {
         "id": 5100,
         "name": "Avoid large Sections - too many Lines of Code",
         "href": "AIP/quality-rules/5100",
+        "status": null,
         "critical": false
     },
     {
         "id": 5104,
         "name": "Avoid large Programs - too many Sections",
         "href": "AIP/quality-rules/5104",
+        "status": null,
         "critical": false
     },
     {
         "id": 5108,
         "name": "Avoid Sections with a very low comment/code ratio",
         "href": "AIP/quality-rules/5108",
+        "status": null,
         "critical": false
     },
     {
         "id": 5110,
         "name": "Avoid Programs with a very low comment/code ratio",
         "href": "AIP/quality-rules/5110",
+        "status": null,
         "critical": false
     },
     {
         "id": 5112,
         "name": "Avoid undocumented Sections",
         "href": "AIP/quality-rules/5112",
+        "status": null,
         "critical": false
     },
     {
         "id": 5114,
         "name": "Avoid undocumented Programs",
         "href": "AIP/quality-rules/5114",
+        "status": null,
         "critical": false
     },
     {
         "id": 5116,
         "name": "Avoid undocumented Paragraphs",
         "href": "AIP/quality-rules/5116",
+        "status": null,
         "critical": false
     },
     {
         "id": 5138,
         "name": "Avoid Programs with lines of more than 80 characters",
         "href": "AIP/quality-rules/5138",
+        "status": null,
         "critical": false
     },
     {
         "id": 5144,
         "name": "Avoid using GOTO statement",
         "href": "AIP/quality-rules/5144",
+        "status": null,
         "critical": false
     },
     {
         "id": 7218,
         "name": "Avoid OPEN/CLOSE inside loops",
         "href": "AIP/quality-rules/7218",
+        "status": null,
         "critical": true
     },
     {
         "id": 7234,
         "name": "EVALUATE statements must be closed by END-EVALUATE",
         "href": "AIP/quality-rules/7234",
+        "status": null,
         "critical": false
     },
     {
         "id": 7236,
         "name": "Avoid recursive calls with PERFORM statements",
         "href": "AIP/quality-rules/7236",
+        "status": null,
         "critical": true
     },
     {
         "id": 7274,
         "name": "Avoid GOTO jumps out of PERFORM range",
         "href": "AIP/quality-rules/7274",
+        "status": null,
         "critical": false
     },
     {
         "id": 7288,
         "name": "Avoid cyclic calls with PERFORM statements",
         "href": "AIP/quality-rules/7288",
+        "status": null,
         "critical": false
     },
     {
         "id": 7290,
         "name": "Avoid unreferenced Sections and Paragraphs",
         "href": "AIP/quality-rules/7290",
+        "status": null,
         "critical": false
     },
     {
         "id": 7300,
         "name": "Avoid large Paragraphs - too many Lines of Code",
         "href": "AIP/quality-rules/7300",
+        "status": null,
         "critical": false
     },
     {
         "id": 7302,
         "name": "Avoid using Pointers",
         "href": "AIP/quality-rules/7302",
+        "status": null,
         "critical": false
     },
     {
         "id": 7304,
         "name": "IF statements must be closed by END-IF",
         "href": "AIP/quality-rules/7304",
+        "status": null,
         "critical": false
     },
     {
         "id": 7366,
         "name": "File descriptor block must be defined with 0 record",
         "href": "AIP/quality-rules/7366",
+        "status": null,
         "critical": true
     },
     {
         "id": 7368,
         "name": "When using binary data items (COMP), then use the SYNCHRONIZED clause",
         "href": "AIP/quality-rules/7368",
+        "status": null,
         "critical": false
     },
     {
         "id": 7370,
         "name": "Avoid using inline PERFORM with too many lines of code",
         "href": "AIP/quality-rules/7370",
+        "status": null,
         "critical": false
     },
     {
         "id": 7548,
         "name": "Never use incompatible statements with the CICS environment",
         "href": "AIP/quality-rules/7548",
+        "status": null,
         "critical": true
     },
     {
         "id": 7550,
         "name": "Avoid using nested programs",
         "href": "AIP/quality-rules/7550",
+        "status": null,
         "critical": false
     },
     {
         "id": 7552,
         "name": "Avoid incoherent file accesses in Cobol programs and DISP clauses in JCL",
         "href": "AIP/quality-rules/7552",
+        "status": null,
         "critical": false
     },
     {
         "id": 7554,
         "name": "Never access an IMS segment with an access mode not authorized in the PCB",
         "href": "AIP/quality-rules/7554",
+        "status": null,
         "critical": false
     },
     {
         "id": 7558,
         "name": "Avoid accessing data by using the position and length",
         "href": "AIP/quality-rules/7558",
+        "status": null,
         "critical": false
     },
     {
         "id": 7644,
         "name": "Avoid executing multiple OPEN statements",
         "href": "AIP/quality-rules/7644",
+        "status": null,
         "critical": false
     },
     {
         "id": 7688,
         "name": "Never truncate data in MOVE statements",
         "href": "AIP/quality-rules/7688",
+        "status": null,
         "critical": true
     },
     {
         "id": 7690,
         "name": "Avoid unchecked return code (SQLCODE) after EXEC SQL query",
         "href": "AIP/quality-rules/7690",
+        "status": null,
         "critical": true
     },
     {
         "id": 7692,
         "name": "Each opened file must be closed",
         "href": "AIP/quality-rules/7692",
+        "status": null,
         "critical": false
     },
     {
         "id": 7694,
         "name": "Avoid calling the same paragraph with PERFORM and GO TO statements",
         "href": "AIP/quality-rules/7694",
+        "status": null,
         "critical": false
     },
     {
         "id": 7696,
         "name": "A Copybook should not include other Copybooks",
         "href": "AIP/quality-rules/7696",
+        "status": null,
         "critical": false
     },
     {
         "id": 7698,
         "name": "Files should be declared with a FILE-STATUS",
         "href": "AIP/quality-rules/7698",
+        "status": null,
         "critical": false
     },
     {
         "id": 7718,
         "name": "Sections and paragraphs should be located after the first statement calling them",
         "href": "AIP/quality-rules/7718",
+        "status": null,
         "critical": false
     },
     {
         "id": 7754,
         "name": "Avoid using COMPUTE statement for elementary arithmetic operation",
         "href": "AIP/quality-rules/7754",
+        "status": null,
         "critical": false
     },
     {
         "id": 7756,
         "name": "Avoid using READ statement without AT END clause or INVALID KEY clause",
         "href": "AIP/quality-rules/7756",
+        "status": null,
         "critical": false
     },
     {
         "id": 7766,
         "name": "Avoid Artifacts with High Cyclomatic Complexity",
         "href": "AIP/quality-rules/7766",
+        "status": null,
         "critical": false
     },
     {
         "id": 7768,
         "name": "Avoid Artifacts with High Depth of Code",
         "href": "AIP/quality-rules/7768",
+        "status": null,
         "critical": false
     },
     {
         "id": 7772,
         "name": "Avoid Artifacts with High Essential Complexity",
         "href": "AIP/quality-rules/7772",
+        "status": null,
         "critical": false
     },
     {
         "id": 7774,
         "name": "Avoid Artifacts with High Integration Complexity",
         "href": "AIP/quality-rules/7774",
+        "status": null,
         "critical": false
     },
     {
         "id": 7776,
         "name": "Avoid Artifacts with High Fan-In",
         "href": "AIP/quality-rules/7776",
+        "status": null,
         "critical": false
     },
     {
         "id": 7778,
         "name": "Avoid Artifacts with High Fan-Out",
         "href": "AIP/quality-rules/7778",
+        "status": null,
         "critical": false
     },
     {
         "id": 7806,
         "name": "Avoid Artifacts with Group By",
         "href": "AIP/quality-rules/7806",
+        "status": null,
         "critical": false
     },
     {
         "id": 7808,
         "name": "Avoid Artifacts with SQL statement including subqueries",
         "href": "AIP/quality-rules/7808",
+        "status": null,
         "critical": false
     },
     {
         "id": 7810,
         "name": "Avoid Artifacts with a Complex SELECT Clause",
         "href": "AIP/quality-rules/7810",
+        "status": null,
         "critical": false
     },
     {
         "id": 7822,
         "name": "Avoid Artifacts with queries on more than 4 Tables",
         "href": "AIP/quality-rules/7822",
+        "status": null,
         "critical": false
     },
     {
         "id": 7828,
         "name": "Avoid Artifacts with High RAW SQL Complexity",
         "href": "AIP/quality-rules/7828",
+        "status": null,
         "critical": false
     },
     {
         "id": 7842,
         "name": "Avoid large Artifacts - too many Lines of Code",
         "href": "AIP/quality-rules/7842",
+        "status": null,
         "critical": false
     },
     {
         "id": 7902,
         "name": "Avoid SQL queries that no index can support",
         "href": "AIP/quality-rules/7902",
+        "status": null,
         "critical": false
     },
     {
         "id": 7904,
         "name": "Avoid SQL queries on XXL tables that no index can support",
         "href": "AIP/quality-rules/7904",
+        "status": null,
         "critical": true
     },
     {
         "id": 8030,
         "name": "Check alphanumeric data before moving it into numeric data",
         "href": "AIP/quality-rules/8030",
+        "status": null,
         "critical": false
     },
     {
         "id": 8034,
         "name": "Variables defined in Working-Storage section must be initialized before to be read",
         "href": "AIP/quality-rules/8034",
+        "status": null,
         "critical": false
     },
     {
         "id": 8140,
         "name": "Subscripts and iterators must be defined with BINARY usage",
         "href": "AIP/quality-rules/8140",
+        "status": null,
         "critical": false
     },
     {
         "id": 8142,
         "name": "Prefer using indexes instead of subscripts",
         "href": "AIP/quality-rules/8142",
+        "status": null,
         "critical": false
     },
     {
         "id": 8144,
         "name": "Avoid using INITIALIZE statement on data structures",
         "href": "AIP/quality-rules/8144",
+        "status": null,
         "critical": false
     },
     {
         "id": 8146,
         "name": "Avoid calling programs statically",
         "href": "AIP/quality-rules/8146",
+        "status": null,
         "critical": false
     },
     {
         "id": 8160,
         "name": "Check PCB status code after DLI queries",
         "href": "AIP/quality-rules/8160",
+        "status": null,
         "critical": false
     },
     {
         "id": 8162,
         "name": "CICS return code should be checked",
         "href": "AIP/quality-rules/8162",
+        "status": null,
         "critical": false
     },
     {
         "id": 8236,
         "name": "Avoid using hard-coded values",
         "href": "AIP/quality-rules/8236",
+        "status": null,
         "critical": false
     },
     {
         "id": 1101036,
         "name": "Use ANSI standard operators in SQL WHERE clauses",
         "href": "AIP/quality-rules/1101036",
+        "status": null,
         "critical": false
     }
 ]

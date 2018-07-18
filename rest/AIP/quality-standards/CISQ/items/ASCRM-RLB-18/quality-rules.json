@@ -3,18 +3,21 @@
         "id": 8102,
         "name": "Avoid hardcoded network resource names",
         "href": "AIP/quality-rules/8102",
+        "status": null,
         "critical": false
     },
     {
         "id": 1020070,
         "name": "Avoid hardcoded network resource names in Javascript",
         "href": "AIP/quality-rules/1020070",
+        "status": null,
         "critical": false
     },
     {
         "id": 1021030,
         "name": "Avoid hardcoded network resource names",
         "href": "AIP/quality-rules/1021030",
+        "status": null,
         "critical": false
     }
 ]

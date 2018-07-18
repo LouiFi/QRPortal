@@ -3,876 +3,1022 @@
         "id": 1002000,
         "name": "Do not use EQUIVALENCE in Subroutines (FORTRAN)",
         "href": "AIP/quality-rules/1002000",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002002,
         "name": "Do not use EQUIVALENCE in Functions  (FORTRAN)",
         "href": "AIP/quality-rules/1002002",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002004,
         "name": "Do not use EQUIVALENCE in Programs  (FORTRAN)",
         "href": "AIP/quality-rules/1002004",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002006,
         "name": "Do not use EQUIVALENCE in Modules  (FORTRAN)",
         "href": "AIP/quality-rules/1002006",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002008,
         "name": "Do not use COMMON blocks in Fortran-90 in Programs  (FORTRAN)",
         "href": "AIP/quality-rules/1002008",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002010,
         "name": "Do not use COMMON blocks in Fortran-90 in Subroutines  (FORTRAN)",
         "href": "AIP/quality-rules/1002010",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002012,
         "name": "Do not use COMMON blocks in Fortran-90 in Functions  (FORTRAN)",
         "href": "AIP/quality-rules/1002012",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002014,
         "name": "Do not use COMMON blocks in Fortran-90 in Modules  (FORTRAN)",
         "href": "AIP/quality-rules/1002014",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002016,
         "name": "Process the default case in the instruction SELECT CASE in Fortran-90 Programs  (FORTRAN)",
         "href": "AIP/quality-rules/1002016",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002018,
         "name": "Process the default case in the instruction SELECT CASE in Fortran-90 Subroutines  (FORTRAN)",
         "href": "AIP/quality-rules/1002018",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002020,
         "name": "Process the default case in the instruction SELECT CASE in Fortran-90 Functions  (FORTRAN)",
         "href": "AIP/quality-rules/1002020",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002022,
         "name": "Process the default case in the instruction SELECT CASE in Fortran-90 Modules  (FORTRAN)",
         "href": "AIP/quality-rules/1002022",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002024,
         "name": "Avoid using too many GOTO statement in Programs  (FORTRAN)",
         "href": "AIP/quality-rules/1002024",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002026,
         "name": "Avoid using too many GOTO statement in Subroutines  (FORTRAN)",
         "href": "AIP/quality-rules/1002026",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002028,
         "name": "Avoid using too many GOTO statement in Functions  (FORTRAN)",
         "href": "AIP/quality-rules/1002028",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002030,
         "name": "Avoid using too many GOTO statement in Modules  (FORTRAN)",
         "href": "AIP/quality-rules/1002030",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002032,
         "name": "Any Data must be declared, use IMPLICIT NONE in Programs  (FORTRAN)",
         "href": "AIP/quality-rules/1002032",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002034,
         "name": "Any Data must be declared, use IMPLICIT NONE in Subroutines  (FORTRAN)",
         "href": "AIP/quality-rules/1002034",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002036,
         "name": "Any Data must be declared, use IMPLICIT NONE in Functions  (FORTRAN)",
         "href": "AIP/quality-rules/1002036",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002038,
         "name": "Any Data must be declared, use IMPLICIT NONE in Modules  (FORTRAN)",
         "href": "AIP/quality-rules/1002038",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002040,
         "name": "Avoid using too many CONTINUE statements in Fortran-77 Programs  (FORTRAN)",
         "href": "AIP/quality-rules/1002040",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002042,
         "name": "Avoid using too many CONTINUE statements in Fortran-77 Subroutines  (FORTRAN)",
         "href": "AIP/quality-rules/1002042",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002044,
         "name": "Avoid using too many CONTINUE statements in Fortran-77 Functions  (FORTRAN)",
         "href": "AIP/quality-rules/1002044",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002046,
         "name": "Avoid using too many CONTINUE statements in Fortran-77 Modules  (FORTRAN)",
         "href": "AIP/quality-rules/1002046",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002048,
         "name": "Avoid using too many CYCLE or/and EXIT statements in Fortran-90 Program  (FORTRAN)",
         "href": "AIP/quality-rules/1002048",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002050,
         "name": "Avoid using too many CYCLE or/and EXIT statements in Fortran-90 Subroutines  (FORTRAN)",
         "href": "AIP/quality-rules/1002050",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002052,
         "name": "Avoid using too many CYCLE or/and EXIT statements in Fortran-90 Functions  (FORTRAN)",
         "href": "AIP/quality-rules/1002052",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002054,
         "name": "Avoid using too many CYCLE or/and EXIT statements in Fortran-90 Modules  (FORTRAN)",
         "href": "AIP/quality-rules/1002054",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002056,
         "name": "Avoid Programs with High Cyclomatic Complexity  (FORTRAN)",
         "href": "AIP/quality-rules/1002056",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002058,
         "name": "Avoid Subroutines with High Cyclomatic Complexity  (FORTRAN)",
         "href": "AIP/quality-rules/1002058",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002060,
         "name": "Avoid Functions with High Cyclomatic Complexity  (FORTRAN)",
         "href": "AIP/quality-rules/1002060",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002062,
         "name": "Avoid Modules with High Cyclomatic Complexity  (FORTRAN)",
         "href": "AIP/quality-rules/1002062",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002064,
         "name": "Avoid too many Exit statements in Programs  (FORTRAN)",
         "href": "AIP/quality-rules/1002064",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002066,
         "name": "Avoid too many Exit statements in Subroutines  (FORTRAN)",
         "href": "AIP/quality-rules/1002066",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002068,
         "name": "Avoid too many Exit statements in Functions  (FORTRAN)",
         "href": "AIP/quality-rules/1002068",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002070,
         "name": "Avoid too many Exit statements in Modules  (FORTRAN)",
         "href": "AIP/quality-rules/1002070",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002072,
         "name": "Avoid too many Entry statements in Programs  (FORTRAN)",
         "href": "AIP/quality-rules/1002072",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002074,
         "name": "Avoid too many Entry statements in Subroutines  (FORTRAN)",
         "href": "AIP/quality-rules/1002074",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002076,
         "name": "Avoid too many Entry statements in Functions  (FORTRAN)",
         "href": "AIP/quality-rules/1002076",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002078,
         "name": "Avoid too many Entry statements in Modules  (FORTRAN)",
         "href": "AIP/quality-rules/1002078",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002080,
         "name": "Avoid too many Exit and Entry points in Programs  (FORTRAN)",
         "href": "AIP/quality-rules/1002080",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002082,
         "name": "Avoid too many Exit and Entry points in Subroutines  (FORTRAN)",
         "href": "AIP/quality-rules/1002082",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002084,
         "name": "Avoid too many Exit and Entry points in Functions  (FORTRAN)",
         "href": "AIP/quality-rules/1002084",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002086,
         "name": "Avoid too many Exit and Entry points in Modules  (FORTRAN)",
         "href": "AIP/quality-rules/1002086",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002088,
         "name": "Avoid too many Statements (STMT) in a Subroutine  (FORTRAN)",
         "href": "AIP/quality-rules/1002088",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002090,
         "name": "Avoid too many Statements (STMT) in a Program  (FORTRAN)",
         "href": "AIP/quality-rules/1002090",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002092,
         "name": "Avoid too many Statements (STMT) in a Function  (FORTRAN)",
         "href": "AIP/quality-rules/1002092",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002094,
         "name": "Avoid too many Statements (STMT) in a Module  (FORTRAN)",
         "href": "AIP/quality-rules/1002094",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002096,
         "name": "Avoid using global SAVE in Fortran-90 Subroutines  (FORTRAN)",
         "href": "AIP/quality-rules/1002096",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002098,
         "name": "Avoid using global SAVE in Fortran-90 Functions  (FORTRAN)",
         "href": "AIP/quality-rules/1002098",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002100,
         "name": "Avoid using global SAVE in Fortran-90 Modules  (FORTRAN)",
         "href": "AIP/quality-rules/1002100",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002102,
         "name": "Limit the use of the attribute ALLOCATE in Fortran-90 Programs  (FORTRAN)",
         "href": "AIP/quality-rules/1002102",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002104,
         "name": "Limit the use of the attribute ALLOCATE in Fortran-90 Subroutines  (FORTRAN)",
         "href": "AIP/quality-rules/1002104",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002106,
         "name": "Limit the use of the attribute ALLOCATE in Fortran-90 Functions  (FORTRAN)",
         "href": "AIP/quality-rules/1002106",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002108,
         "name": "Limit the use of the attribute ALLOCATE in Fortran-90 Modules  (FORTRAN)",
         "href": "AIP/quality-rules/1002108",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002110,
         "name": "Avoid Programs with High Average size of Statements (AVGS)  (FORTRAN)",
         "href": "AIP/quality-rules/1002110",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002112,
         "name": "Avoid Subroutines with High Average size of Statements (AVGS)  (FORTRAN)",
         "href": "AIP/quality-rules/1002112",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002114,
         "name": "Avoid Functions with High Average size of Statements (AVGS)  (FORTRAN)",
         "href": "AIP/quality-rules/1002114",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002116,
         "name": "Avoid Modules with High Average size of Statements (AVGS)  (FORTRAN)",
         "href": "AIP/quality-rules/1002116",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002118,
         "name": "Avoid Programs with High Program Length (PR_LGTH)  (FORTRAN)",
         "href": "AIP/quality-rules/1002118",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002120,
         "name": "Avoid Subroutines with High Program Length (PR_LGTH)  (FORTRAN)",
         "href": "AIP/quality-rules/1002120",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002122,
         "name": "Avoid Functions with High Program Length (PR_LGTH)  (FORTRAN)",
         "href": "AIP/quality-rules/1002122",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002124,
         "name": "Avoid Modules with High Program Length (PR_LGTH)  (FORTRAN)",
         "href": "AIP/quality-rules/1002124",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002126,
         "name": "Avoid Programs with High Vocabulary Frequency (VOCF)  (FORTRAN)",
         "href": "AIP/quality-rules/1002126",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002128,
         "name": "Avoid Subroutines with High Vocabulary Frequency (VOCF)  (FORTRAN)",
         "href": "AIP/quality-rules/1002128",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002130,
         "name": "Avoid Functions with High Vocabulary Frequency (VOCF)  (FORTRAN)",
         "href": "AIP/quality-rules/1002130",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002132,
         "name": "Avoid Modules with High Vocabulary Frequency (VOCF)  (FORTRAN)",
         "href": "AIP/quality-rules/1002132",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002134,
         "name": "Avoid Programs with more then 1 statement per line  (FORTRAN)",
         "href": "AIP/quality-rules/1002134",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002136,
         "name": "Avoid Subroutines with more then 1 statement per line  (FORTRAN)",
         "href": "AIP/quality-rules/1002136",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002138,
         "name": "Avoid Functions with more then 1 statement per line  (FORTRAN)",
         "href": "AIP/quality-rules/1002138",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002140,
         "name": "Avoid Modules with more then 1 statement per line  (FORTRAN)",
         "href": "AIP/quality-rules/1002140",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002142,
         "name": "Unavoid un-deallocated variables or arrays in Fortran-90 Modules  (FORTRAN)",
         "href": "AIP/quality-rules/1002142",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002144,
         "name": "Unavoid un-deallocated variables or arrays in Fortran-90 Programs  (FORTRAN)",
         "href": "AIP/quality-rules/1002144",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002146,
         "name": "Unavoid un-deallocated variables or arrays in Fortran-90 Subroutines  (FORTRAN)",
         "href": "AIP/quality-rules/1002146",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002148,
         "name": "Unavoid un-deallocated variables or arrays in Fortran-90 Functions  (FORTRAN)",
         "href": "AIP/quality-rules/1002148",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002150,
         "name": "Avoid Programs with a high Fan-in  (FORTRAN)",
         "href": "AIP/quality-rules/1002150",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002152,
         "name": "Avoid Subroutines with a high Fan-in  (FORTRAN)",
         "href": "AIP/quality-rules/1002152",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002154,
         "name": "Avoid Subroutines with a high Fan-out (FORTRAN)",
         "href": "AIP/quality-rules/1002154",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002156,
         "name": "Avoid Functions with a high Fan-in (FORTRAN)",
         "href": "AIP/quality-rules/1002156",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002158,
         "name": "Avoid Functions with a high Fan-out (FORTRAN)",
         "href": "AIP/quality-rules/1002158",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002160,
         "name": "Avoid undocumented Programs (FORTRAN)",
         "href": "AIP/quality-rules/1002160",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002162,
         "name": "Avoid undocumented Subroutines (FORTRAN)",
         "href": "AIP/quality-rules/1002162",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002164,
         "name": "Avoid undocumented Functions (FORTRAN)",
         "href": "AIP/quality-rules/1002164",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002166,
         "name": "Avoid undocumented Modules (FORTRAN)",
         "href": "AIP/quality-rules/1002166",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002168,
         "name": "Avoid Programs with a low comment/code ratio (FORTRAN)",
         "href": "AIP/quality-rules/1002168",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002170,
         "name": "Avoid Subroutines with a low comment/code ratio",
         "href": "AIP/quality-rules/1002170",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002172,
         "name": "Avoid Functions with a low comment/code ratio (FORTRAN)",
         "href": "AIP/quality-rules/1002172",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002174,
         "name": "Avoid Modules with a low comment/code ratio (FORTRAN)",
         "href": "AIP/quality-rules/1002174",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002176,
         "name": "Avoid unreferenced Programs (FORTRAN)",
         "href": "AIP/quality-rules/1002176",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002178,
         "name": "Avoid unreferenced Subroutines (FORTRAN)",
         "href": "AIP/quality-rules/1002178",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002180,
         "name": "Avoid unreferenced Functions (FORTRAN)",
         "href": "AIP/quality-rules/1002180",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002182,
         "name": "Avoid unreferenced Modules (FORTRAN)",
         "href": "AIP/quality-rules/1002182",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002184,
         "name": "Avoid Programs with a low number of Comment Blocks (FORTRAN)",
         "href": "AIP/quality-rules/1002184",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002186,
         "name": "Avoid Subroutines with a low number of Comment Blocks (FORTRAN)",
         "href": "AIP/quality-rules/1002186",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002188,
         "name": "Avoid Functions with a low number of Comment Blocks (FORTRAN)",
         "href": "AIP/quality-rules/1002188",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002190,
         "name": "Avoid Modules with a low number of Comment Blocks",
         "href": "AIP/quality-rules/1002190",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002192,
         "name": "Avoid Programs with a low Comments Frequency",
         "href": "AIP/quality-rules/1002192",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002194,
         "name": "Avoid Subroutines with a low Comments Frequency (FORTRAN)",
         "href": "AIP/quality-rules/1002194",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002196,
         "name": "Avoid Functions with a low Comments Frequency (FORTRAN)",
         "href": "AIP/quality-rules/1002196",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002198,
         "name": "Avoid Modules with a low Comments Frequency (FORTRAN)",
         "href": "AIP/quality-rules/1002198",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002200,
         "name": "Number of continuation lines can't be greater then XX in Fortran-90 Programs",
         "href": "AIP/quality-rules/1002200",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002202,
         "name": "Number of continuation lines can't be greater then XX in Fortran-90 Subroutines (FORTRAN)",
         "href": "AIP/quality-rules/1002202",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002204,
         "name": "Number of continuation lines can't be greater then XX in Fortran-90 Modules",
         "href": "AIP/quality-rules/1002204",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002206,
         "name": "Number of continuation lines can't be greater then XX in Fortran-90 Functions (FORTRAN)",
         "href": "AIP/quality-rules/1002206",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002208,
         "name": "All Read and Write statements in Programs must use the return code IOSTAT (FORTRAN)",
         "href": "AIP/quality-rules/1002208",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002210,
         "name": "All Read and Write statements in Subroutines must use the return code IOSTAT (FORTRAN)",
         "href": "AIP/quality-rules/1002210",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002212,
         "name": "All Read and Write statements in Functions must use the return code IOSTAT (FORTRAN)",
         "href": "AIP/quality-rules/1002212",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002214,
         "name": "All Read and Write statements in Modules must use the return code IOSTAT (FORTRAN)",
         "href": "AIP/quality-rules/1002214",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002216,
         "name": "Avoid Programs with a High number of Paths (FORTRAN)",
         "href": "AIP/quality-rules/1002216",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002218,
         "name": "Avoid Subroutines with a High number of Paths (FORTRAN)",
         "href": "AIP/quality-rules/1002218",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002220,
         "name": "Avoid Functions with a High number of Paths (FORTRAN)",
         "href": "AIP/quality-rules/1002220",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002222,
         "name": "Avoid Modules with a High number of Paths (FORTRAN)",
         "href": "AIP/quality-rules/1002222",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002224,
         "name": "Avoid high depth of code in Programs (FORTRAN)",
         "href": "AIP/quality-rules/1002224",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002226,
         "name": "Avoid high depth of code in Subroutines (FORTRAN)",
         "href": "AIP/quality-rules/1002226",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002228,
         "name": "Avoid high depth of code in Functions (FORTRAN)",
         "href": "AIP/quality-rules/1002228",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002230,
         "name": "Avoid using the loop DO.. label.. CONTINUE in F90 Programs (FORTRAN)",
         "href": "AIP/quality-rules/1002230",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002232,
         "name": "Avoid using the loop DO.. label.. CONTINUE in F90 Subroutines (FORTRAN)",
         "href": "AIP/quality-rules/1002232",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002234,
         "name": "Avoid using the loop DO.. label.. CONTINUE in F90 Functions (FORTRAN)",
         "href": "AIP/quality-rules/1002234",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002236,
         "name": "Avoid using the loop DO.. label.. CONTINUE in F90 Modules (FORTRAN)",
         "href": "AIP/quality-rules/1002236",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002238,
         "name": "Avoid untested Return Code variables after Read or Write in Programs (FORTRAN)",
         "href": "AIP/quality-rules/1002238",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002240,
         "name": "Avoid untested Return Code variables after Read or Write in Subroutines (FORTRAN)",
         "href": "AIP/quality-rules/1002240",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002242,
         "name": "Avoid untested Return Code variables after Read or Write in Functions (FORTRAN)",
         "href": "AIP/quality-rules/1002242",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002244,
         "name": "Avoid untested Return Code variables after Read or Write in Modules (FORTRAN)",
         "href": "AIP/quality-rules/1002244",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002246,
         "name": "Avoid untested Return Code variables after ALLOCATE in Programs (FORTRAN)",
         "href": "AIP/quality-rules/1002246",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002248,
         "name": "Avoid untested Return Code variables after ALLOCATE in Subroutines (FORTRAN)",
         "href": "AIP/quality-rules/1002248",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002250,
         "name": "Avoid untested Return Code variables after ALLOCATE in Functions (FORTRAN)",
         "href": "AIP/quality-rules/1002250",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002252,
         "name": "Avoid untested Return Code variables after ALLOCATE in Modules (FORTRAN)",
         "href": "AIP/quality-rules/1002252",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002254,
         "name": "Avoid using free format files in Fortran-77 (FORTRAN)",
         "href": "AIP/quality-rules/1002254",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002256,
         "name": "Logical operators should be enclosed in proper parenthesis in Programs (FORTRAN)",
         "href": "AIP/quality-rules/1002256",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002258,
         "name": "Logical operators should be enclosed in proper parenthesis in Subroutines (FORTRAN)",
         "href": "AIP/quality-rules/1002258",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002260,
         "name": "Logical operators should be enclosed in proper parenthesis in Functions (FORTRAN)",
         "href": "AIP/quality-rules/1002260",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002262,
         "name": "Logical operators should be enclosed in proper parenthesis in Modules (FORTRAN)",
         "href": "AIP/quality-rules/1002262",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002264,
         "name": "Avoid Programs with a high Fan-out (FORTRAN)",
         "href": "AIP/quality-rules/1002264",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002266,
         "name": "Avoid high level of Nesting in Programs (FORTRAN)",
         "href": "AIP/quality-rules/1002266",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002268,
         "name": "Avoid high level of Nesting in Functions (FORTRAN)",
         "href": "AIP/quality-rules/1002268",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002270,
         "name": "Avoid high level of Nesting in Subroutines (FORTRAN)",
         "href": "AIP/quality-rules/1002270",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002278,
         "name": "Avoid using fixed format files in Fortran-90 (FORTRAN)",
         "href": "AIP/quality-rules/1002278",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002280,
         "name": "Avoid using global SAVE in Fortran-90 Programs (FORTRAN)",
         "href": "AIP/quality-rules/1002280",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002282,
         "name": "All ALLOCATE statements in Fortran-90 Programs must use the return code STAT (FORTRAN)",
         "href": "AIP/quality-rules/1002282",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002284,
         "name": "All ALLOCATE statements in Fortran-90 Subroutines must use the return code STAT (FORTRAN)",
         "href": "AIP/quality-rules/1002284",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002286,
         "name": "All ALLOCATE statements in Fortran-90 Functions must use the return code STAT (FORTRAN)",
         "href": "AIP/quality-rules/1002286",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002288,
         "name": "All ALLOCATE statements in Fortran-90 Modules must use the return code STAT (FORTRAN)",
         "href": "AIP/quality-rules/1002288",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002290,
         "name": "Avoid using complex Allocates in Fortran 90 Programs (FORTRAN)",
         "href": "AIP/quality-rules/1002290",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002292,
         "name": "Avoid using complex Allocates in Fortran 90 Subroutines (FORTRAN)",
         "href": "AIP/quality-rules/1002292",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002294,
         "name": "Avoid using complex Allocates in Fortran 90 Function  (FORTRAN)",
         "href": "AIP/quality-rules/1002294",
+        "status": null,
         "critical": false
     },
     {
         "id": 1002296,
         "name": "Avoid using complex Allocates in Fortran 90 Modules (FORTRAN)",
         "href": "AIP/quality-rules/1002296",
+        "status": null,
         "critical": false
     }
 ]

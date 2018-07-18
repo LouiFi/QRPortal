@@ -3,42 +3,49 @@
         "id": 1020018,
         "name": "Avoid using Web SQL databases",
         "href": "AIP/quality-rules/1020018",
+        "status": null,
         "critical": true
     },
     {
         "id": 1020060,
         "name": "Avoid using console.log()",
         "href": "AIP/quality-rules/1020060",
+        "status": null,
         "critical": false
     },
     {
         "id": 1020722,
         "name": "Ensure to use secure HTTPS protocol",
         "href": "AIP/quality-rules/1020722",
+        "status": null,
         "critical": true
     },
     {
         "id": 1020728,
         "name": "Avoid creating cookie without setting httpOnly option",
         "href": "AIP/quality-rules/1020728",
+        "status": null,
         "critical": true
     },
     {
         "id": 1020950,
         "name": "Avoid providing password in Web Service URL",
         "href": "AIP/quality-rules/1020950",
+        "status": null,
         "critical": true
     },
     {
         "id": 1021016,
         "name": "Avoid using MD5 hashes to hash passwords or to encrypt data",
         "href": "AIP/quality-rules/1021016",
+        "status": null,
         "critical": true
     },
     {
         "id": 1022002,
         "name": "Avoid using RSA Cryptographic algorithms without OAEP (Optimal Asymmetric Encryption Padding)",
         "href": "AIP/quality-rules/1022002",
+        "status": null,
         "critical": true
     }
 ]

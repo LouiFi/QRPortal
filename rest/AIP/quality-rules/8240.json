@@ -1,15 +1,17 @@
 {
     "id": 8240,
-    "name": "CWE-614: Sensitive Cookie in HTTPS Session Without 'Secure' Attribute",
+    "name": "CWE-614: Sensitive cookie in HTTPS session without 'Secure' attribute",
     "href": "AIP/quality-rules/8240",
     "critical": true,
     "associatedValueName": "Call to javax.servlet.http.HttpServletResponse.addCookie passing a cookie without secure attribute",
-    "description": "The Secure attribute for sensitive cookies in HTTPS sessions is not set, which could cause the user agent to send those cookies in plaintext over an HTTP session.",
+    "description": "The Secure attribute for sensitive cookies in HTTPS sessions is not set, which could cause the user agent to send those cookies in plaintext over an HTTP session. \nUsing the method \"setSecure\" ensures that the session cookie is not visible to an attacker like \n\nThis rule is compliant with \nOWASP 2013 and 2017 A6 - Sensitive Data Exposure. \nCWE-614 - Sensitive cookie in HTTPS session without 'Secure' attribute",
     "output": "List all methods full name that add cookie to a response object without setting the 'secured' attribute",
-    "rationale": "The Secure attribute for sensitive cookies in HTTPS sessions is not set, which could cause the user agent to send those cookies in plaintext over an HTTP session.",
-    "reference": "CWE-614: Sensitive Cookie in HTTPS Session Without 'Secure' Attribute\nhttps://cwe.mitre.org/data/definitions/614.html",
-    "remediation": "Set the secured attribute to cookies.",
-    "total": "Total number of methods calling javax.servlet.http.HttpServletResponse.addCookie.",
+    "rationale": "The secure flag is an option that can be set by the application server when sending a new cookie to the user within an HTTP Response. The purpose of the secure flag is to prevent cookies from being observed by unauthorized parties due to the transmission of a the cookie in clear text. \nTo accomplish this goal, browsers which support the secure flag will only send cookies with the secure flag when the request is going to a HTTPS page. Said in another way, the browser will not send a cookie with the secure flag set over an unencrypted HTTP request. \nBy setting the secure flag, the browser will prevent the transmission of a cookie over an unencrypted channel.",
+    "reference": "https://cwe.mitre.org/data/definitions/614.html \nhttps://www.owasp.org/index.php/Top_10_2013-A6-Sensitive_Data_Exposure \nhttps://www.owasp.org/index.php/Top_10-2017_A3-Sensitive_Data_Exposure",
+    "remediation": "Always set the secure attribute when the cookie should sent via HTTPS only",
+    "remediationSample": "Cookie c = new Cookie(ACCOUNT_ID, acctID); \nc.setSecure(true); // Compliant Code with secure cookies \nresponse.addCookie(c);",
+    "sample": "Cookie c = new Cookie(ACCOUNT_ID, acctID); // Violation - cookie is not secure \nresponse.addCookie(c);",
+    "total": "Methods calling javax.servlet.http.HttpServletResponse.addCookie.",
     "businessCriteria": [
         {
             "id": 66031,
@@ -32,26 +34,16 @@
     ],
     "technologies": [
         {
-            "id": 138383,
-            "name": "C#",
-            "href": "AIP/technologies/138383"
-        },
-        {
             "id": 140029,
             "name": "JEE",
             "href": "AIP/technologies/140029"
-        },
-        {
-            "id": 138385,
-            "name": "VB.NET",
-            "href": "AIP/technologies/138385"
         }
     ],
     "qualityStandards": [
         {
             "standard": "AIP",
             "id": "AIP-GDPR",
-            "name": "Data Safety",
+            "name": "General Data Protection Regulation",
             "url": null,
             "description": null
         },

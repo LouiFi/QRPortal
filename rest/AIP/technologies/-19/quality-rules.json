@@ -3,174 +3,203 @@
         "id": 3058,
         "name": "Use of style sheets",
         "href": "AIP/quality-rules/3058",
+        "status": null,
         "critical": false
     },
     {
         "id": 3060,
         "name": "Pages with less than 3 levels of inclusion",
         "href": "AIP/quality-rules/3060",
+        "status": null,
         "critical": false
     },
     {
         "id": 3062,
         "name": "Use of error handling page",
         "href": "AIP/quality-rules/3062",
+        "status": null,
         "critical": false
     },
     {
         "id": 3064,
         "name": "Avoid use of Session variables from Session_OnEnd",
         "href": "AIP/quality-rules/3064",
+        "status": null,
         "critical": false
     },
     {
         "id": 3066,
         "name": "Use of Web Classes",
         "href": "AIP/quality-rules/3066",
+        "status": null,
         "critical": false
     },
     {
         "id": 3070,
         "name": "Avoid non standard file extensions",
         "href": "AIP/quality-rules/3070",
+        "status": null,
         "critical": false
     },
     {
         "id": 3072,
         "name": "Consistent File full name and directory structure",
         "href": "AIP/quality-rules/3072",
+        "status": null,
         "critical": false
     },
     {
         "id": 3074,
         "name": "Index pages and global.asa must be located in the root directory",
         "href": "AIP/quality-rules/3074",
+        "status": null,
         "critical": false
     },
     {
         "id": 3076,
         "name": "Avoid using more than one scripting language in one page",
         "href": "AIP/quality-rules/3076",
+        "status": null,
         "critical": false
     },
     {
         "id": 3078,
         "name": "Avoid unreferenced code",
         "href": "AIP/quality-rules/3078",
+        "status": null,
         "critical": false
     },
     {
         "id": 3080,
         "name": "Avoid undocumented Pages",
         "href": "AIP/quality-rules/3080",
+        "status": null,
         "critical": false
     },
     {
         "id": 3082,
         "name": "Avoid ASP pages having a very low Comment/Code ratio",
         "href": "AIP/quality-rules/3082",
+        "status": null,
         "critical": false
     },
     {
         "id": 3088,
         "name": "Avoid large Page files",
         "href": "AIP/quality-rules/3088",
+        "status": null,
         "critical": false
     },
     {
         "id": 3102,
         "name": "Avoid using Transactions in an ASP Page",
         "href": "AIP/quality-rules/3102",
+        "status": null,
         "critical": false
     },
     {
         "id": 7448,
         "name": "Always validate user input with Request variables",
         "href": "AIP/quality-rules/7448",
+        "status": null,
         "critical": true
     },
     {
         "id": 7766,
         "name": "Avoid Artifacts with High Cyclomatic Complexity",
         "href": "AIP/quality-rules/7766",
+        "status": null,
         "critical": false
     },
     {
         "id": 7768,
         "name": "Avoid Artifacts with High Depth of Code",
         "href": "AIP/quality-rules/7768",
+        "status": null,
         "critical": false
     },
     {
         "id": 7770,
         "name": "Avoid Artifacts with too many parameters",
         "href": "AIP/quality-rules/7770",
+        "status": null,
         "critical": false
     },
     {
         "id": 7772,
         "name": "Avoid Artifacts with High Essential Complexity",
         "href": "AIP/quality-rules/7772",
+        "status": null,
         "critical": false
     },
     {
         "id": 7774,
         "name": "Avoid Artifacts with High Integration Complexity",
         "href": "AIP/quality-rules/7774",
+        "status": null,
         "critical": false
     },
     {
         "id": 7776,
         "name": "Avoid Artifacts with High Fan-In",
         "href": "AIP/quality-rules/7776",
+        "status": null,
         "critical": false
     },
     {
         "id": 7778,
         "name": "Avoid Artifacts with High Fan-Out",
         "href": "AIP/quality-rules/7778",
+        "status": null,
         "critical": false
     },
     {
         "id": 7782,
         "name": "Avoid empty finally blocks",
         "href": "AIP/quality-rules/7782",
+        "status": null,
         "critical": false
     },
     {
         "id": 7784,
         "name": "Avoid Artifacts with lines longer than X characters",
         "href": "AIP/quality-rules/7784",
+        "status": null,
         "critical": false
     },
     {
         "id": 7818,
         "name": "Avoid Functions having a very low Comment/Code ratio",
         "href": "AIP/quality-rules/7818",
+        "status": null,
         "critical": false
     },
     {
         "id": 7836,
         "name": "Avoid undocumented Functions",
         "href": "AIP/quality-rules/7836",
+        "status": null,
         "critical": false
     },
     {
         "id": 7860,
         "name": "Avoid unreferenced Functions",
         "href": "AIP/quality-rules/7860",
+        "status": null,
         "critical": false
     },
     {
         "id": 7914,
         "name": "Avoid direct access to Database Tables",
         "href": "AIP/quality-rules/7914",
+        "status": null,
         "critical": false
     },
     {
         "id": 7916,
         "name": "Avoid direct use of Database objects (JSP/ASP)",
         "href": "AIP/quality-rules/7916",
+        "status": null,
         "critical": false
     }
 ]

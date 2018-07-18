@@ -3,6 +3,7 @@
         "id": 8100,
         "name": "Blocking synchronous calls should have associated timeouts",
         "href": "AIP/quality-rules/8100",
+        "status": null,
         "critical": false
     }
 ]

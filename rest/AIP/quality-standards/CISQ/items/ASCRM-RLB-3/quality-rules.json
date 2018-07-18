@@ -3,6 +3,7 @@
         "id": 8402,
         "name": "All types of a serializable class must be serializable",
         "href": "AIP/quality-rules/8402",
+        "status": null,
         "critical": false
     }
 ]

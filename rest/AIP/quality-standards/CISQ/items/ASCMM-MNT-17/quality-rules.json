@@ -3,6 +3,7 @@
         "id": 7802,
         "name": "Avoid Classes with a High Depth of Inheritance Tree",
         "href": "AIP/quality-rules/7802",
+        "status": null,
         "critical": false
     }
 ]

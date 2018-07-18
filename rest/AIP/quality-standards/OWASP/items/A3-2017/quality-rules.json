@@ -3,30 +3,35 @@
         "id": 7824,
         "name": "The exception Exception should never been thrown. Always Subclass Exception and throw the subclassed Classes.",
         "href": "AIP/quality-rules/7824",
+        "status": null,
         "critical": true
     },
     {
         "id": 8238,
         "name": "CWE-501: Trust boundary violation",
         "href": "AIP/quality-rules/8238",
+        "status": null,
         "critical": true
     },
     {
         "id": 1020950,
         "name": "Avoid providing password in Web Service URL",
         "href": "AIP/quality-rules/1020950",
+        "status": null,
         "critical": true
     },
     {
         "id": 1021016,
         "name": "Avoid using MD5 hashes to hash passwords or to encrypt data",
         "href": "AIP/quality-rules/1021016",
+        "status": null,
         "critical": true
     },
     {
         "id": 1022002,
         "name": "Avoid using RSA Cryptographic algorithms without OAEP (Optimal Asymmetric Encryption Padding)",
         "href": "AIP/quality-rules/1022002",
+        "status": null,
         "critical": true
     }
 ]

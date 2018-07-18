@@ -3,6 +3,7 @@
         "id": 7742,
         "name": "CWE-89: Avoid SQL injection vulnerabilities",
         "href": "AIP/quality-rules/7742",
+        "status": null,
         "critical": true
     }
 ]

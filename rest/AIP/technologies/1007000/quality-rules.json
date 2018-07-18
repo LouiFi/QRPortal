@@ -3,612 +3,714 @@
         "id": 1003000,
         "name": "Avoid packages with high number of imports (Flex)",
         "href": "AIP/quality-rules/1003000",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003002,
         "name": "Avoid scripts high number of imports (Flex)",
         "href": "AIP/quality-rules/1003002",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003004,
         "name": "Avoid packages with view components referenced in a model class (Flex)",
         "href": "AIP/quality-rules/1003004",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003006,
         "name": "Avoid scripts with view components referenced in a model class (Flex)",
         "href": "AIP/quality-rules/1003006",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003008,
         "name": "Avoid class duplicated with a SDK class (Flex)",
         "href": "AIP/quality-rules/1003008",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003010,
         "name": "Avoid class that imports an internal class from another function area (Flex)",
         "href": "AIP/quality-rules/1003010",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003012,
         "name": "Avoid using code behind files (Flex)",
         "href": "AIP/quality-rules/1003012",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003014,
         "name": "Avoid nested if statements (Flex)",
         "href": "AIP/quality-rules/1003014",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003016,
         "name": "Avoid long switch case (Flex)",
         "href": "AIP/quality-rules/1003016",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003018,
         "name": "Avoid nested switch statements (Flex)",
         "href": "AIP/quality-rules/1003018",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003020,
         "name": "Avoid empty method (Flex)",
         "href": "AIP/quality-rules/1003020",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003022,
         "name": "Avoid empty statement (Flex)",
         "href": "AIP/quality-rules/1003022",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003024,
         "name": "Avoid empty used private method (Flex)",
         "href": "AIP/quality-rules/1003024",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003026,
         "name": "Avoid too complex methods. (Flex)",
         "href": "AIP/quality-rules/1003026",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003028,
         "name": "Avoid long parameter list (Flex)",
         "href": "AIP/quality-rules/1003028",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003030,
         "name": "Avoid function with unused parameter (Flex)",
         "href": "AIP/quality-rules/1003030",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003032,
         "name": "Avoid unused variable (Flex)",
         "href": "AIP/quality-rules/1003032",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003034,
         "name": "Avoid unused private method (Flex)",
         "href": "AIP/quality-rules/1003034",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003036,
         "name": "Avoid unused private attribute (Flex)",
         "href": "AIP/quality-rules/1003036",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003038,
         "name": "Avoid Cairngorm event name not containing the function area name before the actual event name (Flex)",
         "href": "AIP/quality-rules/1003038",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003040,
         "name": "Avoid Event name not explicitly set (Flex)",
         "href": "AIP/quality-rules/1003040",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003042,
         "name": "Avoid extension with same name as the class name (Flex)",
         "href": "AIP/quality-rules/1003042",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003044,
         "name": "Avoid too short field name (Flex)",
         "href": "AIP/quality-rules/1003044",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003046,
         "name": "Avoid too short variable name (Flex)",
         "href": "AIP/quality-rules/1003046",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003048,
         "name": "Avoid package name in upper case (Flex)",
         "href": "AIP/quality-rules/1003048",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003050,
         "name": "Avoid field names ending with numeric characters (Flex)",
         "href": "AIP/quality-rules/1003050",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003052,
         "name": "Avoid variable names ending with numeric characters (Flex)",
         "href": "AIP/quality-rules/1003052",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003054,
         "name": "Avoid local variable hiding a class property (Flex)",
         "href": "AIP/quality-rules/1003054",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003056,
         "name": "Avoid class name not starting by a majuscule character (Flex)",
         "href": "AIP/quality-rules/1003056",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003058,
         "name": "Avoid field incorrectly named. (Flex)",
         "href": "AIP/quality-rules/1003058",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003060,
         "name": "Avoid variable incorrectly named. (Flex)",
         "href": "AIP/quality-rules/1003060",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003062,
         "name": "Avoid too long line (Flex)",
         "href": "AIP/quality-rules/1003062",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003064,
         "name": "Avoid imports from the same package (Flex)",
         "href": "AIP/quality-rules/1003064",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003066,
         "name": "Avoid logger not correctly formatted (Flex)",
         "href": "AIP/quality-rules/1003066",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003068,
         "name": "Avoid Attribute not documented with AsDocs (Flex)",
         "href": "AIP/quality-rules/1003068",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003070,
         "name": "Avoid class not documented with AsDocs (Flex)",
         "href": "AIP/quality-rules/1003070",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003072,
         "name": "Avoid method not documented with AsDocs (Flex)",
         "href": "AIP/quality-rules/1003072",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003074,
         "name": "Avoid modelLocator that is Bindable at a class level (Flex)",
         "href": "AIP/quality-rules/1003074",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003076,
         "name": "Avoid adding or removing displayable children from updateDisplayList (Flex specific) (Flex)",
         "href": "AIP/quality-rules/1003076",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003078,
         "name": "Avoid popup using dynamic filters (Flex)",
         "href": "AIP/quality-rules/1003078",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003080,
         "name": "Avoid control statement in Constructor (must be as lightweight as possible) (Flex)",
         "href": "AIP/quality-rules/1003080",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003082,
         "name": "Avoid Instantiating a variable in a loop (Flex)",
         "href": "AIP/quality-rules/1003082",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003084,
         "name": "Avoid calls to the StyleManager that do not pass FALSE as the second parameter (Flex)",
         "href": "AIP/quality-rules/1003084",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003086,
         "name": "Avoid empty catch statement (Flex)",
         "href": "AIP/quality-rules/1003086",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003088,
         "name": "Avoid calling Alert.show directly (Flex)",
         "href": "AIP/quality-rules/1003088",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003090,
         "name": "Avoid style block embedded in the MXML file (Flex)",
         "href": "AIP/quality-rules/1003090",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003092,
         "name": "Avoid embedded metadata in class where a stylesheet may be cleaner (Flex)",
         "href": "AIP/quality-rules/1003092",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003094,
         "name": "Avoid embedded metadata in script where a stylesheet may be cleaner (Flex)",
         "href": "AIP/quality-rules/1003094",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003096,
         "name": "Avoid using public static fields (Flex)",
         "href": "AIP/quality-rules/1003096",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003098,
         "name": "Avoid non-static constant fields (Flex)",
         "href": "AIP/quality-rules/1003098",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003100,
         "name": "Avoid protected accessors in a final class (Flex)",
         "href": "AIP/quality-rules/1003100",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003102,
         "name": "Protected static methods should be declared private (Flex)",
         "href": "AIP/quality-rules/1003102",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003104,
         "name": "Avoid Parsley metadata placed on inaccessible members. (Flex)",
         "href": "AIP/quality-rules/1003104",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003106,
         "name": "Avoid too many methods in class (Flex)",
         "href": "AIP/quality-rules/1003106",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003108,
         "name": "Avoid too many methods in script (Flex)",
         "href": "AIP/quality-rules/1003108",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003110,
         "name": "Avoid function that are too long (Flex)",
         "href": "AIP/quality-rules/1003110",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003112,
         "name": "Avoid too many public fields or functions (Flex)",
         "href": "AIP/quality-rules/1003112",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003114,
         "name": "Avoid class with too many fields (Flex)",
         "href": "AIP/quality-rules/1003114",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003116,
         "name": "Avoid class (in script) with too many fields (Flex)",
         "href": "AIP/quality-rules/1003116",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003118,
         "name": "Avoid Value Objects with too many fields (Flex)",
         "href": "AIP/quality-rules/1003118",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003120,
         "name": "Avoid ModelLocator not only accessible from the main application file (Flex)",
         "href": "AIP/quality-rules/1003120",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003122,
         "name": "Avoid FrontController that adds all its commands within the Controller constructor (Flex)",
         "href": "AIP/quality-rules/1003122",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003124,
         "name": "Avoid empty if statements (Flex)",
         "href": "AIP/quality-rules/1003124",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003126,
         "name": "Avoid method with more than one exit point (Flex)",
         "href": "AIP/quality-rules/1003126",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003128,
         "name": "Avoid using the with keyword (Flex)",
         "href": "AIP/quality-rules/1003128",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003130,
         "name": "Avoid managed events without matching [Event] metadata (Flex)",
         "href": "AIP/quality-rules/1003130",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003132,
         "name": "Avoid switch statement with too few branches (Flex)",
         "href": "AIP/quality-rules/1003132",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003134,
         "name": "Avoid identical switch cases (Flex)",
         "href": "AIP/quality-rules/1003134",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003136,
         "name": "Avoid test that does not contain at least one assertion (Flex)",
         "href": "AIP/quality-rules/1003136",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003138,
         "name": "Avoid BindingUtils class that uses hard coded strings (Flex)",
         "href": "AIP/quality-rules/1003138",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003140,
         "name": "Avoid ChangeWatcher class that uses hard coded strings to specify the attribute name, to listen to. Prefer listening to events or setters (Flex)",
         "href": "AIP/quality-rules/1003140",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003142,
         "name": "Avoid CairngormEventDispatcher called explicitly (Flex)",
         "href": "AIP/quality-rules/1003142",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003144,
         "name": "Avoid more than one reference of ModelLocator per class (Flex)",
         "href": "AIP/quality-rules/1003144",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003146,
         "name": "Avoid calling callLater explicitly (Flex specific) (Flex)",
         "href": "AIP/quality-rules/1003146",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003148,
         "name": "Avoid clone event not overriden in a custom event (Flex)",
         "href": "AIP/quality-rules/1003148",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003150,
         "name": "Avoid event dispatched in a constructor (Flex)",
         "href": "AIP/quality-rules/1003150",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003152,
         "name": "Avoid DispatchEvent function not dispatching constant strings (Flex)",
         "href": "AIP/quality-rules/1003152",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003154,
         "name": "Avoid addEventListener containing hard coded strings (Flex)",
         "href": "AIP/quality-rules/1003154",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003156,
         "name": "Avoid type not found within analysis scope (Flex)",
         "href": "AIP/quality-rules/1003156",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003158,
         "name": "Avoid unspecified event type (Flex)",
         "href": "AIP/quality-rules/1003158",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003160,
         "name": "Avoid test containing a hard coded boolean value. (Flex)",
         "href": "AIP/quality-rules/1003160",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003162,
         "name": "Avoid dynamic class (Flex)",
         "href": "AIP/quality-rules/1003162",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003164,
         "name": "Avoid using Object class in fields (Flex)",
         "href": "AIP/quality-rules/1003164",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003166,
         "name": "Avoid using Object class in variables (Flex)",
         "href": "AIP/quality-rules/1003166",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003168,
         "name": "Avoid using Object class in methods' parameters (Flex)",
         "href": "AIP/quality-rules/1003168",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003172,
         "name": "Avoid * and use strongly typed objects instead in fields (Flex)",
         "href": "AIP/quality-rules/1003172",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003174,
         "name": "Avoid * and use strongly typed objects instead in variables (Flex)",
         "href": "AIP/quality-rules/1003174",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003176,
         "name": "Avoid ArrayElementType metadata not specified for the array-type field (Flex)",
         "href": "AIP/quality-rules/1003176",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003178,
         "name": "Avoid incorrect signature of the message interceptor. (Flex)",
         "href": "AIP/quality-rules/1003178",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003180,
         "name": "Avoid packages with misplaced metadata (Flex)",
         "href": "AIP/quality-rules/1003180",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003182,
         "name": "Avoid classes with misplaced metadata (Flex)",
         "href": "AIP/quality-rules/1003182",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003184,
         "name": "Avoid type metadata argument redundant with the handler argument type (Flex)",
         "href": "AIP/quality-rules/1003184",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003186,
         "name": "Avoid method metadata argument redundant with the handler name (Flex)",
         "href": "AIP/quality-rules/1003186",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003188,
         "name": "Avoid packages with unknown metadata attribute (Flex)",
         "href": "AIP/quality-rules/1003188",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003190,
         "name": "Avoid classes with unknown metadata attribute (Flex)",
         "href": "AIP/quality-rules/1003190",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003192,
         "name": "Avoid globally bindable classes. (Flex)",
         "href": "AIP/quality-rules/1003192",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003194,
         "name": "Avoid constructor with a return type (Flex)",
         "href": "AIP/quality-rules/1003194",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003196,
         "name": "Avoid switch statement without a default statement (Flex)",
         "href": "AIP/quality-rules/1003196",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003198,
         "name": "Avoid MXML component with more than 1 public variable (Flex)",
         "href": "AIP/quality-rules/1003198",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003200,
         "name": "Avoid MXML component with more than 2 public variables (Flex)",
         "href": "AIP/quality-rules/1003200",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003202,
         "name": "Avoid public variables inside a custom event (Flex)",
         "href": "AIP/quality-rules/1003202",
+        "status": null,
         "critical": false
     },
     {
         "id": 1003204,
         "name": "Avoid too long script block (Flex)",
         "href": "AIP/quality-rules/1003204",
+        "status": null,
         "critical": false
     }
 ]

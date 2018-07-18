@@ -1,5 +1,5 @@
 import { connect } from 'react-redux';
-import { toggleNavBar, setSelectedNavItem, openMenuElement } from '../actions/index';
+import { toggleNavBar, setSelectedNavItem, openMenuElement, updateVerticalArray } from '../actions/index';
 import NavBar from '../components/navbar';
 
 const mapStateToProps = (state) => {
@@ -22,7 +22,7 @@ const mapDispatchToProps = (dispatch) => {
       dispatch(setSelectedNavItem(ref));
       console.log( props );
       console.log( title );
-      console.log( data );
+      if (Array.isArray( data )) dispatch( updateVerticalArray(data) );
     }
   };
 };

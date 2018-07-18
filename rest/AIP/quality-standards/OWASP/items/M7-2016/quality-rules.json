@@ -3,60 +3,70 @@
         "id": 1050002,
         "name": "Avoid using NSString stringWithFormat on behalf of NSURL instance",
         "href": "AIP/quality-rules/1050002",
+        "status": null,
         "critical": true
     },
     {
         "id": 1050004,
         "name": "Avoid using NSPredicate predicateWithFormat",
         "href": "AIP/quality-rules/1050004",
+        "status": null,
         "critical": true
     },
     {
         "id": 1050006,
         "name": "Avoid using NSException raise:format: and raise:format:arguments:",
         "href": "AIP/quality-rules/1050006",
+        "status": null,
         "critical": true
     },
     {
         "id": 1050008,
         "name": "Avoid using NSMutableString appendFormat: on behalf of NSURL instance",
         "href": "AIP/quality-rules/1050008",
+        "status": null,
         "critical": true
     },
     {
         "id": 1050012,
         "name": "Objective-C interface overrides the isEqual: method but not the hash method",
         "href": "AIP/quality-rules/1050012",
+        "status": null,
         "critical": true
     },
     {
         "id": 1050016,
         "name": "Never use strcat() function",
         "href": "AIP/quality-rules/1050016",
+        "status": null,
         "critical": true
     },
     {
         "id": 1050018,
         "name": "Never use strcpy() function",
         "href": "AIP/quality-rules/1050018",
+        "status": null,
         "critical": true
     },
     {
         "id": 1050020,
         "name": "Avoid return statement in @finally block",
         "href": "AIP/quality-rules/1050020",
+        "status": null,
         "critical": true
     },
     {
         "id": 1050026,
         "name": "Avoid using non thread-safe Objective-C singleton pattern",
         "href": "AIP/quality-rules/1050026",
+        "status": null,
         "critical": true
     },
     {
         "id": 1050030,
         "name": "Ensure the Objective-C error condition check is not fragile",
         "href": "AIP/quality-rules/1050030",
+        "status": null,
         "critical": true
     }
 ]

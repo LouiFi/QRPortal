@@ -3,24 +3,28 @@
         "id": 1050022,
         "name": "Avoid using deprecated SSL protocol",
         "href": "AIP/quality-rules/1050022",
+        "status": null,
         "critical": true
     },
     {
         "id": 1050044,
         "name": "Avoid weak encryption providing sufficient key size",
         "href": "AIP/quality-rules/1050044",
+        "status": null,
         "critical": true
     },
     {
         "id": 1050046,
         "name": "Avoid weak encryption algorithm",
         "href": "AIP/quality-rules/1050046",
+        "status": null,
         "critical": false
     },
     {
         "id": 1050050,
         "name": "Avoid using cryptography hash without salt",
         "href": "AIP/quality-rules/1050050",
+        "status": null,
         "critical": true
     }
 ]
