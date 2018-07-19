@@ -7,7 +7,7 @@ const ArrayElementData = Struct('name', 'critical');
 const headerData = Struct('name');
 export default class VerticalArray extends React.PureComponent{
   render(){
-    return (<div className={createClassName('flxc', 'flxGrw1', 'ovfyauto')}>
+    return (<div className={createClassName('flxc', 'flxGrw1', 'ovfy')}>
       <table>
         <tbody>
           <ArrayElement onItemClick={this.props.onHeaderItemClick} values={this.props.headers} header={true}>{this.props.headers.map( hVal => new headerData(hVal))}</ArrayElement>

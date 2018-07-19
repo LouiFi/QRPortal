@@ -19,8 +19,10 @@ body {
 .std-bgc{background-color: #F2F2F2;}
 .jsb{ justify-content: space-between;}
 .minh50p{ min-height: 50px }
-.ovfy{ overflow-x: hidden; overflow-y: auto}
+.ovfy{ overflow-x: hidden; overflow-y: auto;}
+.ovfy::-webkit-scrollbar{ width: 5px}
+.ovfy::-webkit-scrollbar-thumb{ border-radius: 10px; background: #666;}
+.ovfy::-webkit-scrollbar-track { background: #ddd; }
 .vh100{ height: 100vh; }
 .txtcenter{ text-align: center}
-.ovfyauto{ overflow-y: auto; overflow-x: hidden}
 .fright{ float: right};

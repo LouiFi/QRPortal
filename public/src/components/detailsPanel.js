@@ -26,7 +26,7 @@ export default class DetailsPanel extends React.PureComponent{
       /*{outputblock}*/
 
       return (
-        <div className={createClassName('flxc', 'flxShink4', 'ovfyauto')}>
+        <div className={createClassName('flxc', 'flxShnk4', 'ovfy')}>
           {criticalblock}
           {weightblock}
           <h2 className='ruleTitle'>{this.props.data.name}</h2>
