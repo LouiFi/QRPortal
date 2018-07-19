@@ -5,3 +5,4 @@ export { default as ContentBody } from './contentBody';
 export { default as VerticalArray } from './verticalArray';
 export { default as ArrayCell } from './arrayCell';
 export { default as ArrayElement } from './arrayElement';
+export { default as DetailsPanel } from './detailsPanel';

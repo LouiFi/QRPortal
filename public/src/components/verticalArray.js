@@ -12,7 +12,7 @@ export default class VerticalArray extends React.PureComponent{
         <tbody>
           <ArrayElement onItemClick={this.props.onHeaderItemClick} values={this.props.headers} header={true}>{this.props.headers.map( hVal => new headerData(hVal))}</ArrayElement>
           {this.props.children.map( obj => 
-            <ArrayElement values={obj} onItemClick={this.props.onItemClick} header={false}>
+            <ArrayElement onItemClick={() => this.props.onItemClick(obj)} header={false}>
               {this.props.values.map( key => new ArrayElementData((key !== 'critical' ? obj[key] : undefined), key === 'critical' ? obj.critical : false ) )}
             </ArrayElement>)}
         </tbody>

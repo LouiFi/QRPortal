@@ -1,6 +1,7 @@
 import { connect } from 'react-redux';
-import { toggleNavBar, setSelectedNavItem, openMenuElement, updateVerticalArray } from '../actions/index';
+import { toggleNavBar, setSelectedNavItem, openMenuElement, updatePrimaryVerticalArray } from '../actions/index';
 import NavBar from '../components/navbar';
+import Axios from 'axios';
 
 const mapStateToProps = (state) => {
   return {
@@ -18,11 +19,19 @@ const mapDispatchToProps = (dispatch) => {
     onMenuOpen: ( index ) => {
       dispatch( openMenuElement(index) );
     },
-    onItemClick: ( ref, props, title, data ) => {
+    onItemClick: ( ref, href, title ) => {
       dispatch(setSelectedNavItem(ref));
-      console.log( props );
-      console.log( title );
-      if (Array.isArray( data )) dispatch( updateVerticalArray(data) );
+      if( /(\/quality-standards\/)/ig.test(href) ) href += '/categories';
+      console.log(title);
+      fetch('rest?q='+href)
+        .catch(err => console.log(err))
+        .then(res => res.json())
+        .then( data => {
+          if (Array.isArray( data )) dispatch( updatePrimaryVerticalArray({
+            headers: ['ID', 'Name', 'Critical'],
+            keys: ['id', 'name', 'critical'],
+            data: data}) );
+        });
     }
   };
 };

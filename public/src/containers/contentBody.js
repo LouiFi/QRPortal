@@ -1,16 +1,24 @@
 import { connect } from 'react-redux';
 import ContentBody from '../components/contentBody';
+import { updateDetails } from '../actions/index';
 
 const mapStateToProps = (state) => {
   return {
-    arrayValues: state.content.array
+    primaryArray: state.content.primaryArray, 
+    secondaryArray: state.content.secondaryArray ,
+    details: state.content.details
   };
 };
 
 const mapDispatchToProps = (dispatch) => {
   return {
-    onItemClick: (data) => {
-      console.log(data);
+    onPrimaryItemClick: (data) => {
+      if (data.href) {
+        fetch( 'rest?q=' + data.href )
+          .catch(err => console.log(err))
+          .then(res => res.json())
+          .then(data => dispatch(updateDetails(data)));
+      }
     }
   };
 };

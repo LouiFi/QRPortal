@@ -27,3 +27,9 @@ export function Struct( ...composedStructure ){
 
   return constructor;
 }
+
+export function ConstructArray( ...elements ){
+  return elements.filter( e =>{
+    if( e !== undefined && e !== null ) return e;
+  });
+}

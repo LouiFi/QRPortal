@@ -9,10 +9,13 @@ body {
 
 .blk{display: block;}
 .iln{display: inline;}
+
 .flxr{display: flex; flex-direction: row}
 .flxc{display: flex; flex-direction: column}
 .flxShnk1{ flex-shrink: 1}
+.flxShnk4{ flex-shrink: 4}
 .flxGrw1{ flex-grow: 1}
+
 .std-bgc{background-color: #F2F2F2;}
 .jsb{ justify-content: space-between;}
 .minh50p{ min-height: 50px }
@@ -20,3 +23,4 @@ body {
 .vh100{ height: 100vh; }
 .txtcenter{ text-align: center}
 .ovfyauto{ overflow-y: auto; overflow-x: hidden}
+.fright{ float: right};
