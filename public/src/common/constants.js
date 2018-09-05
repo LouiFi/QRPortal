@@ -14,7 +14,8 @@ export const COMMON_CLASSES = {
   overflowY: 'ovfy',
   fontWeightHeavy: 'qrp_fw800',
   width100pc: 'qrp_w100',
-  critical: 'qrp_critical'
+  critical: 'qrp_critical',
+  arraySelected:'qrp_lselected'
 };
 
 export const API_REQUEST = 'rest?q=';

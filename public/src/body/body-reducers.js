@@ -3,12 +3,8 @@ import * as ACTIONTYPES from './body-actions-type';
 
 const initialState = {
   view: NAVIGATION_VIEW,
+  listCount: 0,
   nav: { data: [], title: undefined, loading: false },
-  list:{
-    count: 0,
-    content:{ data: [], loading: false },
-    expandedContent: { data: [], loading: false }
-  }
 };
 
 const contentBodyReducer = (state = initialState, action) => {
@@ -57,73 +53,8 @@ const contentBodyReducer = (state = initialState, action) => {
   case ACTIONTYPES.SET_LIST_COUNT:
     return {
       ...state,
-      list: {
-        ...state.list,
-        count: action.payload.count,
-      }
+      listCount: action.payload.count
     };
-  case ACTIONTYPES.FETCH_LIST_DATA:{
-    return {
-      ...state,
-      list: {
-        ...state.list,
-        content: { data: [], loading: true }
-      }
-    };
-  }
-  case ACTIONTYPES.SET_LIST_DATA:
-    return {
-      ...state,
-      list: {
-        ...state.list,
-        content: { ...action.payload },
-        expandedContent: { data: [], loading: false }
-      }
-    };
-  case ACTIONTYPES.FETCH_EXPANDED_LIST_DATA: {
-    return {
-      ...state,
-      list: {
-        ...state.list,
-        expandedContent: { data: [], loading: true }
-      }
-    };
-  }
-  case ACTIONTYPES.SET_EXPANDED_LIST_DATA:
-    return {
-      ...state,
-      list: {
-        ...state.list,
-        expandedContent: { ...action.payload }
-      }
-    };
-  case ACTIONTYPES.CLEAR_EXPANDED_LIST_DATA:
-    return {
-      ...state,
-      list:{
-        ...state.list,
-        expandedContent: {data: [], loading: false}
-      }
-    };
-  case ACTIONTYPES.FAILED_TO_FETCH_LIST_DATA: {
-    return {
-      ...state,
-      list: {
-        ...state.list,
-        content: {data: [], loading: false, error: true, errmsg: ERROR_OCCURRED},
-        expandedContent: {data: [], loading: false}
-      }
-    };
-  }
-  case ACTIONTYPES.FAILED_TO_FETCH_EXPANDED_LIST_DATA: {
-    return {
-      ...state,
-      list: {
-        ...state.list,
-        expandedContent: {data: [], loading: false, error: true, errmsg: ERROR_OCCURRED}
-      }
-    };
-  }
   default:
     return state;
   }

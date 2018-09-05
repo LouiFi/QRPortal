@@ -4,7 +4,7 @@
     "name": "com.castsoftware.springdata",
     "href": "AIP/extensions/com.castsoftware.springdata",
     "title": "Spring Data Framework",
-    "description": "This extension provides support for Spring Data. It handles the JPA repository APIs used in the code. It creates the link between the method calling the JPA api to the database.",
+    "description": "This extension provides support for Spring Data. It handles the JPA repository APIs used in the code. It creates the link between the method calling the JPA api to the database. It handles the QueryDsl part also. It forms link between the method using querydsl to the involved JPA entity",
     "versions": {
         "name": "versions from latest to oldest",
         "href": "AIP/extensions/com.castsoftware.springdata/versions"

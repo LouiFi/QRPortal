@@ -1779,7 +1779,7 @@
     },
     {
         "id": 1040008,
-        "name": "Ensure that form login is declared after requesting authorization and authentication",
+        "name": "Ensure that login form is declared after requesting authorization and authentication",
         "href": "AIP/quality-rules/1040008",
         "status": null,
         "critical": true
@@ -1793,7 +1793,7 @@
     },
     {
         "id": 1040012,
-        "name": "Ensure that HTTP Session has been Invalidating during logout",
+        "name": "Ensure that HTTP Session is invalidated during logout",
         "href": "AIP/quality-rules/1040012",
         "status": null,
         "critical": true

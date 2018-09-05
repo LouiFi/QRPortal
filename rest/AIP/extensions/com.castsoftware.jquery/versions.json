@@ -1,5 +1,9 @@
 [
     {
+        "name": "1.7.2-funcrel",
+        "href": "AIP/extensions/com.castsoftware.jquery/versions/1.7.2-funcrel"
+    },
+    {
         "name": "1.7.1-funcrel",
         "href": "AIP/extensions/com.castsoftware.jquery/versions/1.7.1-funcrel"
     },

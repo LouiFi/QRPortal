@@ -217,6 +217,20 @@
         "critical": true
     },
     {
+        "id": 1050064,
+        "name": "Avoid using risky cryptographic hash",
+        "href": "AIP/quality-rules/1050064",
+        "status": null,
+        "critical": true
+    },
+    {
+        "id": 1050066,
+        "name": "Avoid using unsecured cookie",
+        "href": "AIP/quality-rules/1050066",
+        "status": null,
+        "critical": true
+    },
+    {
         "id": 1101036,
         "name": "Use ANSI standard operators in SQL WHERE clauses",
         "href": "AIP/quality-rules/1101036",

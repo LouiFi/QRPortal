@@ -1,7 +1,7 @@
 [
     {
         "qualityModel": false,
-        "transactionsConfiguration": false,
+        "transactionsConfiguration": true,
         "name": "com.castsoftware.android",
         "href": "AIP/extensions/com.castsoftware.android"
     },
@@ -343,7 +343,7 @@
     },
     {
         "qualityModel": false,
-        "transactionsConfiguration": false,
+        "transactionsConfiguration": true,
         "name": "com.castsoftware.swift",
         "href": "AIP/extensions/com.castsoftware.swift"
     },

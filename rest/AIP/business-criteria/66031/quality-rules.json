@@ -6777,7 +6777,7 @@
     },
     {
         "id": 1040008,
-        "name": "Ensure that form login is declared after requesting authorization and authentication",
+        "name": "Ensure that login form is declared after requesting authorization and authentication",
         "href": "AIP/quality-rules/1040008",
         "status": null,
         "critical": true
@@ -6791,7 +6791,7 @@
     },
     {
         "id": 1040012,
-        "name": "Ensure that HTTP Session has been Invalidating during logout",
+        "name": "Ensure that HTTP Session is invalidated during logout",
         "href": "AIP/quality-rules/1040012",
         "status": null,
         "critical": true
@@ -6968,6 +6968,20 @@
         "id": 1050062,
         "name": "Avoid empty catch blocks",
         "href": "AIP/quality-rules/1050062",
+        "status": null,
+        "critical": true
+    },
+    {
+        "id": 1050064,
+        "name": "Avoid using risky cryptographic hash",
+        "href": "AIP/quality-rules/1050064",
+        "status": null,
+        "critical": true
+    },
+    {
+        "id": 1050066,
+        "name": "Avoid using unsecured cookie",
+        "href": "AIP/quality-rules/1050066",
         "status": null,
         "critical": true
     },

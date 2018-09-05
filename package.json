@@ -1,6 +1,6 @@
 {
   "name": "qrportal",
-  "version": "0.4.9",
+  "version": "0.4.10",
   "description": "CAST Quality Rules Portal",
   "engines": {
     "node": "8.9.1"

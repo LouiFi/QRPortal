@@ -5,7 +5,8 @@ export const CLASSES = {
   detailsArea: 'qrp_details_area',
   contentSpace: 'qrp_contentSpace',
   maxNavHeight: 'qrp_menuNav_height',
-  maxTileHeight: 'qrp_maxtileNav_height'
+  maxTileHeight: 'qrp_maxtileNav_height',
+  contentBodyChild: 'qrp_bcontentCntr'
 };
 
 export const ERROR_OCCURRED = 'Sorry An Error Occurred';

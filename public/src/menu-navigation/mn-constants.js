@@ -3,12 +3,12 @@ export const CLASSES = {
 };
 
 export const ITEMS = {
-  TECHNOLOGIES: 'TECHNOLOGIES',
-  EXTENSIONS: 'SOURCES',
+  TECHNOLOGIES: 'Technologies',
+  EXTENSIONS: 'Sources',
   BUSINESSCRITERIA: 'CAST',
   OWASP: 'OWASP',
   CISQ: 'CISQ',
-  STANDARDS: 'STANDARDS'
+  STANDARDS: 'Standards'
 };
 
 export const AIP_VERSIONS_EXT = {

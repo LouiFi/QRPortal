@@ -5,3 +5,4 @@
 .qrp_varrintflt > input{border: none; margin: 12px 0; height: 40px; font-size: 20px; line-height: 40px; color: #808080;  padding: 0 16px; outline: none; background-color: #F2F2F2;}
 td { padding: 6px }
 table{ text-align: left}
+.qrp_lselected{ font-weight: 800 }

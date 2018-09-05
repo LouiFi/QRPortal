@@ -1,0 +1,12 @@
+{
+    "extension": {
+        "name": "com.castsoftware.ibatis",
+        "href": "AIP/extensions/com.castsoftware.ibatis"
+    },
+    "name": "1.0.0-beta1",
+    "href": "AIP/extensions/com.castsoftware.ibatis/versions/1.0.0-beta1",
+    "publishedTime": null,
+    "qualityModel": false,
+    "transactionsConfiguration": false,
+    "qualityRules": null
+}

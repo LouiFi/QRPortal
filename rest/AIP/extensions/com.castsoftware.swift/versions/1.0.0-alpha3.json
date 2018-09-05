@@ -1,0 +1,12 @@
+{
+    "extension": {
+        "name": "com.castsoftware.swift",
+        "href": "AIP/extensions/com.castsoftware.swift"
+    },
+    "name": "1.0.0-alpha3",
+    "href": "AIP/extensions/com.castsoftware.swift/versions/1.0.0-alpha3",
+    "publishedTime": null,
+    "qualityModel": false,
+    "transactionsConfiguration": true,
+    "qualityRules": null
+}

@@ -3,8 +3,8 @@
     "transactionsConfiguration": false,
     "name": "com.castsoftware.springsecurity",
     "href": "AIP/extensions/com.castsoftware.springsecurity",
-    "title": "SPRING SECURITY",
-    "description": "This Extension provides support for spring security Quality Rules",
+    "title": "Spring Security",
+    "description": "This new extension provides a Set of Rule to check Spring Security Aspects as Authentication, CSRF protection and others.\nThese rules are Compliant with CWE and OWASP T0P 10 Standards for security",
     "versions": {
         "name": "versions from latest to oldest",
         "href": "AIP/extensions/com.castsoftware.springsecurity/versions"

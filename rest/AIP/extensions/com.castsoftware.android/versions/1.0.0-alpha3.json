@@ -1,0 +1,12 @@
+{
+    "extension": {
+        "name": "com.castsoftware.android",
+        "href": "AIP/extensions/com.castsoftware.android"
+    },
+    "name": "1.0.0-alpha3",
+    "href": "AIP/extensions/com.castsoftware.android/versions/1.0.0-alpha3",
+    "publishedTime": null,
+    "qualityModel": false,
+    "transactionsConfiguration": true,
+    "qualityRules": null
+}

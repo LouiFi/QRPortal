@@ -1,5 +1,9 @@
 [
     {
+        "name": "1.0.0-beta1",
+        "href": "AIP/extensions/com.castsoftware.deltatool/versions/1.0.0-beta1"
+    },
+    {
         "name": "1.0.0-alpha3",
         "href": "AIP/extensions/com.castsoftware.deltatool/versions/1.0.0-alpha3"
     },

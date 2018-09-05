@@ -1,0 +1,12 @@
+{
+    "extension": {
+        "name": "com.castsoftware.springmvc",
+        "href": "AIP/extensions/com.castsoftware.springmvc"
+    },
+    "name": "1.5.1",
+    "href": "AIP/extensions/com.castsoftware.springmvc/versions/1.5.1",
+    "publishedTime": null,
+    "qualityModel": false,
+    "transactionsConfiguration": true,
+    "qualityRules": null
+}

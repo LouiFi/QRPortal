@@ -134,7 +134,7 @@ export const fetchQualityStandardsListData = ( url ) => {
   return ( dispatch ) => {
     dispatch(fetchingData(ACTIONTYPES.FETCH_LIST_DATA));
     return fetchQualityStandardList(url).then(
-      data => dispatch(setListData( data )),
+      data => dispatch(setExpandedListData( data )),
       err => dispatch(errOnDataFetch(err, ACTIONTYPES.FAILED_TO_FETCH_LIST_DATA, url))
     );
   };
@@ -150,8 +150,8 @@ export const fetchBusinessCriteriaListData = ( url ) => {
   };
 };
 
-export const clearExpandedListData = () =>{
+export const clearListData = () =>{
   return {
-    type: ACTIONTYPES.CLEAR_EXPANDED_LIST_DATA
+    type: ACTIONTYPES.CLEAR_LIST_DATA
   };
 };

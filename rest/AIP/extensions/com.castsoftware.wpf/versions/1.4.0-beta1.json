@@ -1,0 +1,12 @@
+{
+    "extension": {
+        "name": "com.castsoftware.wpf",
+        "href": "AIP/extensions/com.castsoftware.wpf"
+    },
+    "name": "1.4.0-beta1",
+    "href": "AIP/extensions/com.castsoftware.wpf/versions/1.4.0-beta1",
+    "publishedTime": null,
+    "qualityModel": false,
+    "transactionsConfiguration": true,
+    "qualityRules": null
+}

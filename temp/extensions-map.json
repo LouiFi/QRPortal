@@ -1,6 +1,10 @@
 {
   "AIP/extensions/com.castsoftware.angularjs": [
     {
+      "name": "1.7.2-funcrel",
+      "href": "AIP/extensions/com.castsoftware.angularjs/versions/1.7.2-funcrel"
+    },
+    {
       "name": "1.7.1-funcrel",
       "href": "AIP/extensions/com.castsoftware.angularjs/versions/1.7.1-funcrel"
     },
@@ -42,6 +46,10 @@
     }
   ],
   "AIP/extensions/com.castsoftware.cfamily": [
+    {
+      "name": "1.5.0-beta1",
+      "href": "AIP/extensions/com.castsoftware.cfamily/versions/1.5.0-beta1"
+    },
     {
       "name": "1.4.0-funcrel",
       "href": "AIP/extensions/com.castsoftware.cfamily/versions/1.4.0-funcrel"
@@ -121,12 +129,20 @@
   ],
   "AIP/extensions/com.castsoftware.html5": [
     {
+      "name": "1.9.1-funcrel",
+      "href": "AIP/extensions/com.castsoftware.html5/versions/1.9.1-funcrel"
+    },
+    {
       "name": "1.9.0-funcrel",
       "href": "AIP/extensions/com.castsoftware.html5/versions/1.9.0-funcrel"
     },
     {
       "name": "1.8.0-funcrel",
       "href": "AIP/extensions/com.castsoftware.html5/versions/1.8.0-funcrel"
+    },
+    {
+      "name": "1.7.4",
+      "href": "AIP/extensions/com.castsoftware.html5/versions/1.7.4"
     },
     {
       "name": "1.7.3",
@@ -205,11 +221,19 @@
   ],
   "AIP/extensions/com.castsoftware.jeerules": [
     {
+      "name": "1.0.0-beta1",
+      "href": "AIP/extensions/com.castsoftware.jeerules/versions/1.0.0-beta1"
+    },
+    {
       "name": "1.0.0-alpha1",
       "href": "AIP/extensions/com.castsoftware.jeerules/versions/1.0.0-alpha1"
     }
   ],
   "AIP/extensions/com.castsoftware.jquery": [
+    {
+      "name": "1.7.2-funcrel",
+      "href": "AIP/extensions/com.castsoftware.jquery/versions/1.7.2-funcrel"
+    },
     {
       "name": "1.7.1-funcrel",
       "href": "AIP/extensions/com.castsoftware.jquery/versions/1.7.1-funcrel"
@@ -421,6 +445,10 @@
   ],
   "AIP/extensions/com.castsoftware.python": [
     {
+      "name": "1.2.0-beta1",
+      "href": "AIP/extensions/com.castsoftware.python/versions/1.2.0-beta1"
+    },
+    {
       "name": "1.1.0-funcrel",
       "href": "AIP/extensions/com.castsoftware.python/versions/1.1.0-funcrel"
     },
@@ -525,6 +553,10 @@
   ],
   "AIP/extensions/com.castsoftware.springsecurity": [
     {
+      "name": "1.0.0-alpha3",
+      "href": "AIP/extensions/com.castsoftware.springsecurity/versions/1.0.0-alpha3"
+    },
+    {
       "name": "1.0.0-alpha2",
       "href": "AIP/extensions/com.castsoftware.springsecurity/versions/1.0.0-alpha2"
     },
@@ -549,6 +581,10 @@
     {
       "name": "2.4.0-funcrel",
       "href": "AIP/extensions/com.castsoftware.sqlanalyzer/versions/2.4.0-funcrel"
+    },
+    {
+      "name": "2.3.7",
+      "href": "AIP/extensions/com.castsoftware.sqlanalyzer/versions/2.3.7"
     },
     {
       "name": "2.3.6",
