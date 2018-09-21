@@ -13,6 +13,6 @@ table thead, table tbody { display: block;}
 table tbody{border-right: 1px solid rgba(0,0,0,0.2); border-image:linear-gradient(to bottom, rgba(0,0,0,0.2), rgba(0, 0, 0, 0)) 1 100%;}
 table thead{height:48px; line-height:48px; border-bottom: 1px solid rgba(0,0,0,0.2)}
 tbody tr {height:48px}
-.qrp_tbodymxh{ max-height: calc(100vh - 88px); font-size: 14px;}
+.qrp_tbodymxh{ max-height: calc(100vh - 203px); font-size: 14px;}
 .qrp_tCtr{z-index: 1;}
 .qrp_hfltIcon{ cursor: pointer; color: black; padding-right: 16px; background: url("/img/filter.svg") no-repeat center center; background-size: 140%; height:40px; display: inline-block; float: right; margin-right: 15px;}

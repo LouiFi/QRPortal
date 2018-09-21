@@ -1,2 +1,2 @@
 .qrp_dd_cmp_MainCntr{ display: flex; flex-direction: row;}
-.qrp_dd_cmp_cntr{ width: 30px; height: 30px; margin-top: 5px; cursor: pointer;}
+.qrp_dd_cmp_cntr{ width: 30px; height: 30px; margin: 5px 20px; cursor: pointer;}
